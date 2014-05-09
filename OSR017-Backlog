@@ -1,0 +1,102 @@
+header
+Podcast: Open Science Radio
+Episode: 17
+Episode Title: OSR017 Vom Backlog in die Abschweifungen
+Starttime: 30.04.2014 21:45:00
+Endtime: 30.04.2014 23:40:00 
+Podcaster: Matthias Fromm und Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+
+00:00:00.000 Begrüßung #chapter
+
+KonScience <http://www.konscience.de/> #link
+
+00:03:18.927 Nachtrag zur 16. Folge #chapter
+
+Teilen von Referenzen;
+CiteULike; <http://www.citeulike.org/> #link
+Connotea; <http://www.connotea.org/> #link
+Zotero; <https://www.zotero.org/> #link
+Mendeley; <http://www.mendeley.com/> #link
+Jason Hoyt; <https://peerj.com/about/#jason-hoyt> #link
+Zotero hat neues Funding bekommen; <https://www.zotero.org/blog/funding-for-altmetrics-research-and-expanded-api/> #link
+Errata von Konrad: 2014 wird hoffentlich das Jahr der kollaborativen Schreibtools für die Wissenschaft;
+JabRef; <http://jabref.sourceforge.net/> #link
+Hinweis von Konrad - sein Artikel ist beim Journal Bioinformatics eingereicht und auf dem Preprint-Server bioRXive vorveröffentlicht;
+Bioinformatics; <http://bioinformatics.oxfordjournals.org/> #link
+bioRxive; <http://biorxiv.org/> #link
+Open Science Lab der TIB Hannover; <http://blogs.tib.eu/wp/opensciencelab/> #link
+Handbuch CoScience; <http://handbuch.io/w/Handbuch_CoScience> #link
+Booksprint; <http://www.booksprints.net/about/> #glossary
+Opening Science; <http://www.openingscience.org/get-the-book/> #link
+SpringerOpen; <http://www.springeropen.com/> #link
+Open Washing; <http://blog.okfn.org/2014/03/10/open-washing-the-difference-between-opening-your-data-and-simply-making-them-available/> #link
+Publikation "Implementing Reproducible Research"; <https://osf.io/s9tya/> #link
+Victoria Stodden; <https://www.stanford.edu/~vcs/Bio.html> #link
+UsefulChem; <http://usefulchem.wikispaces.com/> #link
+
+00:24:53.178 Backlog abarbeiten und diverse Abschweifungen #chapter
+
+Open Source Malaria; <http://opensourcemalaria.org/> #link
+Citizen Science; <https://en.wikipedia.org/wiki/Citizen_science> #glossary
+Open Source Malaria bei GitHub; <https://github.com/OpenSourceMalaria> #link
+Open Science Framework (OSF); <https://osf.io/> #link
+R Library für das OSF; <https://github.com/CenterForOpenScience/osfr> #link
+Gittip; <https://www.gittip.com/> #link
+Flattr; <https://flattr.com/> #link
+Centre for Open Science (COS); <http://centerforopenscience.org/> #link
+COS auf Gittip; <https://www.gittip.com/cos.io/> #link
+Peter Sunde; <https://en.wikipedia.org/wiki/Peter_Sunde> #link
+Tim Pritlove; <https://en.wikipedia.org/wiki/Tim_Pritlove> #link
+Holger Klein; <https://de.wikipedia.org/wiki/Holger_Klein> #link
+Netzpolitik.org; <https://netzpolitik.org/> #link
+TAZ; <http://www.taz.de/> #link
+Funktionsweise von Gittip; <https://www.gittip.com/about/> #link
+Gittip Stats; <https://www.gittip.com/about/stats.html> #link
+Gittip Charts; <https://www.gittip.com/about/charts.html> #link
+Sage Bionetworks; <http://sagebase.org/> #link
+John Wilbanks; <https://en.wikipedia.org/wiki/John_Wilbanks> #link
+Stephen Friend; <https://en.wikipedia.org/wiki/Stephen_Friend> #link
+Synapse; <http://sagebase.org/synapse/> #link
+Open Access Button 2.0 sucht nach Crowdfunding auf Indiegogo; <https://www.indiegogo.com/projects/button-2-0#home> #link
+Open Access Button; <https://www.openaccessbutton.org/> #link
+DNA Digest; <http://dnadigest.org/> #link
+Artikel bei Tim Gowers über Fakten zu Elsevier; <https://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/> #link
+Information of Freedom Act; <https://en.wikipedia.org/wiki/Freedom_of_Information_Act_(United_States)> #glossary
+Cost of Knowledge; <http://thecostofknowledge.com/> #link
+Timothy Gowers; <https://en.wikipedia.org/wiki/Timothy_Gowers> #link
+PolyMath Blog; <http://polymathprojects.org/> #link
+Video: Elsevier's David Tempest explains subscription-contract confidentiality clauses; <https://www.youtube.com/watch?v=4JsNT1gKe7I> #link
+Infografik; <http://blog.scholasticahq.com/post/84136359198/an-infographic-view-of-gowerss-elsevier-expose> #link
+Hindawi ist noch größer als Elsevier; <http://scholarlyoa.com/2013/04/04/hindawis-profits-are-larger-than-elseviers/> #link
+Wiley to allow authors to archive *accepted* manuscripts in repositories; <http://biotropica.org/wiley-to-allow-authors-to-archive-accepted-manuscripts-in-repositories/> #link
+Wiley Open Access; <http://www.wileyopenaccess.com/view/index.html> #link
+openscience.com; <http://openscience.com/> #link
+De Gruyter Open; <http://degruyteropen.com/> #link
+re:publica mit dem Science Lab - Subkonferenz und Hackday zum Thema Open Science; <https://re-publica.de/tags/science-lab> #link
+Hackday; <https://en.wikipedia.org/wiki/Hackathon> #glossary
+CodingDavinci; <http://codingdavinci.de/> #link
+Nach all den “Skandalen” bei Wissenschaftsjournalen widmet sich Euroscientist dem Thema Ethics, values and culture driving research; <http://euroscientist.com/2014/04/ethics-values-and-culture-driving-research/> #link
+Validation Science Exchange; <http://validation.scienceexchange.com/#/> #link
+Stanford Meta Research Innovation Center; <http://www.theverge.com/2014/3/22/5535022/stanford-opening-new-lab-to-study-bad-science> #link
+Karl Popper; <https://en.wikipedia.org/wiki/Karl_Popper> #link
+Online Konsultation "Publikationssysteme" der Berlin-Brandenburgischen Akademie der Wissenschaften; <http://www.publikationssystem.de/> #link
+Berlin-Brandenburgischen Akademie der Wissenschaften; <http://www.bbaw.de/> #link
+Zebralog; <http://www.zebralog.de/> #link
+Open Citation Corpus; <http://is4oa.org/services/open-citations-corpus/> #link
+Impact Factor; <https://en.wikipedia.org/wiki/Impact_factor> #link
+Thomson Reuters; <https://en.wikipedia.org/wiki/Thomson_Reuters> #link
+FAZ Artikel mit der fadenscheinigen These OpenScience = Neoliberalimus; <http://www.faz.net/aktuell/feuilleton/geisteswissenschaften/das-digitale-denken-iii-die-offene-wissenschaft-und-ihre-freunde-12862246.html> #link
+Zitat Philip Mirowski (Seite 3): "Dabei ist die Vorstellung, „Open Science“ mache das wissenschaftliche Wissen zugänglicher und die Forschung offener für die Bedürfnisse aller, eine bloße Ablenkung. Darum geht es gar nicht. Science 2.0 ist auch nicht von irgendeiner technologischen Notwendigkeit getrieben, die Wissenschaft zu „verbessern“. Das Ziel ist vielmehr, dem Markt und Unternehmen auch die Bereiche der bislang idiosynkratischen Praktiken individueller Forscher zu erschließen."; <http://www.faz.net/aktuell/feuilleton/geisteswissenschaften/das-digitale-denken-iii-die-offene-wissenschaft-und-ihre-freunde-12862246-p3.html> #link
+Neoliberalismus; <https://de.wikipedia.org/wiki/Neoliberalismus> #link
+Linux Kernel; <https://en.wikipedia.org/wiki/Linux_kernel> #link
+Philip Mirowski; <https://en.wikipedia.org/wiki/Philip_Mirowski> #link
+MS Wissenschaft; <http://www.ms-wissenschaft.de/> #link
+Wissenschaftsjahr Digitale Gesellschaft; <http://www.digital-ist.de/> #link
+Hörtipp: Omegatau Podcast Episode 146 zu "Container Shipping"; <http://omegataupodcast.net/2014/04/146-container-shipping/> #link
+
+01:49:12.691 Epilog #chapter
