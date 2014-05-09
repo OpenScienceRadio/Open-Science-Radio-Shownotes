@@ -1,0 +1,139 @@
+header
+Podcast: Open Science Radio
+Episode: 16
+Episode Title: OSR016 Kollaborative Wissenschaft
+Starttime: 11.04.2014 21:45:00
+Endtime: 11.04.2014 23:45:00 
+Podcaster: Matthias Fromm und Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+
+00:00:00.000 Begrüßung #chapter
+
+Vielen Dank für die wohlwollenden und kritischen Kommentare
+
+00:01:00.746 HAUSMEISTERTHEMEN #chapter
+
+Anekdotische Evidenz; <https://de.wikipedia.org/wiki/Anekdotische_Evidenz> #link
+Blogbeitrag Titus C. Brown; <http://ivory.idyll.org/blog/anecdotal-science.html> #link
+Stefan Kasberger; <https://twitter.com/stefankasberger>
+knitr; <http://cran.r-project.org/web/packages/knitr/index.html> #link
+R; <http://www.r-project.org/> #link
+Kommentar von Oliver; <http://www.openscienceradio.de/2014/03/osr015-reproduzierbarkeit/#comment-9424> #link
+Kollaboration zw. DataCite, re3data.org and DataBib; <http://www.re3data.org/2014/03/datacite-re3data-org-databib-collaboration/> #link
+Korrektur der Beziehung von Nature Publishing Group und Digital Science;<http://www.natureasia.com/en/info/about> #link
+Nature Publishing Group; <https://en.wikipedia.org/wiki/Nature_Publishing_Group> #link
+Digital Science; <http://www.digital-science.com/> #link
+Beide gehören zu Macmillan Publishers; <https://en.wikipedia.org/wiki/Macmillan_Publishers> #link
+Macmillan wiederum gehört zur Holtzbrinck Publishing Group; <https://en.wikipedia.org/wiki/Georg_von_Holtzbrinck_Publishing_Group> #link
+Der Digtial Science Direktor Timo Hannay <https://en.wikipedia.org/wiki/Timo_Hannay> #link war früher director of Web Publishing der NPG;
+Influence Networks;
+Brendan Griffin; <https://twitter.com/brendangriffen> #link
+Beispiel zur Beziehungsvisualisierung Programmiersprachen; <http://brendangriffen.com/gow-programming-languages/> #link
+Gephi; https://gephi.org/ #link
+Nutzung von Artikeln vor Namen - schöner Zwiebelfisch-Artikel dazu <http://www.spiegel.de/kultur/zwiebelfisch/zwiebelfisch-wenn-der-timo-mit-der-leonie-a-623493.html> #link
+
+00:15:51.160 NEUIGKEITEN #chapter
+
+Universität Konstanz setzt ein Zeichen und kündigt wichtige Elsevier Abos; <http://www.spiegel.de/wissenschaft/medizin/uni-konstanz-stoppt-verhandlungen-mit-elsevier-zu-teuer-a-961084.html> #link
+Nur zu Erinnerung warum man da keine Details hört - NDAs bei der Preisverhandlung sind üblich; <http://svpow.com/2013/12/20/elseviers-david-tempest-explains-subscription-contract-confidentiality-clauses/> #link
+Thesius - ein Protal für Bachelor-, Master- und Doktorarbeiten; <https://www.thesius.de/> #link
+EU Forschungsdatenbank CORDIS; <http://cordis.europa.eu/home_en.html> #link
+Aktuelle Ausgabe vom Laborjournal mit Artikel zum Thema Reproduzierbarkeit; <http://www.laborjournal-archiv.de/epaper/LJ_14_03/> #link
+Methodisch Inkorrekt berichtet ausführlich über die "Stem Cell Soap Opera" - auch wieder in der aktuellen Ausgabe; <<http://241568.website.snafu.de/wordpress/?p=455> #link
+Hintergrund zum Stem Cell Paper in Nature und ein weiteres Beispiel warum Reproduzierbarkeit so wichtig ist; <http://www.spiegel.de/wissenschaft/medizin/forscher-will-japanische-studie-ueber-stammzellen-zurueckziehen-a-958012.html> #link
+Citizen Science; <https://en.wikipedia.org/wiki/Citizen_science> #glossary
+Wissenschaft im Dialog ruft Citizen Science Plattform buergerschaffenwissen ins Leben; <http://www.wissenschaft-im-dialog.de/projekte/citizen-science.html> #link
+Michael Eisen; <https://en.wikipedia.org/wiki/Michael_Eisen> #glossary
+Nature's Reaktion im Februar; <http://www.nature.com/news/acid-bath-stem-cell-study-under-investigation-1.14738> #link
+Crowdfunding-Campagne von DNADigest; <https://www.indiegogo.com/projects/dna-digest-collaborative-data-cures-genetic-diseases> #link
+Blog Eintrag für Preprint-Zweifler; <http://www.homolog.us/blogs/blog/2014/03/18/arxiv-and-biorxiv-fans-please-help/> #link
+Konrad's Erfahrungen mit bioRXive;
+bioRXive; <http://biorxiv.org/> #link
+Das Paper von Konrad et. al. auf bioRxive zu Konrad's Tool READemption; <http://biorxiv.org/content/early/2014/04/03/003723> #link
+READemption auf Github; <https://github.com/konrad/READemption> #link
+
+
+00:43:46.500 KOLLABORATIVES ARBEITEN #chapter
+
+Die Bestandteile des Wissenschaftlichen Prozesses;
+
+00:47:47.953 Kollaboration: Ideenfindung und Hypothesenformulierung #chapter
+
+Benedikt Fecher; <http://www.hiig.de/en/staff/benedikt-fecher-2/> #link
+Benedikt's Blogpost für seinen Forschungsansatz zu Open Science; <http://www.hiig.de/open-science-wie-ich-partizipationspramissen-ergrunden-mochte-und-ihr-mit-dabei-helfen-konnt/> #link
+Matthias's erste Erfahrungen mit dem Open Science Framework;
+Open Science Framework; <https://osf.io> #link
+Matthias hat beim OSF nachgefragt; <https://twitter.com/matthiasfromm/status/454237857012793344> #link
+Argument Maps e.g. ArguNet; <http://www.argunet.org/> #link
+
+00:58:50.312 Kollaboration: Versuche und Datengenerierung #chapter
+
+OpenWetWare - Labnotebooks; <http://openwetware.org/wiki/Lab_Notebook> #link
+Wikiversity; <http://www.wikiversity.org> #link
+Daniel Mietchen; <http://de.wikiversity.org/wiki/Benutzer:Mietchen> #link
+(! Korrektur: ich glaube Christian Spannagel hat Wikiversity eine zeitlang als Lab Notebook genutzt); <http://de.wikiversity.org/wiki/Benutzer:Cspannagel> #link
+
+01:01:50.000 Kollaboration: Prozessierung, Visualisierung, Kontextualisierung #chapter
+
+Verteilte Versionverwaltungssysteme für Toolentwicklung und Datenversionierung;
+CVS; <https://en.wikipedia.org/wiki/Concurrent_Versions_System> #glossary
+SVN; <https://en.wikipedia.org/wiki/Apache_Subversion> #glossary
+CRE 130 Verteilte Versionssysteme; <http://cre.fm/cre130-verteilte-versionskontrollsysteme> #link
+BitKeeper; <https://de.wikipedia.org/wiki/BitKeeper> #glossary
+GIT; <https://en.wikipedia.org/wiki/Git_(software)> #glossary
+GitHub; <http://github.com> #link
+Markdown; <https://en.wikipedia.org/wiki/Markdown> #link
+Kollaborative Visualizierung mit plotly; <https://plot.ly> #link
+
+01:10:30.024 Kollaboration: Manuskript #chapter
+
+generelle Tool zu Textbearbeitung wie Wikis, Google Docs, Etherpad etc.;
+Etherpad; <http://en.wikipedia.org/wiki/Etherpad> #glossary
+Markup language; <http://en.wikipedia.org/wiki/Markup_language> #glossary
+Referenzen sind in der Regel ein Problem, hier kann man BibTex oder ähnliches verwenden;
+BibTeX; <http://en.wikipedia.org/wiki/BibTex> #glossary
+BibDesk; <http://bibdesk.sourceforge.net/> #link
+kurzer Hinweis auf das Open Science Thesis Repository auf Github; <https://github.com/cpfaff/Open-Science-Thesis> #link
+Tools:
+Fiduswriter; <http://fiduswriter.org/> #link
+Fiduswriter is Open Source und auf Source Forge und Github verfügbar; <http://fiduswriter.org/download/> #link
+Open Journal Systems; <https://en.wikipedia.org/wiki/Open_Journal_Systems> #glossary
+Penflip; <https://www.penflip.com/> #link
+Wikidocs; <https://wikidocs.com/> #link
+Booktype; <https://www.sourcefabric.org/en/booktype/> #link
+Authorea; <https://www.authorea.com> #link
+LaTeX <https://en.wikipedia.org/wiki/LaTeX> #glossary
+LaTex- basierter WYSIWYG-Editor Lyx; <http://www.lyx.org> #link
+writeLaTeX; <https://www.writelatex.com/> #link
+ShareLaTeX; <https://www.sharelatex.com/> #link
+Sparkle Share; <http://sparkleshare.org/> #link
+owncloud hat einen LaTeX editor; <http://apps.owncloud.com/content/show.php/LatexTex+Editor+and+Compiler?content=151441> #link
+Chaosradio 199 zu Eigenhosting; <http://blog.chaosradio.ccc.de/index.php/2014/03/27/cr199-eigenhosting-elend-oder-erloesung/> #link
+
+01:31:45.345 Kollaboration: Peer Review #chapter
+
+Research Gate's Open Review; <https://news.researchgate.net/index.php?/archives/187-Peer-review-isnt-working-Introducing-Open-Review.html> #link
+RG Score FAQ; <http://www.researchgate.net/publicprofile.RGScoreFAQ.html> #link
+Kritik am RG Score u.a. bei Academia.edu im Paper von Arno Tausch; <http://goo.gl/jqgRhd> #link
+Altmetrics; <http://altmetrics.org/manifesto/> #glossary
+PubMedCommons; <https://www.ncbi.nlm.nih.gov/pubmedcommons/> #link
+PLOS ONE; <http://www.plosone.org/> #link
+PubPeer; <https://pubpeer.com/> #link
+
+01:43:45.162 Kollaboration: Publikation #chapter
+
+PeerJ; <https://peerj.com/> #link
+arXiv; <http://arxiv.org/> #link
+bioRxiv; <http://biorxiv.org/> #link
+Figshare; <http://figshare.com/> & Co. #link
+
+01:48:35.500 EPILOG #chapter
+
+Draft-Paper: Wiki e.g. Collaborative platforms for streamlining workflows in Open Science; <http://species-id.net/wiki/Draft:Collaborative_platforms_for_streamlining_workflows_in_Open_Science> #link
+Tweet "It's a tragedy we had to add the word open to science."; <https://twitter.com/openscience/status/446942010554191872> #link
+Open Science Framework hoffentlich bald im Source Code bei Github; <https://github.com/CenterForOpenScience/openscienceframework.org/> #link
+Elsevier war wieder böse: Elsevier lässt sich für CC-BY-lizensierte Artikel bezahlen; <http://blogs.ch.cam.ac.uk/pmr/2014/03/09/elsevier-are-still-charging-thousands-of-pounds-for-cc-by-articles-immoral-unethical-maybe-even-illegal/> #link
