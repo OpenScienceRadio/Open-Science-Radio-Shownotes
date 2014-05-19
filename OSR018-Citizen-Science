@@ -1,0 +1,147 @@
+header
+Podcast: Open Science Radio
+Episode: 18
+Episode Title: OSR018 Citizen Science
+Starttime: 19.05.2014 20:45:00
+Endtime: 19.05.2014 23:25:00 
+Podcaster: Matthias Fromm und Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+00:00:21.000 Hausmeisterei #chapter
+
+OA_ButtonOpen reagiert; <https://twitter.com/OA_Button/status/463777456340873216> #link
+Access Button - Indiegogo Features Update; <http://blog.openaccessbutton.org/2014/04/23/indiegogo-features-update/> #link
+Bountysource - Crowdfunding für OSS-Projekte; <https://www.bountysource.com/> #link
+KonScience; <http://www.konscience.de/> #link
+xkcd 1055 Kickstarter; <http://xkcd.com/1055/> #link
+Samuel Moore gewährt bei OKF einen Blick in das Inhaltsverzeichnis des Buches das er im Rahmen seiner Panton Fellowship vorantreibt, in dem u.a. Eric Kansa über das Thema Open Data and Neoliberalism schreibt (neben vielen anderen bekannten Autoren zu anderen Themen); <http://science.okfn.org/2014/05/05/panton-fellow-update-introduction-to-open-research-data-2/> #link
+Panton Fellowships; <http://pantonprinciples.org/panton-fellowships/> #link
+Panton Fellow Peter Kraker; <http://science.okfn.org/2013/09/24/my-objectives-as-a-panton-fellow/> #link
+Panton Fellow Samuel Moore; <http://science.okfn.org/2013/10/03/panton-fellow-introduction-samuel-moore/> #link
+Panton Fellow Rosie Grace; <http://science.okfn.org/2013/10/03/a-quick-hello-from-a-panton-fellow/> #link
+Wir hatten kurz über die “Science Inquisition” gesprochen - dazu ist ein schöner Artikel von Jon Grahe im Open Science Collaboration Blog erschienen; <http://osc.centerforopenscience.org/2014/05/02/avoiding-a-witch-hunt/> #link
+Github führt DOIs für Code ein (in Zusammenarbeit mit Zenodo und Figshare); <https://guides.github.com/activities/citable-code/> #link
+DOI; <https://en.wikipedia.org/wiki/Digital_object_identifier> #glossary
+ORCID; <http://orcid.org/> #link
+Open Science Radio Shownotes jetzt bei Github; <https://github.com/matthiasfromm/Open-Science-Radio> #link
+Open Shownotes Format; <https://github.com/shownotes/OpenShownotesFormat> #link
+Papersapp; <http://www.papersapp.com/> #link
+Recently App wurde eingestellt; <https://twitter.com/Recently/status/455722034732208128> #link
+OSR011 Mit Recently keine Paper mehr verpassen; <http://www.openscienceradio.de/2013/05/osr011-mit-recently-keine-papers-mehr-verpassen/> #link
+Impact Factor; <https://en.wikipedia.org/wiki/Impact_factor> #glossary
+
+00:35:44.000 News #chapter
+
+Ten things you need to know about ORCID right now; <http://blog.impactstory.org/ten-things-you-need-to-know-about-orcid-right-now/> #link
+ResearcherID; <http://www.researcherid.com/> #link
+37 Typen wissenschaftlichen Outputs werden unterstützt; <http://support.orcid.org/knowledgebase/articles/118795-supported-work-types> #link
+Netzwerkeffekt; <https://de.wikipedia.org/wiki/Netzwerkeffekt> #glossary
+Science Slam; <http://www.scienceslam.de/> #link
+Dance your PhD; <http://gonzolabs.org/dance/> #link
+John Bohannon; <https://en.wikipedia.org/wiki/John_Bohannon> #glossary
+Kaffebecher mit Deiner ORCID ID; <http://www.cafepress.com/orcid.1228557783A> #link
+Crowfunding für das OpenWorm-Project auf Kickstarter; <https://www.kickstarter.com/projects/openworm/openworm-a-digital-organism-in-your-browser> #link
+Open Worm Project; <http://www.openworm.org/> #link
+Publons; <https://publons.com/> #link
+Motto für die Open Access Week 2014 wird "Generation Open"; <http://www.openaccessweek.org/profiles/blogs/2014themeannouncement> #link
+OK Festival 2014; <http://2014.okfestival.org/> #link
+Resonator Podcast; <http://resonator-podcast.de/> #link
+Holger Klein; <https://resonator-podcast.de/holger-klein/> #link
+Helmholtz-Gemeinschaft Deutscher Forschungszentren; <http://www.helmholtz.de/> #link
+RES031 Open Science; <https://resonator-podcast.de/2014/res031-open-science/> #link
+
+01:02:01.000 Citizen Science #chapter
+
+Schwarmtaler, Episode 18 zu Sciencestarter.de; <http://www.schwarmtaler.de/st018/> #link
+Thorsten Witt; <https://twitter.com/thorsten_witt> #link
+Sciencestarter.de; <http://www.sciencestarter.de/> #link
+Wissenschaft im Dialog (WiD); <http://www.wissenschaft-im-dialog.de/> #link
+MS Wissenschaft; <http://www.ms-wissenschaft.de/> #link
+Citizen Science; <https://en.wikipedia.org/wiki/Citizen_science> #glossary
+Die Citizen Science Plattform für Bürger & Wissenschaftler; <http://www.buergerschaffenwissen.de/> #link
+Ältestes Citizen Science Projekt "Christmas Bird Count"; <https://en.wikipedia.org/wiki/Christmas_Bird_Count> #link
+Christmas Bird Count Project der National Audubon Society; <http://birds.audubon.org/christmas-bird-count> #link
+Warum gibt es Citizen Science?;
+starke und schwache Bürgerwissenschaften;
+
+00:00:00.000 Citizen Science Plattformen und Communities #chapter
+
+Zooniverse; <https://www.zooniverse.org/> #link
+Galaxy Zoo; <https://en.wikipedia.org/wiki/Galaxy_Zoo> #glossary
+Citizen Science Alliance; <http://www.citizensciencealliance.org/> #link
+Sloan Digital Sky Survey; <https://en.wikipedia.org/wiki/Sloan_Digital_Sky_Survey> #link
+Hubble; <https://en.wikipedia.org/wiki/Hubble> #link
+Mustererkennung; <https://de.wikipedia.org/wiki/Mustererkennung> #glossary
+Seafloor Explorer; <http://www.seafloorexplorer.org/> #link
+Snapshot Serengeti; <http://www.snapshotserengeti.org/> #link
+Cell Slider; <http://www.cellslider.net/> #link
+Whale FM; <http://whale.fm/> #link
+CitizenSci auf PLOS Blogs and Caren Cooper starts a Weekly Citizen Science Roundup; <https://blogs.plos.org/citizensci/> #link
+SciStarter; <http://scistarter.com/> #link
+Crowdcrafting; <http://crowdcrafting.org/> #link
+DIY Genomics; <http://www.diygenomics.org/> #link
+23andme; <https://www.23andme.com/> #link
+openSNP; <https://opensnp.org/> #link
+Explorism 006: Interview mit Bastian Greshake; <http://www.scientists-in-progress.org/2012/06/oekologie-evolution-und-genetik-mit-bastian-greshake-explorism006/> #link
+Genome Wide Association Studies; <https://en.wikipedia.org/wiki/Genome-wide_association_study> #glossary
+Genomsequenzierung; <https://de.wikipedia.org/wiki/DNA-Sequenzierung> #link
+Does Illumina Have the First $1,000 Genome?; <http://www.technologyreview.com/news/523601/does-illumina-have-the-first-1000-genome/> #link
+Oxford Nanopore Technologies; <https://www.nanoporetech.com/> #link
+PLOS ONE Paper zu OpenSNP: openSNP - A Crowdsourced Web Resource for Personal Genomics; <http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0089204> #link
+Bürger schaffen Wissen (Initiative vom WiD); <http://www.wissenschaft-im-dialog.de/projekte/citizen-science.html> #link
+RBB-Beitrag zu Bürgerwissenschaften; <https://www.rbb-online.de/extra/rbb-science-scanner/beitraege/zusatzmaterial/Buergerschaffenwissen.html> #link
+Lightning Talk von Thorsten Witt auf der #rp14 dazu; <http://re-publica.de/en/user/2687/event/1> #link
+Synbio4all; <http://synbio4all.org/> #link
+CRE 143 Biohacking; <http://cre.fm/cre143-biohacking> #link
+GNUbio; <http://gnubio.com/> #link
+OpenPCR; <http://openpcr.org/> #link
+OpenPCR Kickstarter; <https://www.kickstarter.com/projects/930368578/openpcr-open-source-biotech-on-your-desktop> #link
+Citizen Science Central @ Cornell University; <http://www.birds.cornell.edu/citscitoolkit> #link
+Citizen Cyberlab; <http://citizencyberlab.eu/> #link
+Citizen Inventor; <http://www.citizeninventor.com/> #link
+European Citizen Science Platform; <http://h2020.myspecies.info/content/european-citizen-science-platform> #link
+
+01:49:54.500 Citizen Science Tools und spielerische Ansätze #chapter
+
+Distributed Computing; <https://en.wikipedia.org/wiki/Distributed_computing> #glossary
+SEIT@Home; <https://en.wikipedia.org/wiki/SETI@home> #glossary
+LHC@Home; <http://lhcathome.web.cern.ch/> #link
+Citizen Science Apps bei Scistarter vorgestellt; <http://scistarter.com/blog/2014/04/theres-app-citizen-science-fingertips/#sthash.Lm8G7A1N.3SM2R10r.dpbs> #link
+Darwin Toolbox; <http://www.darwintoolbox.com/> #link
+Project Noah; <http://www.projectnoah.org/> #link
+Liste von Citizen Science Projekten bei Wikipedia; <https://en.wikipedia.org/wiki/List_of_citizen_science_projects> #link
+Gamification; <https://en.wikipedia.org/wiki/Gamification> #glossary
+Fold it; <https://fold.it/portal/> #link
+RNA; <https://en.wikipedia.org/wiki/RNA> #glossary
+EteRNA; <http://eterna.cmu.edu/web/> #link
+Paper dazu bei BioMed Central; <https://www.biomedcentral.com/1471-2091/14/26> #link
+EyeWire; <https://eyewire.org/signup> #link
+Quantum Moves; <http://www.scienceathome.org/> #link
+Human-based computation game; <https://en.wikipedia.org/wiki/Human-based_computation_game> #glossary
+Phrase Detectives; <http://anawiki.essex.ac.uk/phrasedetectives/> #link
+Martin Rützler; <https://twitter.com/MartinRuetzler> #link
+Radio Mono; <http://www.radiomono.net/> #link
+Monitor Change: Mt. Diablo Morgan Fire; <http://nerdsfornature.org/monitor-change/diablo.html> #link
+Foto eines solchen Hinweisschildes; <https://twitter.com/krupenin/status/467833369846235136/photo/1> #link
+Der Phänologische Wald; <http://phenologicforest.com/> #link
+Qnatified Self; <https://en.wikipedia.org/wiki/Quantified_Self> #glossary
+Andi Herten; <https://twitter.com/AndiH> #link
+Andi's Quantified Self Skripte auf Github; <https://github.com/AndiH/QuantifiedSelf> #link
+
+02:14:45.500 Epilog #chapter
+
+BioMed Central Blogpost; <http://blogs.biomedcentral.com/bmcblog/2014/02/19/how-should-citizen-science-be-published-a-debate-at-citizen-cyberscience-summit-2014/> #link
+OpenID; <https://en.wikipedia.org/wiki/OpenID> #link
+Podcast HR2 Der Tag Beitrag zu Citizen Science “Lob des Dilettanten”; <http://www.hr-online.de/website/radio/hr2/index.jsp?rubrik=14224&key=standard_podcasting_derTag&mediakey=podcast/derTag/derTag_20140509_53947732&type=a> #link
+Fablab Berlin; <http://www.fablab-berlin.org/de/> #link
+Photonik Camp; <http://www.fablab-berlin.org/photonikcamp/> #link
+Konferenz am Horizont, planungsstand noch unklar: Science Everybody; <http://scienceeverybody.org/> #link
+Julia Offe; <https://twitter.com/scienceslampe> #link
+Science Open; <https://www.scienceopen.com/> #link
+Launch von Science Open am 6. Mai 2014; <http://www.dw.de/open-access-revolutioniert-die-wissenschaft/a-17615169> #link
+Warum eigentlich Citizen Science?;
