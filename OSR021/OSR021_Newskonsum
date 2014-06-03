@@ -1,0 +1,163 @@
+header
+Podcast: Open Science Radio
+Episode: 21
+Episode Title: OSR021 Newskonsum
+Starttime: 02.06.2014 20:45:00
+Endtime: 02.06.2014 23:15:00 
+Podcaster: Matthias Fromm und Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary #video
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+00:01:21.000 Hausmeisterei #chapter
+
+OSR018 Citizen Science; <http://www.openscienceradio.de/2014/05/osr018-citizen-science/> #link
+OSR019 Science Open; <http://www.openscienceradio.de/2014/05/osr019-science-open/> #link
+OSR020 Bürger schaffen Wissen; <http://www.openscienceradio.de/2014/05/osr020-buerger-schaffen-wissen/> #link
+Alexander Grossmann hatte es in OSR019 kurz adressiert, dass aus China in den nächsten Jahren sehr viel zu erwarten ist - jetzt kommt die Meldung, dass die CAS Open Access auf breiter Front festschreibt; <http://www.asianscientist.com/academia/cas-open-access-2014/>
+Chinese Academy of Sciences (CAS); <https://en.wikipedia.org/wiki/Chinese_Academy_of_Sciences> #glossary
+beim Open Access Button werden erste neue Features sichtbar; <https://www.youtube.com/watch?v=arB_0jTEx98> #video
+
+00:12:39.500 News #chapter
+
+neue Untersuchung "Allgemeine Bildungs- und Wissenschaftsschranke" von Katherine Durantaye (PDF); <http://durantaye.rewi.hu/doc/Wissenschaftsschranke.pdf> #link
+Artikel dazu auf iRights.info; <http://irights.info/artikel/neue-vorschlaege-alter-streit-wissenschaftsschranke-in-der-diskussion/23148> #link
+Mozilla Science Lab; <http://mozillascience.org/> #link
+Software Carpentry; <http://software-carpentry.org/> #link
+Announcing Blogpost bei Software Carpentry; <http://software-carpentry.org/blog/2013/06/mozilla-science-lab-announcement.html> #link
+Python; <https://en.wikipedia.org/wiki/Python_(programming_language)> #glossary
+Unix; <https://en.wikipedia.org/wiki/Unix> #glossary
+R; <https://en.wikipedia.org/wiki/R_(programming_language)> #glossary
+Future Software Carpentry Bootcamps; <http://software-carpentry.org/bootcamps/index.html> #link
+PyCon 2014 Talk von Greg Wilson "Software Carpentry: Lessons Learned"; <https://www.youtube.com/watch?v=FtKO619O5g0> #video
+Blogpost "All metrics are wrong, but some are useful"; <http://science.okfn.org/2014/05/31/all-metrics-are-wrong-but-some-are-useful/> #link
+Blogpost von Peter Kraker "Open and transcparent altmetrics for discovery"; <http://science.okfn.org/2013/12/09/open-and-transparent-altmetrics-for-discovery/> #link
+Research Index; <http://researchindex.net/> #link
+Hirsch-Index; <https://en.wikipedia.org/wiki/Hirsch_index> #glossary
+Royal Society Open Science Journal akzeptiert jetzt Einreichungen; <http://www.theguardian.com/science/grrlscientist/2014/may/22/royal-society-open-access-science-maths-submissions?CMP=twt_gu> #link
+Royal Society; <https://en.wikipedia.org/wiki/Royal_Society> #glossary
+Royal Society Open Science; <http://rsos.royalsocietypublishing.org/> #link
+Philosophical Transactions of the Royal Society B: Biological Sciences; <https://en.wikipedia.org/wiki/Philosophical_Transactions_of_the_Royal_Society_B> #glossary
+Peter Suber interviewed by Stephanie Dawson from ScienceOpen; <https://www.scienceopen.com/discussion/7ed7a938-a0bd-415c-b539-0b1d3ffbe4e8/4ff731f4-1e42-4b2f-8cf8-7865cab3394f?utm_term=%23oa&utm_source=twitterfeed&utm_medium=twitter>
+Interview zu The Open Journal; <http://lj.libraryjournal.com/2014/05/publishing/opening-the-books-arfon-smith-on-how-easy-peer-review-can-turn-repositories-into-journals/> #link
+The Open Journal; <http://theoj.org/> #link
+OSR014 Open Access 101; <http://www.openscienceradio.de/2014/02/osr014-open-access-101/> #link
+Video Demo Open Journal; <http://vimeo.com/69860472> #video
+Open Journal bei Github; <https://github.com/arfon/theoj> #link
+Update zur neuen Data Policy bei PLOS; <https://blogs.plos.org/biologue/2014/05/30/plos-data-policy-update/> #link
+Abweisung eines Konferenz-Paper wegen arXiv-Preprint-Version; <https://plus.google.com/u/0/+YannLeCunPhD/posts/1MYjUtNALND> #link
+European Conference on Computer Vision (ECCV); <https://en.wikipedia.org/wiki/ECCV> #glossary
+Das Open Science Radio hat mit "Konrad's Paper" eine eigene Serie!;
+Konrad hat Reviewer-Kommentare für sein Paper bekommen;
+lesenswerter Blogpost zu Open Peer Review bei F1000Research; <http://blog.f1000research.com/2014/05/21/what-is-open-peer-review/> #link
+De.Hypotheses; <http://de.hypotheses.org/> #link
+
+00:55:59.000 Hauptthema: Unser Newskonsum #chapter
+
+Einleitung;
+
+00:57:50.500 Newskonsum: Werkzeuge #chapter
+
+Newsbeuter; <http://newsbeuter.org/> #link
+Shell script mit wget; <https://www.gnu.org/software/wget/> #link
+Konrad fordert Ubuntu für's Phone; <https://twitter.com/konradfoerstner/status/473158024010280962> #link
+Astro Player Pro; <https://play.google.com/store/apps/details?id=com.astroplayerkey> #link
+Google Reader; <https://de.wikipedia.org/wiki/Google_Reader> #glossary
+Feedbin; <https://feedbin.com/> #link
+Instacast; <http://vemedio.com/products/instacast> #link
+Downcast; <http://www.downcastapp.com/> #link
+Bitlove; <https://bitlove.org/> #link
+
+01:08:49.000 Newskonsum: Deutsche Podcasts #chapter
+
+KonScience; <http://www.konscience.de/> #link
+Crossover mit Methodisch Inkorrekt; <http://www.konscience.de/2014/05/13/kns020-jubilaeumssendung-mit-methodisch-inkorrekt/> #link
+Methodisch Inkorrekt; <http://methodisch-inkorrekt.de> #link
+Chaosradio; <http://chaosradio.ccc.de/> #link
+CRE; <http://cre.fm/> #link
+omega tau Podcast; <http://omegataupodcast.net/> #link
+omega tau 053 - Die Elbelotsen; <http://omegataupodcast.net/2011/01/53-die-elbelotsen/> #link
+omega tau 068 - Der UPS AirHub Köln/Bonn; <http://omegataupodcast.net/2011/06/68-der-ups-airhub-kolnbonn/> #link
+Soziopod; <http://soziopod.de/> #link
+aktuelle Folge zur Existenzphilosophie; <http://soziopod.de/2014/03/soziopod-034-es-geht-diesmal-um-nichts-weniger-als-das-sein-karl-jaspers-konsorten/> #link
+Karlsdialoge; <http://karlsdialoge.de/> #link
+/dev/radio; <http://ulm.ccc.de/dev/radio/> #link
+C-RadaR; <http://c-radar.ccc.de/> #link
+Pentaradio; <https://www.c3d2.de/radio.html> #link
+Raumzeit; <http://raumzeit-podcast.de/> #link
+Raumzeit wird es auch weitergeben; <http://raumzeit-podcast.de/2014/04/17/die-zukunft-der-raumzeit/> #link
+Raumzeit 011 Astronautenausbildung mit Samamtha Christoforetti; <http://raumzeit-podcast.de/2011/03/25/rz011-astronautenausbildung/> #link
+Raumzeit 054 Space Elevator mit Markus Landgraf; <http://raumzeit-podcast.de/2013/07/05/rz054-space-elevator/> #link
+Resonator Podcast; <http://resonator-podcast.de/> #link
+Resonator 031 mit Hans Pfeiffenberger zu Open Science; <https://resonator-podcast.de/2014/res031-open-science/> #link
+Henning Krause; <https://twitter.com/henningkrause>; #link
+Hoaxilla; <http://www.hoaxilla.com/> #link
+Alexander Hoaxmaster; <http://www.hoaxilla.com/team/hoaxmaster/> #link
+Alexa Hoaxmistress; <http://www.hoaxilla.com/team/hoaxmistress/> #link
+Ketzer 2.0; <http://ketzerpodcast.wordpress.com/> #link
+AstroGeo Podcast; <http://podcast.pikarl.de/> #link
+Raumfahrer.net; <http://raumfahrer.net/portal/isrn/home.shtml> #link
+AstroGeo-Folge 008 mit Prof Dawen Sumner zum Shutdown; <http://podcast.pikarl.de/ag008-shutdown/> #link
+Sternengeschichten; <http://scienceblogs.de/astrodicticum-simplex/sternengeschichten/> #link
+Welt der Physik; <http://www.weltderphysik.de/mediathek/podcast/> #link
+DLF Forschung aktuell; <http://www.dradio.de/dlf/sendungen/forschak/> #link
+DLF Wissenschaft im Brennpunkt; < http://www.dradio.de/dlf/sendungen/wib/> #link
+DRadio Wissen Hörsaal; <http://dradiowissen.de/hoersaal> #link
+Wanhoffs Wunderbare Welt der Wissenschaft; <http://wissenschaft.wanhoff.de/> #link
+Sciencebusters; <http://fm4.orf.at/sciencebusters> #link
+Vorgedacht von Stephanie Dahn; <http://www.vorgedacht.net/> #link
+Vorzeiten; <http://vorzeiten.net/> #link
+Die Hörsuppe; <http://hoersuppe.de/> #link
+
+01:41:46.500 Newskonsum: Englischsprachige Podcasts #chapter
+
+InSCight; <http://inscight.org/> #link
+Radiolab; <http://www.radiolab.org/> #link
+This Week in Microbiology; <http://www.microbeworld.org/podcasts/this-week-in-microbiology> #link
+This Week in Virology; <http://www.twiv.tv/> #link
+Star Talk Radio; <http://www.startalkradio.net/> #link
+The Naked Scientists; <http://www.thenakedscientists.com/HTML/podcasts/> #link
+No such thing as a fish; <http://qi.com/podcast/> #link
+Liste von wissenschaftlichen Podcasts bei teachthought.com; <http://www.teachthought.com/technology/40-of-the-best-science-podcasts-for-mobile-learning/> #link
+Feedexport für wissenschaftsbezogene Podcasts von Matthias; <https://github.com/matthiasfromm/Open-Science-Radio/blob/master/OSR021/Auszug_Wissenschaftspodcasts_MFR_2014-06-03.opml> #link
+
+01:53:48.000 Newskonsum: Blogs & Co. #chapter
+
+Immer eine gute Quelle auf Twitter für wissenschaftsrelevante Nachrichten: Detlef Breitenbach aka. blackmac42; <https://twitter.com/blackmac42> #link
+Peter Murray Rust; <https://en.wikipedia.org/wiki/Peter_Murray-Rust> #glossary
+Peter's Blog; <https://blogs.ch.cam.ac.uk/pmr/> #link
+Guardian Higher Eduation Network; <http://www.theguardian.com/higher-education-network> #link
+Living in an Ivory Basement; <http://ivory.idyll.org/blog/> #link
+Buried Treasure; <http://larsjuhljensen.wordpress.com/> #link
+Fernando Perez; <http://blog.fperez.org/> #link
+The Open Science Project; <http://www.openscience.org/blog/> #link
+Exkurs noch einmal zurück Podcasts: Susanne Eischeid bei den Collaborativerockers; <http://www.collaborativerockers.de/2013/05/folge-xxviii-metallwissenschaften-cr028/> #link
+Ross Mounce auf Twitter; <https://twitter.com/rmounce> #link
+Cameron Neylon auf Twitter; <https://twitter.com/CameronNeylon> #link
+Cameron Neylon's Blog; <http://cameronneylon.net/> #link
+Cameron Neylon auf Figshare; <http://figshare.com/authors/Cameron_Neylon/96395> #link
+Open Knowledge Foundation Blog; <http://blog.okfn.org/> #link
+Blog der deutschen Open Knowledge Foundation; <http://okfn.de/blog/> #link
+Open Knowledge Foundation - Open Science Working Group Blog (inkl. der Panton Fellows); <http://science.okfn.org/blog/> #link
+openscience.com; <http://openscience.com/> #link
+Open Science ASAP; <http://openscienceasap.org/> #link
+Open Science ASAP Monthly Sum-Up; <http://openscienceasap.org/social/monthly-sum-up/> #link
+OSR012 Open Science in Österreich mit Stefan Kasberger; <http://www.openscienceradio.de/2013/09/osr012-open-science-in-oesterreich/> #link
+Wisspub.net; <http://wisspub.net/> #link
+Heinz Pampel; <http://heinzpampel.de/> #link
+ALBERTOpen; <http://albertopen.telegrafenberg.de/> #link
+Feedexport für wissenschaftsbezogene Blogs von Matthias; <https://github.com/matthiasfromm/Open-Science-Radio/blob/master/OSR021/Auszug_Wissenschaftsbezogene-Blogs_MFR_2014-06-03.xml> #link
+
+02:18:15.500 Epilog #chapter
+
+Mailinglisten der Open Knowledge Foundation; <https://lists.okfn.org/mailman/listinfo> #link
+XKCD; <https://xkcd.com/> #link
+What if? xkcd; <http://what-if.xkcd.com/> #link
+What if - Blood Alcohol; <https://what-if.xkcd.com/98/> #link
+Unix xkcd; <http://uni.xkcd.com/> #link
+Github/wikipedia activities im Tron Boardroom Stil; <http://www.robscanlon.com/encom-boardroom/> #link
+
+
