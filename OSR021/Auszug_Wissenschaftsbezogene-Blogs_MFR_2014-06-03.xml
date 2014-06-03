@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Excerpt RSS subscriptions science and open movement</title>
+    <dateCreated>Tue, 03 Jun 2014 02:33:46 -0500</dateCreated>
+    <ownerEmail>fromm@mfromm.de</ownerEmail>
+  </head>
+  <body>
+
+<outline text="xkcd.com" title="xkcd.com" type="rss" xmlUrl="http://xkcd.com/rss.xml" htmlUrl="http://xkcd.com/"/>
+<outline text="APOD" title="APOD" type="rss" xmlUrl="http://apod.nasa.gov/apod.rss" htmlUrl="http://antwrp.gsfc.nasa.gov/"/>
+<outline text="Open Culture" title="Open Culture" type="rss" xmlUrl="http://feeds.feedburner.com/OpenCulture" htmlUrl="http://www.openculture.com"/>
+<outline text="Astrodicticum Simplex" title="Astrodicticum Simplex" type="rss" xmlUrl="http://feeds.feedburner.com/ScienceBlogs/AstrodicticumSimplex" htmlUrl="http://www.scienceblogs.de/astrodicticum-simplex/"/>
+<outline text="Forschungs-Blog" title="Forschungs-Blog" type="rss" xmlUrl="http://www.forschungs-blog.de/feed/" htmlUrl="http://www.forschungs-blog.de"/>
+<outline text="It's rocket science, Baby!" title="It's rocket science, Baby!" type="rss" xmlUrl="http://feeds.feedburner.com/gluckauf" htmlUrl="http://www.andreas.de/wordpress"/>
+<outline text="gwup | die skeptiker" title="gwup | die skeptiker" type="rss" xmlUrl="http://feeds.feedburner.com/gwup-die-skeptiker" htmlUrl="http://blog.gwup.net"/>
+<outline text="physikBlog" title="physikBlog" type="rss" xmlUrl="http://www.physikblog.eu/feed/" htmlUrl="http://www.physikblog.eu"/>
+<outline text="PLOS Blogs Network" title="PLOS Blogs Network" type="rss" xmlUrl="http://feeds.plos.org/plos/blogs/main" htmlUrl="http://blogs.plos.org"/>
+<outline text="Psiram" title="Psiram" type="rss" xmlUrl="http://blog.psiram.com/feed/" htmlUrl="http://blog.psiram.com"/>
+<outline text="Astrodicticum Simplex" title="Astrodicticum Simplex" type="rss" xmlUrl="http://scienceblogs.de/astrodicticum-simplex/feed/" htmlUrl="http://scienceblogs.de/astrodicticum-simplex"/>
+<outline text="Max-Planck-Gesellschaft - Forschung" title="Max-Planck-Gesellschaft - Forschung" type="rss" xmlUrl="http://www.mpg.de/de/forschung.rss" htmlUrl="http://www.mpg.de/de"/>
+<outline text="Fischblog" title="Fischblog" type="rss" xmlUrl="http://www.scilogs.de/wblogs/rss.php?blogId=5&amp;profile=rss20" htmlUrl="http://www.scilogs.de/wblogs/blog/fischblog"/>
+<outline text="Sprachlog" title="Sprachlog" type="rss" xmlUrl="http://www.scilogs.de/wblogs/rss.php?blogId=42&amp;profile=rss20" htmlUrl="http://www.scilogs.de/wblogs/blog/sprachlog"/>
+<outline text="Sprachlog" title="Sprachlog" type="rss" xmlUrl="http://www.sprachlog.de/feed/" htmlUrl="http://www.sprachlog.de"/>
+<outline text="Euroscientist Blog" title="Euroscientist Blog" type="rss" xmlUrl="http://euroscientist.com/feed/" htmlUrl="http://euroscientist.com"/>
+<outline text="PeerJ Blog" title="PeerJ Blog" type="rss" xmlUrl="http://blog.peerj.com/rss" htmlUrl="http://blog.peerj.com/"/>
+<outline text="New Scientist Deutschland" title="New Scientist Deutschland" type="rss" xmlUrl="http://blog.new-scientist.de/feed/" htmlUrl="http://blog.new-scientist.de"/>
+<outline text="Redaktionsblog DRadio Wissen" title="Redaktionsblog DRadio Wissen" type="rss" xmlUrl="http://blog.dradiowissen.de/feed/" htmlUrl="http://blog.dradiowissen.de"/>
+<outline text="Astronaut Class of 2009" title="Astronaut Class of 2009" type="rss" xmlUrl="http://blogs.esa.int/astronauts/feed/" htmlUrl="http://blogs.esa.int/astronauts"/>
+<outline text="academics Blogs - die Blogs aus Wissenschaft und Forschung" title="academics Blogs - die Blogs aus Wissenschaft und Forschung" type="rss" xmlUrl="http://www.academics.de/blog/index.php/feed/" htmlUrl="http://www.academics.de/blog"/>
+<outline text="Brendan Griffen" title="Brendan Griffen" type="rss" xmlUrl="http://bgriffen.scripts.mit.edu/www/feed/" htmlUrl="http://bgriffen.scripts.mit.edu/www"/>
+<outline text="Alles was fliegt" title="Alles was fliegt" type="rss" xmlUrl="http://feeds.feedburner.com/AllesWasFliegt" htmlUrl="http://www.astirn.de/blog"/>
+<outline text="ALBERTopen" title="ALBERTopen" type="rss" xmlUrl="http://albertopen.telegrafenberg.de/?feed=rss2" htmlUrl="http://albertopen.telegrafenberg.de"/>
+<outline text="Cornelius Puschmann's Blog" title="Cornelius Puschmann's Blog" type="rss" xmlUrl="http://blog.ynada.com/feed" htmlUrl="http://blog.ynada.com"/>
+<outline text="Creative Commons" title="Creative Commons" type="rss" xmlUrl="https://creativecommons.org/feed/rss" htmlUrl="https://creativecommons.org"/>
+<outline text="Divergent" title="Divergent" type="rss" xmlUrl="http://divergent.de/feed/" htmlUrl="http://divergent.de"/>
+<outline text="Diax's Rake" title="Diax's Rake" type="rss" xmlUrl="http://feeds.feedburner.com/ScienceBlogs/DiaxsRake?format=xml" htmlUrl="http://www.scienceblogs.de/diaxs-rake/"/>
+<outline text="Free Science Blog" title="Free Science Blog" type="rss" xmlUrl="http://www.frank-m-richter.de/freescienceblog/feed/" htmlUrl="http://www.frank-m-richter.de/freescienceblog"/>
+<outline text="Forschungsmafia" title="Forschungsmafia" type="rss" xmlUrl="http://www.forschungsmafia.de/blog/feed/" htmlUrl="http://www.forschungsmafia.de/blog"/>
+<outline text="DLR - Blogs - KommBlog" title="DLR - Blogs - KommBlog" type="rss" xmlUrl="http://www.dlr.de/blogs/contentXXL/services/blogsexport/rss.asmx/getrssblogsbytabid?tabid=5921" htmlUrl="http://www.dlr.de/blogs/"/>
+<outline text="Ice-Blog" title="Ice-Blog" type="rss" xmlUrl="http://blog.zdf.de/ice-blog/feed/" htmlUrl="http://blog.zdf.de/ice-blog"/>
+<outline text="Internet &amp; Gesellschaft Co:llaboratory" title="Internet &amp; Gesellschaft Co:llaboratory" type="rss" xmlUrl="http://feeds.feedburner.com/collaboratory" htmlUrl="http://blog.collaboratory.de/"/>
+<outline text="katzenbach.info" title="katzenbach.info" type="rss" xmlUrl="http://feeds.feedburner.com/katzenbach" htmlUrl="http://katzenbach.info"/>
+<outline text="Leaving Orbit" title="Leaving Orbit" type="rss" xmlUrl="http://leavingorbit.wordpress.com/feed/" htmlUrl="http://leavingorbit.wordpress.com"/>
+<outline text="Language@Internet - All articles" title="Language@Internet - All articles" type="rss" xmlUrl="http://www.languageatinternet.org/feed/articles" htmlUrl="http://www.languageatinternet.org"/>
+<outline text="Mathlog" title="Mathlog" type="rss" xmlUrl="http://feeds.feedburner.com/ScienceBlogs/Mathlog" htmlUrl="http://www.scienceblogs.de/mathlog/"/>
+<outline text="Marcus Anhäuser" title="Marcus Anhäuser" type="rss" xmlUrl="http://marcus-anhaeuser.de/feed/" htmlUrl="http://marcus-anhaeuser.de"/>
+<outline text="olivertacke.de" title="olivertacke.de" type="rss" xmlUrl="http://www.olivertacke.de/feed/" htmlUrl="http://www.olivertacke.de"/>
+<outline text="Open Knowledge Foundation Deutschland" title="Open Knowledge Foundation Deutschland" type="rss" xmlUrl="http://okfn.de/feed/" htmlUrl="http://okfn.de"/>
+<outline text="Open Science" title="Open Science" type="rss" xmlUrl="http://openscience.com/feed/" htmlUrl="http://openscience.com"/>
+<outline text="Open Science Projekt" title="Open Science Projekt" type="rss" xmlUrl="http://openscience.alpine-geckos.at/feed/" htmlUrl="http://openscience.alpine-geckos.at"/>
+<outline text="Schmidt mit Dete" title="Schmidt mit Dete" type="rss" xmlUrl="http://feeds.feedburner.com/SchmidtMitDete" htmlUrl="http://www.schmidtmitdete.de"/>
+<outline text="scinoptica Blog" title="scinoptica Blog" type="rss" xmlUrl="http://feeds.feedburner.com/scinopticablog" htmlUrl="http://www.scinoptica.com"/>
+<outline text="SciencePicture" title="SciencePicture" type="rss" xmlUrl="http://feeds.feedburner.com/ScienceBlogs/SciencePicture?format=xml" htmlUrl="http://www.scienceblogs.de/sciencepicture/"/>
+<outline text="[sic]" title="[sic]" type="rss" xmlUrl="http://feeds.feedburner.com/ScienceBlogs/SIC" htmlUrl="http://www.scienceblogs.de/sic/"/>
+<outline text="Sandra in the Sky" title="Sandra in the Sky" type="rss" xmlUrl="http://www.sandrahofhues.de/feed/" htmlUrl="http://www.sandrahofhues.de"/>
+<outline text="SCIENCE-MEETS-SOCIETY" title="SCIENCE-MEETS-SOCIETY" type="rss" xmlUrl="http://www.science-meets-society.com/feed/" htmlUrl="http://www.science-meets-society.com"/>
+<outline text="Science Commons" title="Science Commons" type="rss" xmlUrl="http://sciencecommons.org/feed/" htmlUrl="http://sciencecommons.org"/>
+<outline text="RelativKritisch" title="RelativKritisch" type="rss" xmlUrl="http://www.relativ-kritisch.net/blog/feed" htmlUrl="http://www.relativ-kritisch.net/blog"/>
+<outline text="Open Movements" title="Open Movements" type="rss" xmlUrl="http://openmovements.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://openmovements.blogspot.com/"/>
+<outline text="SpaceTweetup" title="SpaceTweetup" type="rss" xmlUrl="http://blogs.esa.int/spacetweetup/feed/" htmlUrl="http://blogs.esa.int/spacetweetup"/>
+<outline text="Strippel" title="Strippel" type="rss" xmlUrl="https://strippel.wordpress.com/feed/" htmlUrl="http://strippel.wordpress.com"/>
+<outline text="Stifterverband - Newsfeed" title="Stifterverband - Newsfeed" type="rss" xmlUrl="http://www.stifterverband.info/presse/rssfeed/stifterverband_news.xml" htmlUrl="http://www.stifterverband.info/"/>
+<outline text="Marco Trovatello" title="Marco Trovatello" type="rss" xmlUrl="http://spaceweblog.de/feed/" htmlUrl="http://superpolar.org"/>
+<outline text="The Stilettoed Mathematician" title="The Stilettoed Mathematician" type="rss" xmlUrl="https://sophiekershaw.wordpress.com/feed/" htmlUrl="http://sophiekershaw.wordpress.com"/>
+<outline text="TEXperimenTales" title="TEXperimenTales" type="rss" xmlUrl="http://texperimentales.hypotheses.org/feed" htmlUrl="http://texperimentales.hypotheses.org"/>
+<outline text="Towards a Common Strategic Framework for EU research and innovation policy" title="Towards a Common Strategic Framework for EU research and innovation policy" type="rss" xmlUrl="http://blogs.ec.europa.eu/csfri/feed/" htmlUrl="http://blogs.ec.europa.eu/csfri"/>
+<outline text="Wissenschaftsdebatte" title="Wissenschaftsdebatte" type="rss" xmlUrl="http://teli.de/blog/?feed=rss2" htmlUrl="http://www.wissenschaftsdebatte.de"/>
+<outline text="The Open Data Research Portal" title="The Open Data Research Portal" type="rss" xmlUrl="http://open-data.fokus.fraunhofer.de/?feed=rss2" htmlUrl="http://open-data.fokus.fraunhofer.de"/>
+<outline text="Welt am Sonnabend" title="Welt am Sonnabend" type="rss" xmlUrl="http://weltamsonnabend.wordpress.com/feed/" htmlUrl="http://weltamsonnabend.wordpress.com"/>
+<outline text="Wissenschafts-Café" title="Wissenschafts-Café" type="rss" xmlUrl="http://feeds.feedburner.com/Wissenschaftscafe?format=xml" htmlUrl="http://www.wissenschafts-cafe.net"/>
+<outline text="Wissenschaft und Neue Medien" title="Wissenschaft und Neue Medien" type="rss" xmlUrl="http://digiwis.wordpress.com/feed/" htmlUrl="http://digiwis.wordpress.com"/>
+<outline text="Wissen schafft Kommunikation" title="Wissen schafft Kommunikation" type="rss" xmlUrl="http://feeds.feedburner.com/ScienceBlogs/WissenSchafftKommunikation?format=xml" htmlUrl="http://www.scienceblogs.de/wissen-schafft-kommunikation/"/>
+<outline text="Wissenschaftskommunikation.info" title="Wissenschaftskommunikation.info" type="rss" xmlUrl="http://www.wissenschaftskommunikation.info/wordpress/feed/" htmlUrl="http://www.wissenschaftskommunikation.info/wordpress"/>
+<outline text="Wissenschaft kommuniziert" title="Wissenschaft kommuniziert" type="rss" xmlUrl="https://wissenschaftkommuniziert.wordpress.com/feed/" htmlUrl="http://wissenschaftkommuniziert.wordpress.com"/>
+<outline text="Wissenswerkstatt" title="Wissenswerkstatt" type="rss" xmlUrl="http://feeds.feedburner.com/Wissenswerkstatt?format=xml" htmlUrl="http://www.wissenswerkstatt.net"/>
+<outline text="Wissenschaft und neue Medien" title="Wissenschaft und neue Medien" type="rss" xmlUrl="http://digiwis.de/blog/feed/" htmlUrl="http://digiwis.de/blog"/>
+<outline text="wisspub.net" title="wisspub.net" type="rss" xmlUrl="http://wisspub.net/feed/" htmlUrl="http://wisspub.net"/>
+<outline text="Open Science Radio" title="Open Science Radio" type="rss" xmlUrl="http://www.openscienceradio.de/feed/mp3/" htmlUrl="http://www.openscienceradio.de"/>
+<outline text="netzpolitik.org » Netzpolitik-Podcast" title="netzpolitik.org » Netzpolitik-Podcast" type="rss" xmlUrl="https://netzpolitik.org/category/netzpolitik-podcast/feed/" htmlUrl="https://netzpolitik.org"/>
+<outline text="Science in the Open" title="Science in the Open" type="rss" xmlUrl="http://cameronneylon.net/feed/" htmlUrl="http://cameronneylon.net"/>
+<outline text="Scholarly Open Access" title="Scholarly Open Access" type="rss" xmlUrl="http://scholarlyoa.com/feed/" htmlUrl="http://scholarlyoa.com"/>
+<outline text="Gobbledygook" title="Gobbledygook" type="rss" xmlUrl="http://feeds.plos.org/plos/blogs/mfenner" htmlUrl="http://blogs.plos.org/mfenner"/>
+<outline text="OKF Open Science Working Group" title="OKF Open Science Working Group" type="rss" xmlUrl="http://science.okfn.org/feed/" htmlUrl="http://science.okfn.org"/>
+<outline text="Open Knowledge Foundation Blog" title="Open Knowledge Foundation Blog" type="rss" xmlUrl="http://blog.okfn.org/feed/" htmlUrl="http://blog.okfn.org"/>
+<outline text="Gobbledygook" title="Gobbledygook" type="rss" xmlUrl="http://blog.martinfenner.org/rss" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fblog.martinfenner.org%2Frss"/>
+<outline text="GUTE STUBE" title="GUTE STUBE" type="rss" xmlUrl="http://www.scilogs.de/wblogs/rss.php?blogId=7&amp;profile=rss20" htmlUrl="http://www.scilogs.de/wblogs/blog/gute-stube"/>
+<outline text="Quantensprung" title="Quantensprung" type="rss" xmlUrl="http://www.scilogs.de/blogs/rss.php?blogId=34&amp;profile=rss20" htmlUrl="http://www.scilogs.de/blogs/blog/quantensprung"/>
+<outline text="Robotergesetze" title="Robotergesetze" type="rss" xmlUrl="http://www.robotergesetze.com/feed/" htmlUrl="http://www.robotergesetze.com"/>
+<outline text="Ross Mounce" title="Ross Mounce" type="rss" xmlUrl="http://rossmounce.co.uk/feed/" htmlUrl="http://rossmounce.co.uk"/>
+<outline text="Sciencestarter" title="Sciencestarter" type="rss" xmlUrl="http://www.scilogs.de/wblogs/rss.php?blogId=67&amp;profile=rss20" htmlUrl="http://www.scilogs.de/wblogs/blog/sciencestarter"/>
+<outline text="Fernando Perez" title="Fernando Perez" type="rss" xmlUrl="http://blog.fperez.org/feeds/posts/default?alt=rss" htmlUrl="http://blog.fperez.org"/>
+<outline text="What If?" title="What If?" type="rss" xmlUrl="https://what-if.xkcd.com/feed.atom" htmlUrl="https://what-if.xkcd.com"/>
+<outline text="Space X News" title="Space X News" type="rss" xmlUrl="http://www.spacex.com/news.xml" htmlUrl="http://www.spacex.com/news"/>
+<outline text="Science and the Web" title="Science and the Web" type="rss" xmlUrl="https://science20.wordpress.com/feed/" htmlUrl="https://science20.wordpress.com"/>
+<outline text="Hybrid Publishing Lab NotepadHybrid Publishing Lab Notepad | Researching Scholarly Communication, Hybrid Publishing and Open Access" title="Hybrid Publishing Lab NotepadHybrid Publishing Lab Notepad | Researching Scholarly Communication, Hybrid Publishing and Open Access" type="rss" xmlUrl="https://hybridpublishing.org/feed/" htmlUrl="https://hybridpublishing.org"/>
+<outline text="Oceanblogs" title="Oceanblogs" type="rss" xmlUrl="http://www.oceanblogs.org/feed/" htmlUrl="http://www.oceanblogs.org"/>
+<outline text="openscienceASAP - Open Science as a Practice" title="openscienceASAP - Open Science as a Practice" type="rss" xmlUrl="http://openscienceasap.org/feed/" htmlUrl="http://openscienceasap.org"/>
+<outline text="Neues aus der Zukunft Archive Feed" title="Neues aus der Zukunft Archive Feed" type="rss" xmlUrl="http://us7.campaign-archive1.com/feed?u=4d872188e1421becdbfae7280&amp;id=ab2ca1169e" htmlUrl="http://us7.campaign-archive.com/feed?u=4d872188e1421becdbfae7280&amp;id=ab2ca1169e"/>
+<outline text="Kohnen-Antarktis-Expedition 2013/2014" title="Kohnen-Antarktis-Expedition 2013/2014" type="rss" xmlUrl="https://blogs.helmholtz.de/kohnen/feed/" htmlUrl="https://blogs.helmholtz.de/kohnen"/>
+<outline text="PLOS Opens" title="PLOS Opens" type="rss" xmlUrl="http://feeds.feedburner.com/PlosOpens" htmlUrl="http://blogs.plos.org/opens"/>
+<outline text="Discussions – F1000 Research" title="Discussions – F1000 Research" type="rss" xmlUrl="http://blog.f1000research.com/feed/" htmlUrl="http://blog.f1000research.com"/>
+<outline text="Leaving Orbit" title="Leaving Orbit" type="rss" xmlUrl="http://www.scilogs.de/leaving-orbit/feed/" htmlUrl="http://www.scilogs.de/leaving-orbit/"/>
+<outline text="brendangriffen.com" title="brendangriffen.com" type="rss" xmlUrl="http://brendangriffen.com/feed.xml" htmlUrl="http://www.brendangriffen.com"/>
+<outline text="TIB|Blog" title="TIB|Blog" type="rss" xmlUrl="https://blogs.tib.eu/wp/tib/feed/" htmlUrl="http://blogs.tib.eu/wp/tib"/>
+<outline text="Science Everybody" title="Science Everybody" type="rss" xmlUrl="http://scienceeverybody.org/feed/" htmlUrl="http://scienceeverybody.org/"/>
+<outline text="Scopus Blog | Elsevier" title="Scopus Blog | Elsevier" type="rss" xmlUrl="http://feeds.feedburner.com/scopus/blog" htmlUrl="http://blog.scopus.com/"/>
+<outline text="Science Publishing Laboratory" title="Science Publishing Laboratory" type="rss" xmlUrl="http://scipublab.wordpress.com/feed/" htmlUrl="http://scipublab.wordpress.com"/>
+<outline text="Mozilla Science Lab" title="Mozilla Science Lab" type="rss" xmlUrl="http://mozillascience.org/feed/" htmlUrl="http://mozillascience.org/blog/"/>
+<outline text="DOABlog" title="DOABlog" type="rss" xmlUrl="http://doabooks.wordpress.com/feed/" htmlUrl="http://doabooks.wordpress.com/"/>
+<outline text="openingscience.org" title="openingscience.org" type="rss" xmlUrl="http://www.openingscience.org/feed/" htmlUrl="http://www.openingscience.org"/>
+<outline text="Alexander von Humboldt Institut für Internet und Gesellschaft" title="Alexander von Humboldt Institut für Internet und Gesellschaft" type="rss" xmlUrl="http://www.hiig.de/en/feed/" htmlUrl="http://www.hiig.de/en/blog/"/>
+<outline text="Altmetric.com" title="Altmetric.com" type="rss" xmlUrl="http://www.altmetric.com/blog/feed/" htmlUrl="http://www.altmetric.com/blog"/>
+<outline text="petermr's blog" title="petermr's blog" type="rss" xmlUrl="https://blogs.ch.cam.ac.uk/pmr/feed/" htmlUrl="https://blogs.ch.cam.ac.uk/pmr/"/>
+    </outline>
+  </body>
+</opml>
