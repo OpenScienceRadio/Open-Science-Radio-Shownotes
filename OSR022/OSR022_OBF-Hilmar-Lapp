@@ -1,0 +1,73 @@
+header
+Podcast: Open Science Radio
+Episode: 22
+Episode Title: OSR022
+Starttime: 09.07.2014 21:45:00
+Endtime: 02.06.2014 23:15:00 
+Podcaster: Matthias Fromm, Konrad Förstner, Hilmar Lapp
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+Open Knowledge Festival 2014; <http://2014.okfestival.org/> #link
+Hilmar Lapp; <http://lappland.io/pages/about/> #link
+Open Bioinformatics Foundation (OBF); <http://www.open-bio.org/wiki/Main_Page> #link
+
+00:02:20.000 Zur Person #chapter
+
+Biologie- und Informatikstudium an der Uni Freiburg;
+Novartis Forschungsinstitut in Wien;
+Funktionale Genomik; <https://en.wikipedia.org/wiki/Functional_genomics> #glossary
+Target Identifizierung; 
+Novartis Institute for Functional Genomics; <http://www.dpr.com/projects/novartis-institute-for-functional-genomics-nifg-west-coast-headquarters> #link
+GNF Genomics Institute of the Novartis Research Foundation; <http://www.gnf.org/> #link
+Angewandte Bioinformatik;
+NESCENT; <http://nescent.org/> #link
+NSF National Science Foundation; <http://www.nsf.gov/> #link
+Evolutionsbiologie; <https://de.wikipedia.org/wiki/Evolutionsbiologie> #glossary 
+Evolutionswissenschaften;
+Evolutionstheorie; <https://de.wikipedia.org/wiki/Evolutionstheorie> #glossary
+Charles Darwin; <https://de.wikipedia.org/wiki/Charles_Darwin> #glossary
+Sozialdarwinismus; <https://de.wikipedia.org/wiki/Sozialdarwinismus> #glossary 
+Director of Informatics - Duke Center for Genomic and Computational Biology (GCB); <http://www.genome.duke.edu/> #link
+Bioinformatik; <https://de.wikipedia.org/wiki/Bioinformatik> #glossary
+Molekularbiologie; <https://de.wikipedia.org/wiki/Molekularbiologie> #glossary
+Molekulargenetik; 
+Physik;
+High Performance Computing; <https://de.wikipedia.org/wiki/High_Performance_Computing> #glossary
+Cloud Computing; <https://de.wikipedia.org/wiki/Cloud_Computing> #glossary
+
+00:19:48.500 Open Bioinformatics Foundation und Projekte #chapter
+
+Open Source; <https://en.wikipedia.org/wiki/Open_source> glossary
+Bioinformatics Open Source Conference BOSC; <http://www.open-bio.org/wiki/BOSC> #link
+Open Bioinformatics Foundation (OBF); <http://www.open-bio.org/wiki/Main_Page> #link
+OBF Projekte; <http://www.open-bio.org/wiki/Projects> link
+Öffentliche Konsultationen;
+NIH; <https://de.wikipedia.org/wiki/National_Institutes_of_Health> #glossary
+Prinzipien der OBF;
+ISMB Conference; <http://www.iscb.org/ismb2014> #link
+Computational Biology; <https://en.wikipedia.org/wiki/Computational_biology> #glossary
+OBF Hackathons und Codefest; <http://www.open-bio.org/wiki/Hackathon> #link
+Beitrag von Hilmar zu BioPerl db und BioSQL; <http://www.bioperl.org/wiki/User:Lapp> #link
+DataDryad; <http://datadryad.org/> #link
+GenBank; <https://www.ncbi.nlm.nih.gov/genbank> #link
+PDB; <http://www.rcsb.org/pdb/home/home.do> #link
+Finanzierungsmodell von Dryad;
+Dryad Funding und Reporting; <http://datadryad.org/pages/organization#funding> #link
+Data from: 40 years of evolution. Darwin's finches on Daphne Major Island; <http://datadryad.org/resource/doi:10.5061/dryad.g6g3h> #link
+Data Obersavtion Network for Earth DataONE; <https://www.dataone.org/> #link
+DataONE CCIT; <https://www.dataone.org/CCIT> #link
+IEvoBio Conference; <http://ievobio.org/open-source/> #link
+Data Sharing; <https://en.wikipedia.org/wiki/Data_sharing> #glossary
+Reproducibility; <https://en.wikipedia.org/wiki/Reproducibility> #glossary
+
+01:11:41.000 Epilog #chapter
+
+Research Data Alliance RDA; <https://rd-alliance.org/> #link
+BOSC 2014 video recording; <http://news.open-bio.org/news/2014/06/bosc-2014-video-recording/> #link
+Hilmar auf Twitter; <http://twitter.com/hlapp> #link
+Hilmar's Blog; <http://lappland.io/> #link
