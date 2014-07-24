@@ -1,0 +1,104 @@
+header
+Podcast: Open Science Radio
+Episode: 23
+Episode Title: OSR023
+Starttime: 21.07.2014 21:15:00
+Endtime: 21.07.2014 22:45:00 
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+OSR022 mit Hilmar Lapp; <http://www.openscienceradio.de/2014/07/13/osr022-open-bioinformatics-mit-hilmar-lapp/> #link
+Open Knowledge Festival 2014; <http://2014.okfestival.org/> #link
+
+00:02:38.000 Hausmeisterei #chapter
+
+The Oatmeal; <http://theoatmeal.com/> #link
+The Oatmeal Comic zu Tesla; <http://theoatmeal.com/comics/tesla> #link
+Elon Musk; <https://en.wikipedia.org/wiki/Elon_Musk> #glossary
+Tesla Motors; <https://en.wikipedia.org/wiki/Tesla_Motors> #glossary
+Nikola Tesla; <https://en.wikipedia.org/wiki/Nikola_Tesla> #glossary
+Werbung in amerikanischen Podcasts;
+Podlove; <http://podlove.org/> #link
+Shownotes; <http://shownot.es/> #link
+ORCID; <http://orcid.org/> #link
+DOI; <https://en.wikipedia.org/wiki/Digital_object_identifier> #glossary
+Figshare; <http://figshare.com/> #link
+Zenodo; <https://zenodo.org/> #link
+Altmetrics; <https://en.wikipedia.org/wiki/Altmetrics> #glossary
+Article Level Metrics bei PLOS; <http://www.plosone.org/static/almInfo> #link
+Open vs. Closed Access;
+Modellansatz Podcast; <https://www.math.kit.edu/ianm4/seite/modellansatz/de> #link
+Methodisch Inkorrekt; <http://www.methodisch-inkorrekt.de> #link
+KonScience; <http://www.konscience.de/> #link
+The Internet Archive; <https://archive.org/index.php> #link
+
+00:17:37.000 OKFest 2014 #chapter
+
+Open Knowledge Foundation; <https://okfn.org/> #link
+Programm des Open Knowledge Festival 2014; <http://2014.okfestival.org/festival-programme/> #link
+Kurzer Blogpost von Matthias; <http://www.offene-wissenschaft.de/2014/07/17/okfestival-2014/> #link
+Unconference; <https://en.wikipedia.org/wiki/Unconference> #glossary
+BarCamp; <https://en.wikipedia.org/wiki/BarCamp> #glossary
+OKFest 2014 Keynotes sind auf Youtube verfügbar; <https://www.youtube.com/channel/UCQe-pXn0XZzmRzvyOMZpfEg> #link
+Neelie Kroes; <https://en.wikipedia.org/wiki/Neelie_Kroes> #glossary
+Eric Hysen; <http://2014.okfestival.org/okfestival-keynote-spotlight-eric-hysen/> #link
+Open Knowledge Cast; <http://okcast.org/> #link
+OKCAST mit Max Ogden; <http://okcast.org/2014/07/videos-from-csvconf-a-okfest14-fringe-event/> #link
+OKCast mit Joe McArthur; <http://okcast.org/2014/07/okfestival-2014-joe-mcarthur-of-right-to-research-and-open-access-button-interview/> #link
+Open Access Button; <https://www.openaccessbutton.org/> #link
+Fringe Events; <http://2014.okfestival.org/okfestival-fringe-events/> #link
+CVSConf; <http://csvconf.com/> #link
+PeerLibrary; <https://peerlibrary.org/> #link
+ScienceOpen; <https://www.scienceopen.com/home> #link
+
+00:31:25.000 OKFest 2014 Sessions #chapter
+
+Session: Open Access Global Review (Etherpad); <https://pad.okfn.org/p/Open_Access_Global_Review> #link
+Cameron Neylon; <https://en.wikipedia.org/wiki/Cameron_Neylon> #glossary
+Wiley; <http://eu.wiley.com/WileyCDA/Section/index.html> #link
+Session: Exploding Open Science! Awareness, training, funding (Etherpad); <https://pad.okfn.org/p/Exploding_Open_Science> #link
+Session: Panton Principles for the Humanities (Etherpad); <https://pad.okfn.org/p/Panton_Principles_for_the_Humanities> #link
+Suggestion from Ian Emsley; <http://austgate.co.uk/2013/10/repost-of-principles-for-open-humanities-and-literature/> #link
+Panton Principles; <http://pantonprinciples.org/> #link
+Humanities; <https://en.wikipedia.org/wiki/Humanities> #glossary
+Peter Kraker; <https://twitter.com/PeterKraker> #link
+Session: Testing the efficiency of open versus traditional science (Etherpad); <https://pad.okfn.org/p/open_versus_traditional_science> #link
+Daniel Mietchen; <https://twitter.com/EvoMRI> #link
+Jenny Molloy; <https://twitter.com/jenny_molloy> #link
+Alexandre Hannud Abdo; <http://www.cecm.usp.br/~eris/en/> #link
+Open Source Malaria; <http://opensourcemalaria.org/> #link
+Blogpost von Daniel Mietchen dazu; <http://2014.okfestival.org/can-we-make-research-more-efficient-through-increased-openness/> #link
+Session: Skills and tools for web native Open Science (Etherpad); <https://pad.okfn.org/p/Skills_and_tools_for_web_native_Open_Science> #link
+Karthik Ram; <http://nature.berkeley.edu/~kram/about/> #link
+Markdown; <https://en.wikipedia.org/wiki/Markdown> #glossary
+R; <https://en.wikipedia.org/wiki/R_(programming_language)> #glossary
+rOpenSci; <http://ropensci.org/> #link
+Twitter; <twitter.com> #link
+Software Carpentry; <http://software-carpentry.org/> #link
+Greg Wilson; <http://www.third-bit.com/about.html> #link
+Session: Open, Digital Science - moving beyond open access (Etherpad); <https://pad.okfn.org/p/Open,_Digital_Science> #link
+Public Consultation Science 2.0; <http://www.consultation-science20.eu/> #link
+Tweet von Eduardo Robles "It's a tragedy we had to add the word open to science."; <https://twitter.com/openscience/statuses/446942010554191872> #link
+Wiedernutzungsrecht;
+Fringe Event "Open science outside English-speaking communities: Founding a german-speaking Open Science Working Group"; <https://pad.okfn.org/p/okfestkickoffsession> #link
+Open Knowledge Foundation Deutschland e.V.; <http://okfn.de/> #link
+Open Science DE Mailingliste; <https://lists.okfn.org/mailman/listinfo/open-science-de> #link
+BioStrike; <http://brmlab.cz/project/biolab/biostrike> #link
+BioTinkerer; <https://www.biotinkering-berlin.de/?lang=de> #link
+Open Definition; <http://opendefinition.org/> #link
+
+01:17:08.000 Epilog #chapter
+
+Programm der Open Access Tage; <http://open-access.net/de/aktivitaeten/open_access_tage/programm/> #link
+Petition "Perspektive statt Befristung"; <https://www.openpetition.de/petition/online/perspektive-statt-befristung-fuer-mehr-feste-arbeitsplaetze-im-wissenschaftsbereich> #link
+PM zur Petition; <http://www.perspektive-statt-befristung.de/PM_Perspektive_statt_Befristung_20140711.pdf> #link
+Open Science Radio in Englisch;
+
+
+
+
