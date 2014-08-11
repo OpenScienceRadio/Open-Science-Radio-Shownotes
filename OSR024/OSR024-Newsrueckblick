@@ -1,0 +1,99 @@
+header
+Podcast: Open Science Radio
+Episode: 24
+Episode Title: OSR024
+Starttime: 07.08.2014 20:30:00
+Endtime: 07.08.2014 22:30:00 
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+TWIG; <http://twig.sensiolabs.org/> #link
+OSR022 mit Hilmar Lapp; <http://www.openscienceradio.de/2014/07/13/osr022-open-bioinformatics-mit-hilmar-lapp/> #link
+OSR023 zum OKFest; <http://www.openscienceradio.de/2014/07/23/osr023-okfestival-2014/> #link
+
+00:02:14.000 Hausmeisterei #chapter
+
+Weniger Reaktionen auf die Folge;
+Wenn thematische Wünsche bestehen, diese gern äußern;
+
+00:04:16.500 Backlog #chapter
+
+Open Development Toolkit; <http://opendevtoolkit.net/en-US/> #link
+School of Data; <http://schoolofdata.org/> #link
+DeGruyter Open; <http://degruyteropen.com/> #link
+bei openscience.com gibt es gerade eine Serie wie man Open Access Bücher promotet; <http://openscience.com/tag/book-author/> #link
+Sebastian Nordhoff; <https://hpsg.fu-berlin.de/~snordhoff/> #link
+SciLangPress an der FU; <http://langsci-press.org/> #link
+Lucy Petterson; <https://twitter.com/lu_cyP> #link
+Max-Delbrück-Centrum für Molekulare Medizin; <https://www.mdc-berlin.de/> #link
+Tweet von Lucy Patterson Science Hack Day Berlin; <https://twitter.com/lu_cyP/status/497454060736643072> #link
+Science Hackday am 24.-26.10.; <http://berlin.sciencehackday.org/> #link
+State Festival of Science; <http://www.statefestival.org/> #link
+Elsevier, Springer und Thieme verklagen ETH-Bibliothek und bekommen Recht; <http://wisspub.net/2014/06/05/elsevier-springer-und-thieme-verklagen-eth-bibliothek-und-bekommen-recht/> #link
+OMICS Group Praktiken; <http://scholarlyoa.com/2014/08/07/omics-publishing-groups-abuse-of-researchers-more-evidence/> #link
+Konrad's Paper wird publiziert;
+BioInformatics; <http://bioinformatics.oxfordjournals.org/> #link
+Grüner Weg; <https://de.wikipedia.org/wiki/Open_Access#Gr.C3.BCner_Weg> #glossary
+The Internet's Own Boy: The Story of Aaron Swartz; <https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz> #link
+Open Guerilla Manifesto; <https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt> #link
+OSR002 zu Aaron Swartz; <http://www.openscienceradio.de/2013/01/14/osr002-pdftribute-und-open-access/> #link
+How Aaron Swartz paved way for Jack Andraka's revolutionary cancer test; <http://www.vancouverobserver.com/world/how-aaron-swartz-paved-way-jack-andrakas-revolutionary-cancer-test> #link
+Matthias Blogpost zur Doku; <http://www.offene-wissenschaft.de/2014/07/14/the-internets-own-boy/> #link
+Jack Andraka; <https://en.wikipedia.org/wiki/Jack_Andraka> #glossary
+Tesla Motors verzichtet auf Patentstreite; <http://www.teslamotors.com/blog/all-our-patent-are-belong-you> #link
+CRE 138 Basteln im 21.Jahrhundert; <http://cre.fm/cre138-basteln-im-21-jahrhundert> #link
+Elons Musk; <https://en.wikipedia.org/wiki/Elon_Musk> #glossary
+SpaceX; <http://www.spacex.com/> #link
+Tesla Museum; <http://www.teslasciencecenter.org/> #link
+OER Schulbuch Sprint; <http://www.startnext.de/oer-schulbuch-sprint> #link
+Schulbuch-o-Mat; <http://schulbuch-o-mat.de/> #link
+DUZ-Beitzrag: Mit der Lizenz zum Lernen; <http://www.duz.de/duz-magazin/2014/07/mit-der-lizenz-zum-lernen/255> #link
+Scholar Ninja - An open distributed search engine for science; <http://juretriglav.si/an-open-distributed-search-engine-for-science/> #link
+WebRTC; <https://en.wikipedia.org/wiki/WebRTC> #glossary
+ScienceGist; <http://www.sciencegist.com/> #link
+rchive.it; <http://rchive.it/> #link
+EC is launching a consultation on Science 2.0 / Open Science - Rede von Máire GEOGHEGAN-QUINN; <http://www.makingspeechestalk.com/ch/CommentMaire/?id_speech=35> #link
+Öffentliche Konsultationen der BBAW zum wissenschaftlichen Publikationssystem; <http://www.publikationssystem.de/> #link 
+Open Science Framework; <https://osf.io/> #link
+SCOAP; <http://www.scoap3.de/home/> #link
+Martin Köhler zu SCOAP beim Deutschlandfunk; <http://www.deutschlandfunk.de/bibliotheken-open-access-auf-breiter-front.676.de.html?dram:article_id=275327> #link
+Deutsches Elektronen-Synchotron DESY; <https://de.wikipedia.org/wiki/Deutsches_Elektronen-Synchrotron> #glossary
+Björn Brembs; <http://brembs.net/> #link
+Laborjournal; <http://www.laborjournal.de/> #link
+Siegfried Bär "Forschen auf Deutsch"; <http://www.amazon.de/Forschen-auf-Deutsch-Machiavelli-Forscher/dp/3817116837> #link
+Brembs Artikel "Digitale Steinzeit"; <http://www.laborjournal.de/j20/j_05.lasso> #link
+Hubert Rehm/Siegfried Bär; <https://de.wikipedia.org/wiki/Hubert_Rehm> #glossary
+SAGE muss Paper zurückziehen; <http://retractionwatch.com/2014/07/08/sage-publications-busts-peer-review-and-citation-ring-60-papers-retracted/> #link
+Methodisch Inkorrekt Folge 30; <http://241568.website.snafu.de/wordpress/?p=542> #link
+Offener Brief an die Europäische Kommission zum Human Brain Project; <http://www.neurofuture.eu/> #link
+Human Brain Project; <https://en.wikipedia.org/wiki/Human_Brain_Project> #glossary
+Antwort der EU; https://ec.europa.eu/digital-agenda/en/blog/no-single-roadmap-understanding-human-brain
+Pavel Tomanka; <http://www.mpi-cbg.de/de/research/research-groups/pavel-tomancak.html> #link
+OpenSPIM; <http://openspim.org/Welcome_to_the_OpenSPIM_Wiki> #link
+DIY Biologie;
+Konrad's Talk zu Automatisierung; <https://speakerdeck.com/konrad/the-automation-of-science> #link
+Bund will Kooperationsverbot von Bund und Hochschulen lockern;
+Deutschlandfunk-Beitrag dazu; <http://www.deutschlandfunk.de/hochschulen-kabinett-will-kooperationsverbot-lockern.1818.de.html?dram:article_id=291923> #link
+BMBF Informationen dazu; <http://www.bmbf.de/de/17975.php?hilite=Kooperationsverbot> #link
+CVPR stimmt für Peer Review (PDF); <http://www.pamitc.org/cvpr14/files/cvpr2014-vote-results.pdf> #link
+Authorea: The Fork Factor: an academic impact factor based on reuse; <https://authorea.com/users/6973/articles/8213/_show_article> #link
+Titus C. Brown's BOSC Talk "A History of Bioinformatics (in the Year 2039)"; <https://www.youtube.com/watch?v=uwsjwMO-TEA> #link #video
+Ray Kurzweil; <https://en.wikipedia.org/wiki/Ray_Kurzweil> #link
+Gary Burnhardt's Talk "The Birth and Death of JavaScript"; <https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript> #link
+Software Carpentry; <http://software-carpentry.org/> #link
+Mozilla Science Sprint; <http://mozillascience.org/the-mozsprint-heard-round-the-world/> #link
+PubMedCommons im neuen Gewand und sehr präsent bei PubMed; <http://pubmedcommonsblog.ncbi.nlm.nih.gov/2014/07/28/unveiling-a-new-look-and-more-for-pubmed-commons/> #link
+A macroscopic view of cultural history; <https://www.sciencemag.org/content/345/6196/558> #link
+Matthias Anfrage bei den Shownotes bezüglich Kenntlichmachung offener und geschlossener Paper; <https://github.com/shownotes/OpenShownotesFormat/issues/12>
+Shownot.es; <http://shownot.es/> #link
+Artikel "Universities 'get poor value' from academic journal-publishing firms"; <http://www.theguardian.com/science/2014/jun/16/universities-get-poor-value-academic-journal-publishing-firms> #link
+Artikel "Evaluating big deal journal bundles"; <www.pnas.org/content/early/2014/06/11/1403006111>
+Ulrich Herb: "The prevalence of Open Access publication fees"; <http://www.scinoptica.com/pages/topics/the-prevalence-of-open-access-publication-fees.php>
+Artikel "Secret bundles of profit"; <http://www.sciencemag.org/content/344/6190/1332.summary>
+
+01:53:38.500 Epilog #chapter
