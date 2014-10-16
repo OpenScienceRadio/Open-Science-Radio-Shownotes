@@ -1,0 +1,136 @@
+header
+Podcast: Open Science Radio
+Episode: 25
+Episode Title: OSR025
+Starttime: 13.10.2014 20:30:00
+Endtime: 13.10.2014 23:08:00 
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+Nach einiger Zeit Verzögerung sind wir wieder "back on track";
+
+00:01:23.500 Hausmeisterei #chapter
+
+Kommentare und Themenwunsch von Oliver;
+Sean Eddy; <https://en.wikipedia.org/wiki/Sean_Eddy> #glossary
+Hidden Markov Model; <https://en.wikipedia.org/wiki/Hidden_Markov_model> #glossary
+HMMER; <https://en.wikipedia.org/wiki/HMMER> #glossary
+Methodisch Inkorrekt führt OA-Kennzeichnung ein; <http://www.methodisch-inkorrekt.de> #link
+GanzOhr2014 Wissenschaftspodcastertreffen in Witten/Herdecke (u.a. mit Methodisch Inkorrekt, omega tau Podcast, Modellansatz, etc.); <http://www.uni-wh.de/en/news/details/artikel/ganzohr2014/> #link
+Auditive Nachberichterstattung gibt es im Podcast von Martin Rützler bei; <http://www.radiomono.net/?cat=3> #link
+
+00:20:16.500 News - 3DPrint #chapter
+
+NHI hat eine Plattform zum austauschen von 3D-Print-Modellen; <http://3dprint.nih.gov/> #link
+Thingiverse; <http://www.thingiverse.com/> #link
+FabLab; <https://en.wikipedia.org/wiki/Fab_lab> #glossary
+Protein Database (PDB); <http://www.rcsb.org/pdb/home/home.do> #link
+Open Hardware; <https://en.wikipedia.org/wiki/Open_source_hardware> #glossary
+OpenSPIM; <http://openspim.org/Welcome_to_the_OpenSPIM_Wiki> #link
+
+00:31:46.000 News - Open Access/Open Science Strategien #chapter
+
+Berliner Abgeordnetenhaus beschließt Anschub einer Open-Access-Strategie (PDF zum Antrag); <http://www.parlament-berlin.de/ados/17/IIIPlen/vorgang/d17-1655.pdf> #link
+Anhörung Nordrhein Westfalen;
+Schleswig Holstein; <http://www.schleswig-holstein.de/MBW/DE/BildungsWissenschaftsdialog/Open_Access/Tagung_Open_Access_node.html> #link
+E-Science Strategie Baden-Würtemberg (PDF); <http://mwk.baden-wuerttemberg.de/uploads/media/066_PM_Anlage_E-Science_Web.pdf> #link
+DFG verlängert Förderprogramm “Open Access Publizieren”; <http://www.dfg.de/foerderung/info_wissenschaft/info_wissenschaft_14_51/index.html> #link
+ICSU gibt Empfehlungen zu Open Science (PDF); <http://www.icsu.org/general-assembly/news/ICSU%20Report%20on%20Open%20Access.pdf> #link
+Martin Haspelmath Interview beim Hybrid Publishing Lab; <https://hybridpublishing.org/2014/10/martin-haspelmath-on-the-mess-that-open-access-has-become/> #link
+The Post-Digital Publisher Conference: Publishing between Open Access, Piracy and Public Spheres; <https://hybridpublishing.org/postdigital-scholar-conference/> #link
+Björn Bremb's Artikel im Laborjournal "Digitale Steinzeit"; <http://www.laborjournal.de/j20/j_05.lasso> #link
+SciELO; <http://www.scielo.br/> #link
+DFG-Antrag zum Open Access Rundgespräch; <https://zenodo.org/record/11639#.VDwpUWR_s0w> #link
+
+00:47:18.500 News - Kooperationen #chapter
+
+Gerüchte zu Google Science (Wired Artikel); <http://www.wired.co.uk/news/archive/2014-08/13/google-science-would-we-need-it> #link
+Google Genomics; <https://cloud.google.com/genomics/> #link
+EGI European Grid Infrastructure; <http://www.egi.eu/> #link
+Federated Cloud; <https://www.egi.eu/infrastructure/cloud/> #link
+Authorea wirbt Geld für den Ausbau ein; <http://techcrunch.com/2014/09/22/authorea-seed/> #link
+Scholarly Markdown; <https://github.com/scholmd/scholmd> #link
+Markdown; <https://en.wikipedia.org/wiki/Markdown> #link
+ZappyLab is raising $1.5M to build the ‘GitHub for science research’; <http://venturebeat.com/2014/08/28/zappylab-is-raising-1-5m-to-build-the-github-for-science-research/> #link
+Recently; <https://twitter.com/Recently/status/458591854519668737> #link
+PubChase; <https://www.pubchase.com/> #link
+Protocols.io; <http://protocols.io/> #link
+WriteLaTEX und PeerJ verbünden sich; <https://www.writelatex.com/promos/peerj> #link
+Max-Planck-Gesellschaft schließt Deal mit PeerJ; <http://blog.peerj.com/post/97050873493/max-planck-authors-can-now-publish-for-free-in-peerj> #link
+BioJS; <https://www.ebi.ac.uk/Tools/biojs/registry/> #link
+BioJS Article Collection bei F1000Research; <http://f1000research.com/article-collections/BioJS> #link
+
+01:12:52.000 News - Alternative Metriken #chapter
+
+PLoS ALM Reports ist nun Open Source; <https://github.com/articlemetrics/alm-report> #link
+Article Level Metrics (ALM); <http://alm.plos.org/#> #link
+Altmetrics weist jetzt auch Referenzen aus “Policy Documents” mit aus; <http://www.altmetric.com/blog/new-source-alert-policy-documents/?utm_source=rss&utm_medium=rss&utm_campaign=new-source-alert-policy-documents> #link
+Altmetrics; <http://altmetrics.org/manifesto/> #link
+Konrad hat Altmetrics in seiner Publikationsliste im Blog eingebaut; <http://konrad.foerstner.org/publications/> #link
+
+01:18:32.500 News - Open Access in Zeiten der Krise #chapter
+
+Ebola; <https://en.wikipedia.org/wiki/Ebola_virus_disease> #glossary
+Peter Murray Rust weist mal wieder auf die Wichtigkeit von OA hin, vor allem anhand der aktuellen Entwicklungen;
+Ebola: Closed Access means People Die; <https://blogs.ch.cam.ac.uk/pmr/2014/09/10/ebola-closed-access-means-people-die-14-year-old-nature-paper-costs-32-usd/> #link
+Ebola: Closed Access Means People Die, Free time is over at Wiley; <https://blogs.ch.cam.ac.uk/pmr/2014/09/10/ebola-closed-access-means-people-die-free-time-is-over-at-wiley/> #link
+Community Projekt mit Bezug zu Ebolabekämpfung (z.B. Computing for Ebola); <https://www.hackerleague.org/hackathons/computing-for-ebola-challenge> #link
+White House takes notice of reproducibility in science, and wants your opinion; <http://retractionwatch.com/2014/09/05/white-house-takes-notice-of-reproducibility-in-science-and-wants-your-opinion/> #link
+Konrad hofft auf verteilte Systeme als nichtträge Reaktionsinstanzen für wissenschaftliche Ad-hoc-Projekte;
+Global Coalition of Access to Research, Science and Education Organizations calls on STM to Withdraw New Model Licenses; <https://www.plos.org/global-coalition-of-access-to-research-science-and-education-organizations-calls-on-stm-to-withdraw-new-model-licenses/> #link
+Datenlizenz Deutschland; <https://www.govdata.de/lizenzen> #link
+
+01:43:09.000 News - Content and Data Mining #chapter
+
+Helmholtz Open Science Briefing: Rechtliche Aspekte von Text und Data Mining (PDF); <http://oa.helmholtz.de/fileadmin/user_upload/redakteur/Dokumente/helmholtz_osb_tdm.pdf> #link
+Peter Murray Rust über Contentmine.org; <https://blogs.ch.cam.ac.uk/pmr/2014/08/11/how-contentmine-org-will-extract-100-million-scientific-facts/> #link
+Contenmine.org; <http://contentmine.org/> #link
+Richard Smith-Unna; <http://www.researchgate.net/profile/Richard_Smith-Unna> #link
+Offener Brief an Elsevier wg. ihrer TDM-Strategie “Realising the innovative potential of digital research methods” (PDF); <http://libereurope.eu/wp-content/uploads/2014/07/Open-Letter-To-Elsevierv3.pdf> #link
+
+01:52:18.500 News - Artikelversionierung #chapter
+
+eLife führt neuen Article Type ein “Advanced Research”; <http://www.timeshighereducation.co.uk/news/journal-allows-authors-to-update-their-research/2015194.article> #link
+eLife; <http://elifesciences.org/> #link
+
+01:56:58.000 News - Open Science Akteure und Aktionen #chapter
+
+Review: 1. Open Science Arbeitsgruppentreffen im Juli 2014; <http://okfn.de/2014/08/review-1-open-science-arbeitsgruppentreffen-im-juli-2014/#sthash.9jUDf856.dpuf> #link
+Foster Open Science; <http://www.fosteropenscience.eu/events> #link
+FOSTER call for Open Science Training 2015; <http://www.fosteropenscience.eu/project/index.php?option=com_content&view=article&id=49&Itemid=304> #link
+Konrad war auf dem Open Science & Reproducibility Best Practice Workshop; <http://www.tgac.ac.uk/allbio-open-science-reproducibility-best-practice-workshop/> #link
+Genome Analysis Centre; <http://www.tgac.ac.uk/> #link
+Titus Brown; <http://www.mmg.msu.edu/brown.html> #link
+OARR: Open Access and Reproducible Research Compendium; <https://github.com/camillescott/oarr-compendium> #link
+Reviewers Oath erweiter Mick Watson's Vorschlag; <http://biomickwatson.wordpress.com/2013/02/11/the-reviewers-oath/> #link
+Publons turns peer review into a measurable output; <http://figshare.com/articles/The_Future_of_Academic_Research/871466> #link
+Umfrage des Leibniz-Forschungsverbunds science 2.0 zu Handling and Re-Use of Research Data; <https://fragebogen.diw.de//limesurvey2/index.php/971546/lang-en> #link
+TEDx Talk von Uri Alon; <http://www.tedxlausanne.org/speakers/uri-alon> #link
+Software Discovery Index; <http://softwarediscoveryindex.org/report/> #link
+
+02:13:38.000 Leseempfehlungen #chapter
+
+Laborjournal über Schattenbiobliotheken; <http://www.laborjournal-archiv.de/epaper/LJ_14_10/files/assets/basic-html/page24.html> #link
+Hybrid Publishing Lab Interview mit Balaz Badot (Korrektur - das Interview war bei irightsinfo); <http://irights.info/artikel/schattenbibliotheken-piraterie-oder-notwendigkeit/24058> #link
+Open Definition ist in Version 2.0 erschienen; <http://blog.okfn.org/2014/10/07/open-definition-v2-0-released-major-update-of-essential-standard-for-open-data-and-open-content/> #link
+Auch die Datenlizenz Deutschland ist in Version 2.0 erschienen und wird nunmehr den Anforderungen einer offenen Lizenz gerecht; <http://okfn.de/2014/09/erfolg-fuer-open-data-datenlizenz-deutschland-version-2-0-ist-eine-offene-lizenz/> #link
+Unglu.it-Aktion des Buches Issues in Open Research Data war erfolgreich; <https://unglue.it/work/140086/> #link
+Intransparenz schweizer Hochschulbibliotheken; <http://wisspub.net/2014/10/13/intransparenz-bei-den-bibliotheksausgaben-von-schweizer-hochschulen/> #link
+Naiko Jahn hat Ausgaben für Open Access Einreichungen einiger deutscher Unis visualisiert; <http://njahn82.github.io/unibiAPC/> #link
+Lesenswerter Beitrag bei First Monday (Peer Reviewed Journal on the Internet) von Katja Scheliga und Sascha Friesicke: “Putting Open Science into Practice: A Social Dilemma?” (OPEN); <http://firstmonday.org/ojs/index.php/fm/article/view/5381/4110> #link
+Spannender Blogpost von Emilio M. Bruna über seine Opportunitätskosten bei der Umsetzung von Open Science; <http://brunalab.org/blog/2014/09/04/the-opportunity-cost-of-my-openscience-was-35-hours-690/> #link
+
+02:27:14.000 Veranstaltungshinweise #chapter
+
+Open Science Days in Berlin; <http://osd.mpdl.mpg.de/> #link
+Science Hack Day; <http://berlin.sciencehackday.org/> #link
+Max-Delbrück Centrum; <https://www.mdc-berlin.de/> #link
+State Experience Festival Berlin; <http://www.statefestival.org/> #link
+Upcoming Events der Open Access Week; <http://www.openaccessweek.org/events> #link
+
+02:33:15.000 Epilog #chapter
