@@ -1,0 +1,117 @@
+header
+Podcast: Open Science Radio
+Episode: 26
+Episode Title: OSR026
+Starttime: 29.10.2014 20:30:00
+Endtime: 29.10.2014 22:45:00 
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+00:01:19.000 Hausmeisterei #chapter
+
+OSR025 Das XYZ der Wissenschaften; <http://www.openscienceradio.de/2014/10/16/osr025-das-xyz-der-wissenschaften/> #link
+Kaja Scheliga; <http://www.hiig.de/staff/kaja-scheliga-3/> #link
+komplette Interviews von Kaja Scheliga mit Open Scientists auf Zenodo abrufbar; <http://www.openingscience.org/2014/10/22/the-open-science-interviews/> #link
+Sascha Friesike; <http://www.hiig.de/staff/dr-sascha-friesike-2/> #link
+HIIG; <http://www.hiig.de/> #link
+Gegenüberstellung der "Open Science Schulen" von Sascha Friesike und Benedikt Fecher (OPEN); <http://www.hiig.de/publication/open-science-one-term-five-schools-of-thought/> #link
+protocols.io; <http://protocols.io/> #link
+Protokolle: Scientific Protocols auf Basis von Github; <https://www.scientificprotocols.org/> #link
+Github's Gist; <https://en.wikipedia.org/wiki/GitHub#Gist> #link
+Reproducibilty Inititative; <http://validation.scienceexchange.com/#/reproducibility-initiative> #link
+
+00:09:39.000 News - Open Access #chapter
+
+FOSTER Open Science; <http://www.fosteropenscience.eu/> #link
+OA Ambassador conference am MPI München; <http://www.fosteropenscience.eu/event/open-access-oa-ambassadors> #link
+Max-Planck Digital Library; <http://www.mpdl.mpg.de/> #link
+Open Access Heatmap von Ulrich Herb; <http://www.scinoptica.com/pages/topics/open-access-heatmap.php> #link
+CartoDB; <http://www.scinoptica.com/pages/topics/open-access-heatmap.php> #link
+Bis Ende November kostenlos in PeerJ publizieren; <http://blog.peerj.com/post/100497503613/celebrate-open-access-week-with-us-free-publication> #link
+Open Access Week; 
+PeerJ "Science Policy" section; <https://peerj.com/search/?&t=&type=articles&subject=&uid=&sort=&filter=Science%20Policy> #link
+Open Access Button Relaunch; <https://openaccessbutton.org/blog/new-apps-find-free-access-to-scientific-and-scholarly-research> #link
+MFR über den Open Access Button Relaunch; <http://www.offene-wissenschaft.de/2014/10/22/open-access-button-relaunch/> #link
+OSR025 über Schattenbibliotheken; <http://www.openscienceradio.de/2014/10/16/osr025-das-xyz-der-wissenschaften/#t=2:13:38> #link
+Lesenswerter Dreiteiler zu Open Access auf Netzpolitik - Teil I; <https://netzpolitik.org/2014/open-access-auf-dem-weg-zur-politischen-erfolgsgeschichte-teil-i-oa-im-gegenwind-des-wissenschaftlichen-zeitschriftenmarkts/> #link
+WZB Projektgruppe "Politikfeld Internet"; <http://www.wzb.eu/de/forschung/internationale-politik-und-recht/politikfeld-internet> #link
+De Gruyter nennt 8 Journal unter Nutzung des Präfixes "Open" um; <http://openscience.com/open-science-journals-to-make-science-more-open/> #link
+
+00:35:06.500 News - Peer Review & Metrics #chapter
+
+The Open Science Peer Review Oath; <https://zenodo.org/record/12273> #link
+Lesenswert: 3 important steps to getting more credit for your peer reviews (Impact Story); <http://blog.impactstory.org/credit-peer-reviews/> #link
+Publons turns peer review into a measurable output; <http://figshare.com/articles/The_Future_of_Academic_Research/871466> #link
+PeerJ gewährt mal Einblick die Nutzung des Features der Offenlegung von Reviewern und der Review History; <http://blog.peerj.com/post/100580518238/whos-afraid-of-open-peer-review> #link
+
+00:40:49.000 News - Gratifications #chapter
+
+Mozilla OpenBadges; <http://openbadges.org/> #link
+Why we need badges/credentials in science; <http://blogs.biomedcentral.com/bmcblog/2014/10/07/why-we-need-badges-in-science/?utm_content=bufferf8b44&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer> #link
+MozFest Etherpad for the Open Badges in Science session; <https://etherpad.mozilla.org/vYCmQoVwPa> #link
+Lesenswerter Post von Cristobal Cobo Rethinking the sustainability of open science and open access; <http://blogs.oii.ox.ac.uk/cobo/?p=789> #link
+
+00:49:04.500 News - Tools #chapter
+
+Geschichte von Google Scholar und dem Kopf dahinter; <https://medium.com/backchannel/the-gentleman-who-made-scholar-d71289d9a82d> #link
+Paperity; <http://paperity.org/> #link
+Open Source 3D-Grafiksoftware Blender “zweckentfremdet” für Biovisualisierung; <http://www.blendernation.com/2014/10/21/blender-in-science-parametric-anatomical-modeling/> #link
+Konrad's Bruder hat das schon 2007 getan; <http://archive.blender.org/community/blender-conference/blender-conference-2007/conference-proceedings/friedrich-foerstner/index.html> #link
+Annotations-Tool; <https://hypothes.is/> #link
+"Medium Notes", die Kommentarfunktion bei medium.com; <https://medium.com/about/why-medium-notes-are-different-and-how-to-use-them-well-5972c72b18f2> #link
+Digital Openness Index; <http://beta.do-index.org/> #link
+
+01:03:22.000 News - Activism #chapter
+
+Petition zu wissenschaftlicher Software; <https://www.change.org/p/everyone-in-the-research-community-we-must-accept-that-software-is-fundamental-to-research-or-we-will-lose-our-ability-to-make-groundbreaking-discoveries> #link
+Blogpost zum Mission Statement der AG Open Science; <http://okfn.de/2014/10/mission-statement-der-deutschsprachigen-open-science-ag-veroeffentlicht/> #link
+
+01:06:32.500 News - Sonstiges #chapter
+
+Mathematica rechnet falsch (via Ulrich Herb); <http://www.heise.de/newsticker/meldung/Mathematica-rechnet-falsch-2435319.html> #link
+Konrad's Vergleich dazu bei offenen Lösungen; <http://www.nature.com/nbt/journal/v26/n3/full/nbt0308-274.html> #link
+Podcastempfehlung: Urban Agriculture; <http://www.urbanag.ws/> #link
+This Week in Microbiology; <http://www.microbeworld.org/podcasts/this-week-in-microbiology> #link
+This Week in Virology; <http://www.twiv.tv/> #link
+OSR021 zu Podcastempfehlungen; <http://www.openscienceradio.de/2014/06/03/osr021-newskonsum/> #link
+Matthias's Issue bei den Open Shownotes im Github bezüglich der Kenntlichmachung von Open und Closed Access; <https://github.com/shownotes/OpenShownotesFormat/issues/12#issuecomment-59216005> #link
+
+01:13:26.500 OPEN EDUCATIONAL RESOURCES #chapter
+
+Open Education; <https://en.wikipedia.org/wiki/Open_education> #glossary
+MOOC; <https://en.wikipedia.org/wiki/Massive_open_online_course> #glossary
+Open Educational Resources; <https://en.wikipedia.org/wiki/Open_educational_resources> #glossary
+MIT OpenCourseWare; <https://en.wikipedia.org/wiki/MIT_OpenCourseWare> #glossary
+UNESCO; <http://en.unesco.org/> #link
+Cape Town Open Education Declaration: Unlocking the promise of open educational resources; <http://www.capetowndeclaration.org/read-the-declaration> #link
+Pariser Erklärung zu OER 2012 (PDF); <http://www.unesco.de/fileadmin/medien/Dokumente/Bildung/Paris_Declaration_OER_DE_100713.pdf> #link
+Schulbuchomat; <http://www.schulbuch-o-mat.de/> #link
+MIT Open Courseware; <http://ocw.mit.edu/index.htm> #link
+OER Commons; <https://www.oercommons.org/> #link
+ZUM-Wiki; <http://wikis.zum.de/zum/Hauptseite> #link
+Zentrale für Unterrichtsmedien im Internet e.V.; <http://wikis.zum.de/zum/Zentrale_f%C3%BCr_Unterrichtsmedien> #glossary
+4teachers.de; <http://www.4teachers.de/> #link
+Wikibooks; <https://en.wikipedia.org/wiki/Wikibooks> #link
+Wikiversity; <https://de.wikiversity.org/wiki/Hauptseite> #link
+Licensing and Types of OER; <https://en.wikipedia.org/wiki/Open_educational_resources#Licensing_and_Types_of_OER> #link
+Collaboratory Bericht zu OER (OPEN); <http://www.collaboratory.de/w/Geschw%C3%A4chter_Wettbewerb_%E2%80%93_die_dunkle_Seite_der_OER%3F> #link
+TSB Berlin Studie (von Leonhard Dobusch et al.): Open Education in Berlin (PDF) (OPEN); <http://www.technologiestiftung-berlin.de/fileadmin/daten/media/publikationen/140514_Studie_OER.pdf> #link
+OERde14; <https://wikimedia.de/wiki/OERde14>  #link
+Open Education Global 2015; <http://conference.oeconsortium.org/2015/> #link
+Open Education Consortium; <http://www.oeconsortium.org/> #link
+Open Educational Alliance; <https://www.udacity.com/open-ed> #link
+Open Education Europe; <http://openeducationeuropa.eu/> #link
+Open Education Handbook Booksprints (2. Open Education Booksprint der OKFN in Berlin 2013); <http://education.okfn.org/second-open-education-handbook-booksprint-berlin/> #link
+“Freie Bildungsmaterialien” Werkstatt der BpB; <http://werkstatt.bpb.de/themen/open-educational-resources/> #link
+MR069 zu Open Education Resources mit Leonhard Dobusch; <https://www.kuechenstud.io/medienradio/podcast/mr069-open-educational-resources/> #link
+BpB: Was sind offene und freie Bildungsmaterialien? Zwei Experten im Dialog-Podcast; <https://www.bpb.de/dialog/150537/was-sind-offene-und-freie-bildungsmaterialien-zwei-experten-im-dialog-podcast> #link
+PB037: 30.000 Lehrer, 100.000e Materialien. OER in Schwedens Schulen; <http://pb21.de/2014/03/pb037-30-000-lehrer-100-000e-materialien-oer-in-schwedens-schulen/> #link
+Pädagogik Talk der TUM: Open Educational Resources; <https://soundcloud.com/tumschool/podcast_paedagogiktalk_oer-mp3> #link
+Bildung Zukunft Technik; <http://bildung-zukunft-technik.de/> #link
+
+02:10:18.000 Epilog #chapter
