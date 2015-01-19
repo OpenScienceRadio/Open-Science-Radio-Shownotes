@@ -1,0 +1,147 @@
+header
+Podcast: Open Science Radio
+Episode: 27
+Episode Title: OSR027
+Starttime: 17.01.2015 14:00:00
+Endtime: 17.01.2015 16:45:00 
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+Mea culpa für die lange Pause;
+
+00:01:29.000 Hausmeisterei #chapter
+
+Mittel für OER im Bundeshaushalt 2015 werden um 2Mio erhöht; <http://www.saskiaesken.de/aktuelle-artikel/digitale-bildung-wird-im-haushalt-erhoeht> #link
+Podlove unterstützt jetzt wissenschaftliche Author IDs; <https://github.com/podlove/podlove-publisher/issues/462#issuecomment-59246720> #link
+Mozilla’s Idee der Contributor Badges; <http://mozillascience.org/contributorship-badges-a-new-project/> #link
+einen ersten detaillierteren konzeptionellen Aufschlag findet man im Mozilla Lab Week Report; <http://mozillascience.org/mozilla-science-lab-week-in-review-november-17-23/> #link
+Ten Simple Rules to Achieve Conference Speaker Gender Balance; <http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003903> #link
+MFR & offene-wissenschaft.de; <https://twitter.com/matthiasfromm/status/556194575577280512> #link
+KUF und der Jabber-Server der Uni Würzburg;
+Jabber/XMPP; <https://de.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol> #glossary
+31C3;
+Richard Stallman; <https://en.wikipedia.org/wiki/Richard_Stallman> #glossary
+WebRTC; <https://de.wikipedia.org/wiki/WebRTC> #glossary
+
+
+
+00:27:48.500 News - Open Access #chapter
+
+Verhandlungen zwischen Elsevier und den niederländischen Unis gescheitert; <http://www.vsnu.nl/news/newsitem/11-negotiations-between-elsevier-and-universities-failed.html> #link
+Einigung mit Springer auf Open Access; <http://www.vsnu.nl/news/newsitem/12-springer-and-universities-take-key-step-towards-open-access.html> #link
+École polytechnique fédérale de Lausanne (EPFL) verzichtet auf online Ausgabe von Science; <http://wisspub.net/2014/12/11/epfl-verzichtet-auf-online-zugriff-von-science/> #link
+Uni Konstanz verzichtete ja auch bereits; <http://www.aktuelles.uni-konstanz.de/en/presseinformationen/2014/28/> #link
+DFG Appell zur Nutzung offener Lizenzen in der Wissenschaft; <http://www.dfg.de/foerderung/info_wissenschaft/info_wissenschaft_14_68/index.html> #link
+ARD, EU und UNESCO haben sich bereits 2014 in Empfehlungen zu Creative Commons bekannt;
+ESA stellt Rosetta-Bilder unter Creative-Commons-Lizenz; <http://blogs.esa.int/rosetta/2014/11/04/rosetta-navcam-images-now-available-under-a-creative-commons-licence/> #link
+F1000Research: Ebola article collection; <http://blog.f1000research.com/2014/11/12/beat-ebola-with-better-research-sharing-says-discoverer-of-virus/> #link
+Unglue.it; <http://techcrunch.com/2014/05/06/unglue-it-sets-books-free-after-authors-get-paid/> #link
+"Issues in Open Data Research" ist jetzt CC-BY lizenziert; <https://unglue.it/work/140086/> #link
+ArXiv überschreitet 1 Million Einreichungen; <https://www.library.cornell.edu/about/news/press-releases/arxiv-hits-1-million-submissions-0> #link
+Budget von Arxiv; <https://en.wikipedia.org/wiki/ArXiv#History> #link
+Mathematicians aim to take publishers out of publishing; <http://www.nature.com/news/mathematicians-aim-to-take-publishers-out-of-publishing-1.12243> #link
+Libraccess; <http://libraccess.org/> #link
+Comic "O & A on how to choose a name for an open access journal"; <http://openscience.com/o-a-on-how-to-choose-a-name-for-an-open-access-journal/>
+PeerJ; <https://peerj.com/> #link
+Peter Binfield; <https://peerj.com/pete/> #link
+Elsevier möchte ein disziplinenoffenes Megajournal gründen; <http://www.elsevier.com/connect/new-open-access-journal-will-publish-across-all-disciplines> #link
+Ross Mounce's Reaktion dazu; <http://rossmounce.co.uk/2015/01/11/elsevier-wants-our-feedback-heres-mine/>
+PLOS ONE; <http://www.plosone.org/> #link
+Bill & Melinda Gates Stiftung veröffentlicht Open Access Policy; <http://www.gatesfoundation.org/How-We-Work/General-Information/%20Open-Access-Policy> #link
+O'Reilly's Kolophon Podcast; <http://community.oreilly.de/blog/category/podcast/> #link
+KOL014 Bitcoin: Banking ohne Banken; <http://community.oreilly.de/blog/2014/12/12/kol014-bitcoin-banking-ohne-banken/> #link
+Nature's Ankündigung zur Befreiung ihrer Artikel - ursprünglicher Titel war "Nature makes all articles free to view", mittlerweile geändert "Nature promotes read-only sharing by subscribers"; <http://www.nature.com/news/nature-promotes-read-only-sharing-by-subscribers-1.16460> #link
+Readcube; <https://www.readcube.com/> #link
+Reaktion von John Willbanks; <http://del-fi.org/post/104125242971/natures-shareware-moment> #link
+Reaktion von Michael Eisen; <http://www.michaeleisen.org/blog/?p=1668> #link
+Die Reaktion von Scientific American; <http://blogs.scientificamerican.com/information-culture/2014/12/02/is-natures-free-to-view-program-a-step-back-for-open-access/> #link
+Peter Murray-Rust hat sich ebenso wunderbar abgearbeitet, beginnnend mit diesem Blogpost; <https://blogs.ch.cam.ac.uk/pmr/2014/12/05/can-readcube-macmillans-fauxpen-access-client-snoop-on-readers/> #link
+Fauxpen; <http://www.fauxpensource.org/> #link
+Merger zwischen Macmillan Science & Education und Springer Science & Business Media angedacht; <http://se.macmillan.com/Media/News/HOLTZBRINCK-PUBLISHING-GROUP-AND-BC-PARTNERS-ANNOUNCE--AGREEMENT-TO-MERGE-MAJORITY-OF-MACMILLAN-SCIENCE-AND-EDUCATION--WITH-SPRINGER-SCIENCE-BUSINESS-MEDIA/?taxId=145> #link
+
+
+01:13:59.500 News - Open Data #chapter
+
+PLOS startet Data-Repository-Partnerprogramm; <https://blogs.plos.org/tech/make-data-sharing-easy-plos-launches-its-data-repository-integration-partner-program/>
+DataDryad; <https://datadryad.org/> #link
+Making Data Count: PLOS, CDL, and DataONE join forces to build incentives for data sharing; <https://blogs.plos.org/tech/making-data-count-plos-cdl-and-dataone-join-forces-to-build-incentives-for-data-sharing/> #link
+Over 1,000 research data repositories indexed in re3data.org; <http://www.re3data.org/2014/11/over-1000-research-data-repositories-indexed-in-re3data-org/> #link
+re3data; <http://www.re3data.org/> #link
+
+
+01:17:57.500 News - Peer Review & Metrics #chapter
+
+Altmetrics Plugin steht jetzt auch auf Discovery Platforms zur Verfügung; <https://www.altmetric.com/blog/discoveryplatforms/> #link
+Pubpeer fights for anonymity; <http://www.wired.com/2014/12/pubpeer-fights-for-anonymity/> #link
+Pubpeer; <https://pubpeer.com/> #link
+Publons; <https://publons.com/> #link
+Was Publons macht; <https://publons.com/about/?utm_content=menu> #link
+Open Science Peer Review Oath; <http://f1000research.com/articles/3-271/v2> #link
+Jonathan Eisen schrieb einen Blogeintrag dazu; <http://icis.ucdavis.edu/?p=505> #link
+Nature: What would happen if grant reviews were made public?; <http://www.nature.com/news/what-would-happen-if-grant-reviews-were-made-public-1.16691> #link
+Paper von Daniel Mietchen: "The Transformative Nature of Transparency in Research Funding"; <http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002027> #link
+
+
+01:39:46.000 News - Tools #chapter
+
+Konrad hat am Mozilla Lab Call teilgenommen;
+Open Science Framework is nun open source; <https://github.com/CenterForOpenScience/osf.io> #link
+Wie von uns schon in OSR016 gewünscht; <http://www.openscienceradio.de/2014/04/13/osr016-kollaborative-wissenschaft/> #link
+Poster "101 Innovations in Scholarly Communication - the Changing Research Workflow"; <http://figshare.com/articles/101_Innovations_in_Scholarly_Communication_the_Changing_Research_Workflow/1286826> #link
+FORCE2015; <https://www.force11.org/meetings/force2015> #link
+ContentMine.org; <http://contentmine.org/> #link
+
+
+01:46:42.000 News - Activism #chapter
+
+Open Science Mailingliste; <https://lists.okfn.org/mailman/listinfo/open-science-de> #link
+OKF Open Science gruppe hat eine neue Forumssoftware; <http://discuss.okfn.org/category/working-groups/open-science> #link
+Neues Discussion Board von Open Knowledge; <http://discuss.okfn.org/category/working-groups/open-science> #link
+Discourse als Software darunter; <http://www.discourse.org/> #link
+Terminplaner des DFN; <https://terminplaner.dfn.de/> #link
+Apache OpenMeetings; <http://openmeetings.apache.org/> #link
+frab coference management system; <http://frab.github.io/frab/> #link
+Etherpad; <https://en.wikipedia.org/wiki/Etherpad> #glossary
+Konrad's Bericht der Open Science Session auf dem 31C3; <http://okfn.de/2015/01/open-science-auf-dem-chaos-communication-congress-31c3/> #link
+Chaos Communication Camp;
+Open Knowledge Directory; <http://directory.open-steps.org/> #link
+Open Steps; <http://www.open-steps.org/> #link
+
+01:58:12.000 News - Sonstiges #chapter
+
+Nature möchte Source-Code von Publikation möglichst offen haben; <http://www.nature.com/news/code-share-1.16232> #link
+Nature Scientific Data; <http://www.nature.com/sdata/data-policies> #link
+Journals unite for reproducibility; <http://www.sciencemag.org/content/346/6210/679.full> #link
+Die Reaktion vom SPIEGEL dazu; <http://www.spiegel.de/wissenschaft/mensch/qualitaet-in-der-forschung-weg-mit-dem-forschungsmuell-a-1001120.html> #link
+Abschlussbericht der Online-Konsultation Publikationssysteme; <http://www.publikationssystem.de/online-konsultation/> #link
+Project Marylin; <http://pledge.indysci.org/liberate-pharmaceuticals> #link
+Artikel auf Wired dazu; <http://www.wired.com/2014/09/man-quest-open-source-cancer-research/> #link
+Podcast Forschergeist mit Tim Pritlove im Auftrag des Stifterverbands für die Deutsche Wissenschaft; <http://forschergeist.de/> #link
+Episode zu Citizen Science; <http://forschergeist.de/podcast/fg002-citizen-science/> #link
+Verwaltung und das Wissenschaftsprekariat an deutschen Universitäten;
+Artikel von Hans Zauner im Laborjournal; <http://www.laborjournal.de/editorials/903.lasso> #link
+Artikel vom Björn Brembs und Axel Brennike in der FAZ; <http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/verbesserung-der-arbeitsbedingungen-an-unis-13354907.html> #link
+Methodisch Inkorrekt aus Sicht der Wissenschaftler dazu; <http://www.google.com/url?q=http%3A%2F%2F241568.website.snafu.de%2Fwordpress%2F%3Fp%3D736%2523t%253D59%3A02.773&sa=D&sntz=1&usg=AFQjCNHH1-YTR8E4_BLAOLkjDbJRwGyUDQ> #link
+Bericht zur Open Access Ambassadors Conference; <http://oambassadors.mpdl.mpg.de/856/> #link
+Alle Präsentationen dazu sind online verfügbar; <http://oambassadors.mpdl.mpg.de/programm/> #link
+Veranstaltung der Helmholtz-Gemeinschaft "Fokus@Helmholtz: Ist Citizen Science eine Gefahr für die Wissenschaft?"; <http://www.helmholtz.de/presse_medien/veranstaltungen/fokushelmholtz/ist_citizen_science_eine_gefahr_fuer_die_wissenschaft/>
+
+
+02:16:40.500 Glaskugelei 2015 #chapter
+
+weitergehende Welle an dubiosen Open Access Magazin Gründungen wie das Public Science Framework, Clute Institue, Pyrex Journals, Hans Publisher Inc., etc.;
+Jeffrey Beall von Scholarly Open Access; <http://scholarlyoa.com/about/> #link
+Predatory Journals; <https://en.wikipedia.org/wiki/Predatory_open_access_publishing> #glossary
+Jeffrey Beall von Scholarly Open Access sammelt bereits seit 2 Jahren die List of Predatory Journals, hier die Ausgabe 2014; <http://scholarlyoa.com/2014/01/02/list-of-predatory-publishers-2014/> #link
+Journal Megalomania wie z.B. bei OMICS, oder auch Elsevier;
+OMICS; <http://scholarlyoa.com/2014/12/18/the-omics-publishing-groups-empire-is-expanding/> #link
+Das Zusammenführen/Verknüpfen/Verlinken von Repositories;
+
+02:29:44.500 Wünsche & Epilog #chapter
+
+
