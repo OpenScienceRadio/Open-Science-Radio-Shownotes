@@ -1,0 +1,99 @@
+header
+Podcast: Open Science Radio
+Episode: 31
+Episode Title: OSR031
+Starttime: 25.02.2015 20:30:00
+Endtime: 25.02.2015 22:30:00
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+00:01:16.500 Hausmeisterei #chapter
+
+Artikel in BMJ zu Predatory Journals, frei auf Academia.edu erhältlich: Firm action needed on predatory journals; <https://www.academia.edu/10214524/Firm_action_needed_on_predatory_journals_-_Clark_et_al> #link
+Altmetric Score zu diesem Artikel; <https://www.altmetric.com/details.php?domain=www.bmj.com&citation_id=3076505> #link
+Konrad hat mit dem Rechenzentrum der Uni-Würzburg gesprochen;
+Feedback von Publons bezüglich Business Model;
+Alex Bateman; <https://publons.com/author/259342/alex-bateman> #link
+EBI Hangston UK; <https://www.ebi.ac.uk/> #link
+Der "An Open Science Peer Review Oath"-Artikel wurde auf Pubpeer besprochen; <https://pubpeer.com/publications/C9B69D2D6D0240253ED75E5356F1BE> #link
+Birnen-Bonsai Blog von Konrad; <http://birnenbonsai.fluxionary.net/> #link 
+Das erwähnte Unkonferenz-Paper ist am gleichen Tag publiziert wie OSR028; <http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003905> #link
+Open Knowledge Festival; <http://2014.okfestival.org/> #link
+
+00:21:35.000 News - Open Access & Lizenzen #chapter
+
+PeerJ launched Computer Science; <https://peerj.com/computer-science/> #link
+PeerJ besteht nun 2 Jahre; <http://blog.peerj.com/post/110809672023/celebrating-two-years-of-publishing-and-peerj> #link
+Elsevier launcht Open Access Software Journal: SoftwareX; <http://www.journals.elsevier.com/softwarex/> #link
+Rechtsbelehrung Podcast hatte in Folge 20 Till Kreutzer zu Gast - Kernthema war entsprechend Creative Commons; <http://rechtsanwalt-schwenke.de/creative-commons-rechtsbelehrung-folge-20-jura-podcast/> #link
+Dr. Till Kreutzer; <http://irights-law.de/team/dr-till-kreutzer/> #link
+Uni Leipzig bricht Verhandlungen Elsevier ab; <http://laborjournal.de/editorials/912.lasso> #link
+Interview mit Ulrich Johannes Schneider in der Printausgabe der FAZ; <http://www.faz.net/aktuell/feuilleton/forschung-und-lehre/erpresserische-preispolitik-leipzig-laesst-die-verhandlung-mit-dem-grossverlag-elsevier-scheitern-13419293.html> #link
+Textmining; <https://de.wikipedia.org/wiki/Text_Mining> #glossary
+Thema Freie Lizenzen und Nachnutzung im Handbuch CoScience; <http://handbuch.io/w/Handbuch_CoScience/Freie_Lizenzen_und_Nachnutzung> #link
+Der niederländische Open-Access-Deal mit Springer; <http://www.scinoptica.com/pages/topics/systemerhaltend-der-niederlaendische-open-access-deal-mit-springer.php> #link
+Open Access Informationsplattform open-access.net; <http://open-access.net/> #link
+Konrads Beitrag zur "Open Access in der Biologie" auf Github; <https://github.com/konrad/open-access.net-Fachseite-Biologie/blob/master/open-access.net-Fachseite-Biologie.md> #link
+“Go open”-Videos der Tromsø-Universität; <https://vimeo.com/119831906> #link
+Open Science Journal der Royal Society; <http://rsos.royalsocietypublishing.org/> #link
+Open Biology Journal der Royal Society; <http://rsob.royalsocietypublishing.org/> #link
+Indien verankert Open Access in seiner Funding Policy; <http://blog.okfn.org/2015/02/03/indias-science-and-technology-outputs-are-now-under-open-access/>
+Leseempfehlung: Studie zu Monographien und Open Access; <https://www.hefce.ac.uk/pubs/rereports/year/2015/monographs/#d.en.99908>; #link
+auch dazu passend ein Post im Pacific Standard: What Is the Point of Academic Books?; <http://www.psmag.com/books-and-culture/point-academic-books-publishing-writing-literature-96610> #link
+Forschung und Lehre (Ausgabe Februar 2015) mit Schwerpunktthema Open Access; <http://www.forschung-und-lehre.de/wordpress/Archiv/2015/ful_02-2015.pdf> #link
+
+00:55:40.500 News - Open Data #chapter
+
+Am 21. Februar war wieder Open Data Day Hackathon; <http://de.opendataday.org/> #link
+Physical Science Informatics Database (PSI); <http://psi.nasa.gov/> #link
+NASA macht das Data Repository PSI im Sommer 2015 öffentlich; <http://www.spaceref.com/news/viewsr.html?pid=46672> #link
+Interessantes Paper bei PLOS ONE: Willingness to Share Research Data Is Related to the Strength of the Evidence and the Quality of Reporting of Statistical Results; <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026828> #link
+
+01:04:03.000 News - Peer Review & Metrics #chapter
+
+Double-blind peer review comes to an end? Helena Jambor’s Reaktion auf einen Tweet von Richard Sever; <https://twitter.com/helenajambor/status/568097363258163200> #link
+Advances in Regenerative Biology: Who stands to win from double-blind peer review?; <http://www.regenerativebiology.net/index.php/arb/article/view/26879> #link
+
+01:11:25.500 News - Tools #chapter
+
+Stack Exchange; <http://stackexchange.com/> #link
+Open Science Q&A auf Areaa 15 ist mittlerweile in der Commit Stage und steht bei 58%; <https://area51.stackexchange.com/proposals/65426/open-science> #link
+Planet Open Science der OKF; <http://science.okfn.org/category/planet/> #link
+CrossRef; <http://www.crossref.org/> #link
+PLOS Biology & PLOS Genetics wollen RRID nutzen; <https://blogs.plos.org/biologue/2015/01/29/introducing-research-resource-identification-initiative-plos-biology-plos-genetics/> #link
+Docear – The Academic Literature Suite; <http://www.docear.org/> #link
+JabRef Reference Manager; <http://jabref.sourceforge.net/> #link
+Zotero; <https://www.zotero.org/> #link
+Freeplane; <http://www.freeplane.org/wiki/index.php/Main_Page> #link
+Journal Operating Software; <http://pkp.sfu.ca/> #link
+Jon Tennant und Ross Mounce haben ein “Open Glossary” erstellt; <http://blogs.egu.eu/network/palaeoblog/2015/02/03/welcome-to-the-open-glossary/> #link
+
+01:25:12.000 News - Tools #chapter
+
+Christian Gutknecht und seine Spenden für die Transparenz an Hochschulen; <http://www.heise.de/tp/artikel/44/44156/1.html> #link
+Coding da Vinci sucht Finanzierung zur Fortsetzung in 2015; <https://www.startnext.com/codingdavinci> #link
+Mozilla Science hat eine neue Website erhalten und bietet nun endlich auch eine übersichtliche Seite der individuellen Projekte (inkl. Submission Form); <http://www.mozillascience.org/collaborate> #link
+
+01:34:26.000 Meta #chapter
+
+What I use the scientific literature for; <https://blogs.plos.org/publichealth/2015/02/05/use-scientific-literature/> #link
+What is the scientific literature used for?; <https://blogs.plos.org/paleo/2015/01/20/literature-used/> #link
+Minimal Footwear (Minimalist Shoe); <https://en.wikipedia.org/wiki/Minimalist_shoe> #glossary
+Vibram Fivefinger Footwear; <http://www.vibramfivefingers.it/> #link
+The bearfoot Professor; <https://www.youtube.com/watch?v=7jrnj-7YKZE> #video
+Forefoot strike; <http://www.barefootrunning.fas.harvard.edu/4BiomechanicsofFootStrike.html> #link
+#CoScience Open Video Lectures; <http://blogs.tib.eu/wp/opensciencelab/open-video-lectures-coscience-gemeinsam-forschen-und-publizieren-mit-dem-netz/> #link
+Foster Open Science; <https://www.fosteropenscience.eu/project/index.php?option=com_content&view=article&id=5&Itemid=105> #link
+Artikel im Guardian: It’s time to ditch the PDF; <http://www.theguardian.com/higher-education-network/2015/feb/11/researchers-its-time-to-ditch-the-pdf> #link
+ResearchGate introducing the RG Factor; <https://explore.researchgate.net/display/news/2015/02/12/Introducing+the+RG+Format> #link
+eLife Lens; <http://elifesciences.org/elife-news/lens> #link
+Björn Brembs: Publishers, stop torturing your reviewers!; <http://bjoern.brembs.net/2015/02/publishers-stop-torturing-your-reviewers/> #link
+
+01:54:04.000 Epilog #chapter
+
+Open Science Radio bei Wikidata; <https://www.wikidata.org/wiki/Q18744554?uselang=de> #glossary
