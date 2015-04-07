@@ -1,0 +1,83 @@
+header
+Podcast: Open Science Radio
+Episode: 32
+Episode Title: OSR032
+Starttime: 21.03.2015 14:00:00
+Endtime: 21.03.2015 16:00:00 
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+Willkommen zur 32. Episode!
+
+00:01:26.000 Hausmeisterei #chapter
+
+Erratum: Nature hat normalweise kein Double-Blind-Peer review aber werden das bald anbieten; <http://www.nature.com/news/nature-journals-offer-double-blind-review-1.16931> #link
+Double-Blind Peer Review; <http://www.arj.no/2010/09/04/double-blind-peer-review/> #link
+Scholarly Reputation (Academic Visibility); <https://en.wikipedia.org/wiki/Academic_visibility> #glossary
+Impact Factor; <https://en.wikipedia.org/wiki/Impact_factor> #glossary
+Collaborate von Mozilla Science ist jetzt offen für Einreichungen; <http://www.mozillascience.org/collaborate-open-for-submissions> #link
+
+00:09:08.000 News - Open Access & Lizenzen #chapter
+
+Elsevier verkauft CC-NC-lizenzierte Artikel wie Ross Mounce feststellte; <http://rossmounce.co.uk/2015/03/06/elsevier-illegally-sold-me-a-creative-commons-non-commercial-licensed-article/> #link
+Weitere Ausführungen von Ross Mounce dazu; <http://rossmounce.co.uk/2015/03/11/wrongly-paywalled-articles-a-recap-of-what-we-now-know/> #link
+Timothy Vollmer dazu im Creative Commons Blog; <https://creativecommons.org/weblog/entry/45175> #link
+Import von Artikeln von PubMedCentral in Wikisource; <https://en.wikisource.org/wiki/Wikisource:WikiProject_Open_Access/Programmatic_import_from_PubMed_Central> #link
+Wikipedia Zero; <https://wikimediafoundation.org/wiki/Wikipedia_Zero> #link
+Florian Schneider zu Open Licenses for Science; <http://fdschneider.github.io/blog/2015/open_licenses/> #link 
+Das Blog von Florian Schneider; <http://fdschneider.github.io/blog/> #link
+CC0; <https://creativecommons.org/about/cc0> #link
+OSI Open Source Initiative; <http://opensource.org/> #link
+ISC Lizenz; <https://en.wikipedia.org/wiki/ISC_license> #glossary
+BSD Lizenzen; <https://en.wikipedia.org/wiki/BSD_licenses> #glossary
+Artikel von Sara Rodriguez Marin zur Offenheit bei wissenschaftlichem Publizieren; <http://magazine.ouishare.net/2015/02/we-have-already-paid-for-science-we-should-enjoy-it-for-free/> #link
+OuiShare Magazin; <http://magazine.ouishare.net/> #link
+
+00:32:46.500 News - Tools #chapter
+
+101 Innovations in Scholarly Communication; <http://figshare.com/articles/101_Innovations_in_Scholarly_Communication_the_Changing_Research_Workflow/1286826> #link
+Erweiterung der 101 Innovations in Scholarly Communication: 400+ Tools and innovations in scholarly communication; <https://docs.google.com/spreadsheets/d/1KUMSeq_Pzp4KveZ7pb5rddcssk1XBTiLHniD0d3nDqo/edit?pli=1#gid=1519702055> #link
+Scholarly publishing for the network generation - Blogpost dazu; <http://insights.uksg.org/article/view/uksg.214/414> #link
+ScienceOpen; <https://www.scienceopen.com> #link
+ScienceOpen Collection "Perspectives in Scholarly Communication"; <https://www.scienceopen.com/collection/Science20?2> #link
+PeerJ Paper Now; <https://github.com/PeerJ/paper-now> #link
+Beispiel für PeerJs Paper Now; <https://chorasimilarity.wordpress.com/2015/03/06/peerj-as-a-formatpaper-on-github-peerjpaper-now/> #link
+Thinklab; <http://thinklab.com/> #link
+Thinklab Blogpost; <http://thinklab.com/blog/introducing-thinklab-a-platform-for-massively-collaborative-open-science/38> #link
+
+00:44:45.000 News - Open Data #chapter
+
+Open Sesame! The Risks and Rewards of Open Data for Researchers - A guest post by Jon Tenant; <https://www.digital-science.com/blog/guest/open-sesame-the-risks-and-rewards-of-open-data-for-researchers/> #link
+
+00:49:29.000 News - Peer Review & Metrics #chapter
+
+Publons und Wiley kooperieren; <http://blog.publons.com/post/113834018103/publons-partners-with-wiley-to-give-reviewers> #link
+Wiley's Meldung dazu; <http://eu.wiley.com/WileyCDA/PressRelease/pressReleaseId-116922.html> #link
+Real-time Stream of DOIs being cited in Wikipedia; <http://crosstech.crossref.org/2015/03/real-time-stream-of-dois-being-cited-in-the-wikipedia.html> #link
+DOI Outage und der Blogpost von CrossRef dazu; <http://crosstech.crossref.org/2015/03/january-2015-doi-outage-followup-report.html> #link
+Beitrag bei pyhsicsfocus: The dark side of pots-publication peer review; <http://physicsfocus.org/dark-side-post-publication-peer-review/> #link
+
+00:59:08.000 Misc #chapter
+
+Ross Mounce "How to Block Readcube and Why"; <http://rossmounce.co.uk/2015/03/19/how-to-block-readcube-and-why/> #link
+SPARC Europe Tool "How Open Is Your Research"; <http://sparceurope.org/howopenyourresearchis/> #link
+F1000Research Guide to OA Publishing; <http://f1000.com/resources/F1000R_Guide_OpenScience.pdf?utm_source=blog&utm_medium=link_blog&utm_campaign=OA-Guide_Q1_2015> #link
+Guides to OA Publishing vom Hybrid Publishing Lab; <https://hybridpublishing.org/2015/03/oaj-canvas/> #link
+Hybrid Publishing Lab Poster "How to Start an Open Access Journal"; <https://projects.digital-cultures.net/hybrid-publishing-lab/files/2014/07/HOAJ-POSTER-final-web.pdf> #link
+Blogpost bei Cameron Neylon: Principles for Open Scholarly Infrastructures; <http://cameronneylon.net/blog/principles-for-open-scholarly-infrastructures/> #link
+Das Paper noch bei FigShare; <http://figshare.com/articles/Principles_for_Open_Scholarly_Infrastructures_v1/1314859> #link
+
+01:15:14.000 Epilog #chapter
+
+Planetary Society; <http://planetary.org/> #link
+Bill Nye, <https://en.wikipedia.org/wiki/Bill_Nye> #glossary
+Fermi Paradoxon; <https://en.wikipedia.org/wiki/Fermi_paradox> #glossary
+Orion; <https://de.wikipedia.org/wiki/Orion_Multi-Purpose_Crew_Vehicle> #glossary
+Video der Planetary Society zum Orion Teststart; <https://www.youtube.com/watch?v=Da1t-hrL5jY> #video
+Software Carpentry; <http://software-carpentry.org/> #link
+How Learning Works: Seven Research-Based Principles for Smart Teaching; <http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470484101.html> #link
