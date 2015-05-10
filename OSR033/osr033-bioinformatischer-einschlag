@@ -1,0 +1,114 @@
+header
+Podcast: Open Science Radio
+Episode: 33
+Episode Title: OSR033
+Starttime: 10.05.2015 13:00:00
+Endtime: 10.05.2015 15:00:00 
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+OKCast; <http://okcast.org/> #link
+Chaosradio Bioinformatik; <http://chaosradio.ccc.de/cr211.html> #link
+Bastian Greshake; <https://twitter.com/gedankenstuecke> #link
+Bastian bei Explorism; <http://www.scientists-in-progress.org/2012/06/oekologie-evolution-und-genetik-mit-bastian-greshake-explorism006/> #link
+
+00:09:27.000 Hausmeisterei #chapter
+
+Tech-Dirt Artikel zur Rolle von Open Access in der Ebolabekämpfung; <https://www.techdirt.com/articles/20150409/17514230608/dont-think-open-access-is-important-it-might-have-prevented-much-ebola-outbreak.shtml?utm_content=bufferf5c9e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer> #link
+Hörerfrage zur Promotion in der Bioinformatik;
+Katrin Leinweber von KonScience hat mal PeerJs Paper Now getestet; <https://katrinleinweber.github.io/Paper-Now-Achmi-capsule-microstructure/> #link
+Kathrin's Paper ist mittlerweile auf PeerJ erschienen; <https://peerj.com/articles/858/> #link
+
+00:12:36.500 News - Activism #chapter
+
+Wikipedia Science Conference; <https://wikimedia.org.uk/wiki/Wikipedia_Science_Conference> #link
+Hackathon auf der Science Conference; <https://wikimedia.org.uk/wiki/Wikipedia_Science_Conference/Submissions/Hackathon> #link
+Wikimedia adopts open licensing policy for foundation-funded research; <https://creativecommons.org/weblog/entry/45190> #link
+Kürzlich war ein Open Science AG Public Call; <https://etherpad.wikimedia.org/p/Open_Science_AG_Public_Call> #link
+Blogpost dazu; <http://okfn.de/blog/2015/04/call-open-science-ag-april/> #link
+Nächster Call End Mai oder Anfang Juni; <https://pad.okfn.org/p/Open_Science_AG_Public_Call_002> #link
+Deutschsprachiger Open Science Twitter-Account; <https://twitter.com/oksciencede> #link
+Twitter deinen offenen Alltag; <https://pad.okfn.org/p/open_science_twitter> #link
+Treffen auf dem Chaos Communication Camp; <https://pad.okfn.org/p/open_science_meeting_CCCamp_2015> #link
+Pavel Richter ist neuer CEO von Open Knowledge; <http://blog.okfn.org/2015/04/29/open-knowledge-appoints-pavel-richter-as-new-ceo/> #link
+Pavel Richter; <https://de.wikipedia.org/wiki/Wikipedia:Enzyklop%C3%A4die/Pavel_Richter> 
+
+00:21:25.000 News - Open Access & Lizenzen #chapter
+
+Hinweis von Bernd Rupp auf den OA Newsletter der Helmholzgemeinschaft; <http://oa.helmholtz.de/bewusstsein-schaerfen/newsletter/archiv/newsletter-52-vom-18032015.html> #link
+Blogpost bezüglich der Nachhaltigkeit des PeerJ-Geschäftsmodels; <http://svpow.com/2015/03/27/peerj-cant-possibly-last-because-the-numbers-dont-add-up/> #link
+Self-host a scientific journal with eLife Lens; <https://medium.com/@_mql/self-host-a-scientific-journal-with-elife-lens-f420afb678aa> #link
+eLife; <http://elifesciences.org/> #link
+eLife Lens Reader; <http://elifesciences.org/elife-news/lens> #link
+eLife Lens Reader auf Github; <https://github.com/elifesciences/lens> #link
+Studie vom der Max-Planck Digital Library - “Disrupting the subscription journals’ business model for the necessary large-scale transformation to open access” (PDF) [OPEN]; <http://pubman.mpdl.mpg.de/pubman/item/escidoc:2148961:7/component/escidoc:2149096/MPDL_OA-Transition_White_Paper.pdf> #link
+FAZ Artikel dazu; <http://www.faz.net/aktuell/wissen/max-planck-digital-library-fordert-umbau-zum-open-access-13563667.html> #link
+Konrad's erfolgreichster Tweet; <https://twitter.com/konradfoerstner/status/563452444026626048> #link
+open-access.net in neum Gewand und mit neuen Inhalten; <http://open-access.net> #link
+F1000Research to publish the ISCB Community Journal; <http://blog.f1000research.com/2015/04/30/f1000research-to-publish-the-iscb-community-journal/> #link
+International Society of Computational Biology (ISCB); <http://www.iscb.org/> #link
+PLoS Computational Biology; <http://journals.plos.org/ploscompbiol/> #link
+Konrad war auf dem CeBiTec Symposium - Rolf Apweil hat über die Geschichte der Sequenzierdatenbanken erzählt: Waren von Beginn (1982) open!;
+EMBL EBI; <https://www.ebi.ac.uk/> #link
+Rolf Apweiler; <https://www.ebi.ac.uk/about/people/rolf-apweiler> #link
+
+00:48:20.000 News - Tools #chapter
+
+Hörerhinweis von Frank Römer; <http://libinclude.de/index.html> #link
+Common Workflow Language; <https://github.com/common-workflow-language> #link
+Docker in Life Sciences; <https://twitter.com/ctitusbrown/status/588294974602633216>
+Docker; <http://www.docker.com/> #link
+eLife Recognizing the importance of new tools and resources for research; <http://elifesciences.org/content/4/e07083> #link
+UbuntuScience; <https://help.ubuntu.com/community/UbuntuScience> #link
+Björn Brembs über die wissenschaftliche Infrastruktur; <http://bjoern.brembs.net/2015/04/what-should-a-modern-scientific-infrastructure-look-like/> #link
+Software Carpentry; <https://software-carpentry.org/> #link
+Blogpost "PhD Starter Kit: Preparing for Life in Academia Available" von Achintya Rao; <https://raoofphysics.github.io/phd-starter-kit/> #link
+Open Trials versucht Transparenz auch für klinische Studien zu fördern; <http://blog.okfn.org/2015/04/21/open-trials-open-knowledge-announce-plans-for-open-online-database-of-clinical-trials/> #link
+OpenTrials; <http://opentrials.net/> #link
+ContentMine; <http://contentmine.org/> #link
+
+01:22:12.500 News - Open Data #chapter
+
+WHO calls for all clinical trial results to be published; <http://www.alltrials.net/news/who-calls-for-all-clinical-trial-results-to-be-published/> #link
+Ben Goldacre: "How to Get All Trials Reported: Audit, Better Data, and Individual Accountability" [OPEN]; <http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001821> #link
+DataCite übernimmt die Fortentwicklung von re3data.org; <http://www.re3data.org/2015/05/datacite-to-manage-and-develop-re3data-org/> #link
+
+01:26:35.000 News - Peer Review & Metrics #chapter
+
+Pedro Beltrao: Scientific Reports partners with Research Square to unbundle peer-review; <http://www.evocellnet.com/2015/03/scientific-reports-partners-with.html> #link
+Dozens Of Scientific Papers Withdrawn After Peer-Review Fraud Uncovered; <http://www.iflscience.com/health-and-medicine/dozens-scientific-papers-withdrawn-probably-more-come> #link
+Nature Biotechnology - Rebooting review [OPEN]; <http://www.nature.com/nbt/journal/v33/n4/full/nbt.3202.html> #link
+iPython Notebook; <http://ipython.org/> #link
+Jupyter; <https://jupyter.org/> #link
+Briefings in Bioinformatics: "BIB's first impact factor is 24.37" [OPEN]; <http://bib.oxfordjournals.org/content/8/4/207.full.pdf+html> #link
+Blogpost dazu; <http://people.unil.ch/marcrobinsonrechavi/2015/03/molecular-biology-and-evolution-impact-factor-the-mega-effect-updated/> #link
+MEGA3; <http://www.megasoftware.net/> #link
+Elizabeth Marincola kündigt Änderungen des Peer Review Verfahrens bei PLOS an; <http://blogs.royalsociety.org/publishing/fssc-peer-review-with-elizabeth-marincola/> #link
+Das gesamte Interview wird im kommenden R.Science Podcast erscheinen; <https://blogs.royalsociety.org/rscience/> #link
+
+01:38:33.500 Misc #chapter
+
+Folien und Audio von Katrin Leinwebers Vortrag zum Thema Wissenschaftkommunikation via PodCasts; <http://www.konscience.de/2015/01/ksl000-knowledge-communication-back-to-the-ears/> #link
+Science Biggest Fail; <http://blog.dilbert.com/post/109880240641/sciences-biggest-fail> #link
+Vox.com Artikel: "This is why you shouldn’t believe that exciting new medical study"; <https://www.vox.com/2015/3/23/8264355/research-study-hype> #link
+John Ioannidis Interview dazu bei Vox.com; <https://www.vox.com/2015/2/16/8034143/john-ioannidis-interview> #link
+Why Most Published Research Findings Are False; <http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124> #link
+Videos der Science 2.0 Conference 2015 sind verfügbar; <https://www.youtube.com/playlist?list=PL3VQAlJen7ozy9ltmQFxZeMF3Bzj52Gwx> #link
+Auch von der Postdigital Scholar Conference an der Leuphana Lüneburg sind mittlerweile alle Videomitschnitte erschienen; <https://hybridpublishing.org/category/postdigital-scholar-conference/> #link
+XKCD: The Economic Argument; <https://xkcd.com/808/> #link
+Copyright from the lens of a lawyer (and poet) [OPEN]; <https://www.elsevier.com/connect/copyright-from-the-lens-of-a-lawyer-and-poet> #link
+Antwort von Mike Taylor; <http://svpow.com/2015/05/07/copyright-from-the-lens-of-reality/> #link
+Antwort von Björn Brembs; <http://bjoern.brembs.net/2015/05/is-this-supposed-to-be-the-best-elsevier-can-muster/> #link
+EuroScientist Special zu Reproducibility and Replicability; <http://www.euroscientist.com/reproducibility-and-replicability/> #link
+Sascha Förster startete einen eigenen Podcast; <http://podcast.saschafoerster.de/> #link
+Es gibt erste Details zur OpenCon 2015; <http://opencon2015.org/blog/opencon-2015-details-announced> #link
+NASA's Data Portal; <https://data.nasa.gov/developer> #link
+NASA's PSI Data Repository; <http://psi.nasa.gov/> #link
+re:publica15 Talk von Christine Corbett Moran “Simulating the Universe: Supercomputers in Astrophysics”; <https://re-publica.de/en/session/simulating-universe-supercomputers-astrophysics> #link
+
+02:05:00.500 Epilog #chapter
