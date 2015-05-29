@@ -1,0 +1,93 @@
+header
+Podcast: Open Science Radio
+Episode: 34
+Episode Title: OSR034
+Starttime: 28.05.2015 21:00:00
+Endtime: 28.05.2015 23:20:00 
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+00:00:54.000 Hausmeisterei #chapter
+
+Episodennamen;
+Links und Menge an Themen;
+Kommentar;
+Podlove; <http://podlove.org/> #link
+Shownotes Project; <https://shownot.es/> #link
+Open Shownotes Format; <https://github.com/shownotes/OpenShownotesFormat> #link
+Erratum;
+
+00:11:18.000 News - Activism #chapter
+
+Open Access Button Annual Report für 2014; <https://openaccessbutton.org/annualreport/2014/> #link
+
+00:14:57.500 News - Open Access & Lizenzen #chapter
+
+Das europäische Netzwerk für wissenschaftliche Bibliotheken LIBER hat in der Hague Declaration ein zeitgemäßes Urheberrecht bzgl. Content-Mining gefordert und eine Roadmap für die verschiedenen Ebenen veröffentlicht auf denen agiert werden kann/muss; <http://thehaguedeclaration.com/> #link
+Schöne Umsetzung von Open Access in einem Computer Science Paper von Matthew Grosvenor (University of Cambridge) [OPEN]; <https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/grosvenor> #link
+Michael Nielsen: Where will the key ideas shaping the future of scientific publishing come from?; <http://michaelnielsen.org/blog/where-will-the-key-ideas-shaping-the-future-of-scientific-publishing-come-from/> #link
+COAR Statement against Elsevier’s sharing policy; <https://www.coar-repositories.org/activities/advocacy-leadership/petition-against-elseviers-sharing-policy/> #link
+Elsevier's Veröffentlichung; <https://www.elsevier.com/connect/elsevier-updates-its-policies-perspectives-and-services-on-article-sharing> #link
+Save the Internet; <https://savetheinternet.eu/> #link
+Die Internet.org Kampagne von Facebook; <https://internet.org/> #link
+Das neue Open Access Journal von Elsevier ist da; <http://www.heliyon.com/> #link
+Collabra; <http://www.collabraoa.org/> #link
+The Collabra Model; <https://www.youtube.com/watch?v=YLkH4MmiWCo> #video
+SciELO; <http://www.scielo.br/> #link
+
+00:55:01.000 News - Tools #chapter
+
+Peter-Murray Rust fragt nach dem unternehmerischen Hintergrund von Figshare und der Frage wie offen die Plattform tatsächlich ist; <https://blogs.ch.cam.ac.uk/pmr/2015/04/23/is-figshare-open-it-is-not-just-about-open-or-closed-it-is-about-control/> #link
+Mark Hahnel von Figshare hat direkt in den Kommentaren geantwortet; <https://blogs.ch.cam.ac.uk/pmr/2015/04/23/is-figshare-open-it-is-not-just-about-open-or-closed-it-is-about-control/#comment-607074> #link
+Zenodo; <https://zenodo.org/> #link
+OpenAIRE; <https://www.openaire.eu/> #link
+Invenio; <http://invenio-software.org/> #link
+Interview mit den Machern der Citation Style Language; <http://blog.papersapp.com/donation-to-citation-style-language-project/> #link
+Pandoc; <http://pandoc.org/> #link
+John MacFarlane; <http://johnmacfarlane.net/> #link
+John MacFarlane's Buch: Assessment Sensitivity: Relative Truth and its Applications; <http://www.amazon.com/Assessment-Sensitivity-Relative-Applications-Context/dp/0199682755/> #link
+Altmetric indiziert jetzt auch diverse Mainstream-Medien; <https://www.altmetric.com/blog/moreover/> #link
+Ausführlicher Artikel von Altmetric der die einzelnen Bestandteile ihres Article-Scores erklärt und auch die Quellen beschreibt; <https://www.altmetric.com/blog/scoreanddonut/> #link
+Konrad's Blog; <http://konrad.foerstner.org/> #link
+
+01:15:02.500 News - Open Data #chapter
+
+Erstaunlicherweise keine News heute;
+
+01:15:17.000 News - Peer Review & Metrics #chapter
+
+Obligatorisches IF-Bashing - Wrong Number: A closer look at Impact Factors; <https://quantixed.wordpress.com/2015/05/05/wrong-number-a-closer-look-at-impact-factors/> #link
+Björn Brembs: How important is the Impact Factor; <http://bjoern.brembs.net/2014/10/how-important-is-the-impact-factor/> #link
+Nature möchte Code Review für Journals effektiver gestalten; <http://www.nature.com/news/rule-rewrite-aims-to-clean-up-scientific-software-1.17323> #link
+Nature Biotechnology: Rebooting Review [OPEN]; <http://www.nature.com/nbt/journal/v33/n4/full/nbt.3202.html> #link
+An Open Science Peer Review Oath; <http://f1000research.com/articles/3-271/v2> #link
+Leiden Manifesto auf Nature erschienen; <http://www.nature.com/news/bibliometrics-the-leiden-manifesto-for-research-metrics-1.17351> #link
+Paper "Genetic Regulatory Mechanisms in the Synthesis of Proteins; <https://www.pasteur.fr/ip/resource/filecenter/document/01s-000046-03t/genetic-regulatory.pdf> #link
+Bibliometrics Special der DUZ [OPEN]; <http://www.duz.de/cms/media/uploads/user/duzSpecial_AvH_M04_2015_WEB.pdf> #link
+Publons schließt Partnerschaft mit elife; <http://elifesciences.org/elife-news/eLife-works-with-Publons-to-give-credit-for-peer-review> #link
+Publons schließt außerdem auch Partnerschaft mit SAGE; <http://blog.publons.com/post/119481743553/publons-partners-with-sage-to-improve-peer-review> #link
+Labor Journal 4/2015 mit Artikel zu offenen Peer-Review [OPEN]; <http://www.laborjournal-archiv.de/epaper/LJ_15_04/files/assets/common/downloads/Laborjournal_2015_04.pdf> #link
+
+01:45:22.000 Misc #chapter
+
+Wissenschaftsrat empfiehlt die Publikation von negativen Resultaten; <http://www.wissenschaftsrat.de/download/archiv/4609-15.pdf> #link
+Interview mit Charles Fracchia zu Open Hardware for Open Science; <http://hackaday.com/2015/04/08/open-hardware-for-open-science-interview-with-charles-fracchia/> #link
+Open Science goes Geo Paper; <https://zenodo.org/record/17624> #link
+Open Science goes Geo Videos; <https://www.youtube.com/playlist?list=PLhQpA_m5ywcjVbuNBPXFMnDm-Wu-9NjSU> #video
+Nature: No more hidden solutions in bioinformatics [OPEN]; <http://www.nature.com/news/no-more-hidden-solutions-in-bioinformatics-1.17587> #link
+Illumina BaseSpace; <https://basespace.illumina.com/home/index> #link
+Jim Hendler darüber warum Computer Science Publishing einen Neustart braucht; <https://peerj.com/blog/post/115284877880/peerj-computer-science-advisory-board-member-jim-hendler-on-why-computer-science-publishing-needs-a-reboot/> #link
+PeerJ Computer Science veröffentlicht die ersten Artikel; <https://peerj.com/blog/post/115284877891/peerj-computer-science-publishes-first-peer-reviewed-articles/> #link
+Research on Open Access Publishing; <http://www.openaccesspublishing.org/> #link
+Tabelle aus dem Paper zum Development of Article Volumes; <https://dx.doi.org/10.7717/peerj.981/table-3> #link
+Wikipedia: Mega Journal; <https://en.wikipedia.org/wiki/Mega_journal> #glossary
+
+02:09:30.000 Epilog #chapter
+
+Nächster Public Call der Open Science AG; <https://lists.okfn.org/pipermail/open-science-de/2015-May/000273.html> #link
+Pad zum Call; <https://pad.okfn.org/p/Open_Science_AG_Public_Call_002> #link
