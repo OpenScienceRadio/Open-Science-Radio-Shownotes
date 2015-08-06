@@ -1,0 +1,92 @@
+header
+Podcast: Open Science Radio
+Episode: 35
+Episode Title: OSR035
+Starttime: 05.08.2015 20:00:00
+Endtime: 05.08.2015 22:00:00
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+Erste Ampel vor 101 Jahren installiert; <https://en.wikipedia.org/wiki/Traffic_light#History> #link
+
+00:03:17.500 News - Activism #chapter
+
+TTIP; https://en.wikipedia.org/wiki/Transatlantic_Trade_and_Investment_Partnership #glossary
+NAFTA; <https://de.wikipedia.org/wiki/Nordamerikanisches_Freihandelsabkommen> #glossary
+Deutschlandfunk-Beitrag zu TTIP: "Wie TTIP mit Fakten hantiert"; <http://www.deutschlandfunk.de/deal-unter-forschern-wie-ttip-mit-fakten-hantiert.740.de.html?dram:article_id=326318> #link
+Nature über TTIP [OPEN]; <http://www.nature.com/news/giant-international-trade-treaties-centre-on-science-1.17620> #link
+Originalartikel von Sebastian Pfotenhauer in Issues in Science and Technology [OPEN]; <http://issues.org/30-1/sebastian/> #link
+Sebastian Pfotenhauer; <http://tppserver.mit.edu/index.php?id=163> #link
+Unterrichtsmaterialien der GEW zu TTIP als PDF [OPEN]; <http://www.gew.de/Binaries/Binary121483/Unterrichtsmaterial_TTIP_druck_Neu.pdf> #link
+mehr Infos unter anderem in Logbuch Netzpolitik 128; <http://logbuch-netzpolitik.de/lnp128-der-fernsehturm-muss-bleiben> #link
+WDR5 “Transatlantischer Traum oder der Ausverkauf der Demokratie?”; <http://www.wdr5.de/sendungen/dok5/ttip158.html> #link
+Wissenschaftliche Petition gegen TTIP und TAFTA; <http://www.kritik-freihandelsabkommen.de/?page_id=36> #link
+
+00:16:17.500 News - Open Access & Lizenzen #chapter
+
+Wir können openscience.com als unabhängige Quelle nun wirklich abschreiben; <http://openscience.com/is-there-a-place-for-specialized-open-access-journals/> #link
+Thieme Verlag probiert “Pay What You Want” Modell bei Open Access aus; <http://www.heise.de/tp/artikel/45/45278/1.html> #link
+Martin Spann; <http://www.ecm.bwl.uni-muenchen.de/personen/professoren/spann/index.html> #link
+The Surgery Journal; <http://www.thieme.com/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=1690&category_id=90&keyword=surgery+journal&option=com_virtuemart&Itemid=53> #link
+PeerJ Collection of the German Conference on Bioinformatics 2015; <https://peerj.com/blog/post/115284877994/german-conference-bioinformatics-2015/> #link
+PeerJ erhält partiellen IF; <https://peerj.com/blog/post/115284878055/our-first-partial-impact-factor/> #link
+PeerJ unterzeichnet die Transparency and Openness Promotion (TOP) Committee Guidelines; <https://peerj.com/blog/post/115284878169/peerj-signatory-of-new-guidelines-to-improve-research-and-publishing-practices/> #link
+Transparency and Openness Promotion (TOP) Guidelines; <https://osf.io/9f6gx/> #link
+Winnover legt Preismodell offen; <https://www.thewinnower.com/posts/transparent-publishing-transparent-pricing> #link
+Computer Vision Foundation vs IEEE; <http://www.nowozin.net/sebastian/blog/a-quick-summary-of-cvpr-2015.html> #link
+Predatory Publishing Isn’t The Problem, It’s a Symptom of Information Inequality; <http://www.digital-science.com/blog/perspectives/predatory-publishing-isnt-the-problem-its-a-symptom-of-information-inequality/> #link
+Predatory open access publishing; <https://en.wikipedia.org/wiki/Predatory_open_access_publishing> #link
+Who's Afraid of Peer Review; <http://www.sciencemag.org/content/342/6154/60.full> #link
+Dance your PhD; <https://en.wikipedia.org/wiki/Dance_Your_PhD> #glossary
+Senate committee approves FASTR by unanimous vote!; <https://plus.google.com/+PeterSuber/posts/1fWsse55q7S> #link
+SPARC Applauds Senate Committee Action on Public Access; <http://www.sparc.arl.org/news/sparc-applauds-senate-committee-action-on-public-access-legislation> #link
+
+00:55:23.500 News - Tools #chapter
+
+KSL002 Digital Lab Journalling with Git; <http://www.konscience.de/2015/04/ksl002-digital-lab-journalling-with-git/> #link
+getpapers (Bestandteil von ContentMine) ist veröffentlicht; <https://github.com/ContentMine/getpapers> #link
+Ross Mounce dazu: "Command-line access to research: getpapers"; <http://rossmounce.co.uk/2015/07/02/command-line-access-to-research-getpapers/> #link
+ContentMine; <http://contentmine.org/> #link
+Mark Shuttleworth; <https://en.wikipedia.org/wiki/Mark_Shuttleworth> #link
+Shuttleworth Foundation Fellowships; <https://www.shuttleworthfoundation.org/fellows/> #link
+Github meets arXiv: GitXiv, a Collaborative Open Computer Science; <https://medium.com/@samim/gitxiv-collaborative-open-computer-science-e5fea734cd45> #link
+
+01:09:33.000 News - Peer Review & Metrics #chapter
+
+American Society for Microbiology ist jetzt Partner von Publons; <http://blog.publons.com/post/120483920093/publons-partners-with-american-society-for> #link
+Journals are overriding peer reviewers wish to publish their reviews openly; <https://twitter.com/theWinnower/status/605928883062382592> #link
+
+01:16:39.000 Misc #chapter
+
+The Economics of Reproducibility in Preclinical Research; <http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002165> #link
+Schöne Serie bei PLOS die für Forschungsprojekte die Verbindung Wissenschaft-Gesellschaft beleuchtet; <https://blogs.plos.org/plos/2015/06/research-matters/> #link
+Guardian Artikel: ‘My professor demands to be listed as an author on many of my papers’; <http://www.theguardian.com/higher-education-network/2015/jun/05/my-professor-demand-to-be-listed-author-on-research-paper> #link
+Hinweis von Bernd Rupp: Voice of Researcher; <http://voice.euraxess.org/> #link
+Bernd Rupp beim omegatau Podcast zu Wirkstoffforschung; <http://omegataupodcast.net/2015/06/173-wirkstoffforschung/> #link
+Open Research Glossary; <http://figshare.com/articles/Open_Research_Glossary/1482094> #link
+Jason Priem: "Open Access: 3 koans"; <https://zenodo.org/record/20683> #link
+Kōan; <https://de.wikipedia.org/wiki/K%C5%8Dan> #glossary
+Freies Wissen und Wissenschaft (Teil 02): Offene Bildungsressourcen (OER) an Universitäten und Hochschulen: Plädoyer für eine didaktische Sicht; <http://blog.wikimedia.de/2015/07/27/freies-wissen-und-wissenschaft-teil-02-offene-bildungsressourcen-oer-an-universitaeten-und-hochschulen-plaedoyer-fuer-eine-didaktische-sicht/> #link
+Registered Reports bei eLife; <http://elifesciences.org/category/registered-report> #link
+Reproducibility Project: Cancer Biology; <http://elifesciences.org/collections/reproducibility-project-cancer-biology> #link
+Science AMAs bei Reddit erhalten jetzt auch DOIs; <https://www.reddit.com/r/science/comments/3finu8/doi_assignments_for_science_amas/> #link
+Konrad war auf der BOSC; <http://thedaoofflow.fluxionary.net/> #link
+BOSC Bioinformatics Open Source Conference; <http://www.open-bio.org/wiki/BOSC_2015> #link
+Tweets zur BOSC2015; <https://twitter.com/hashtag/bosc2015> #link
+Docker; <https://www.docker.com/> #link
+Common Workflow Language; <https://github.com/common-workflow-language/common-workflow-language> #link
+YouTube Playlist zur BOSC; <https://www.youtube.com/playlist?list=PLir-OOQiOhXbENjAIFF-JZ0WodnysPqfh> #link
+Martin Fenner wechselt von PLOS zu DataCite als Technischer Direktor; <http://blog.martinfenner.org/2015/07/29/thank-you-plos/> #link
+
+02:00:41.000 Epilog #chapter
+
+nächster Call der Open Science AG wahrscheinlich im September;
+auf Twitter OKScienceDE folgen hilft für aktuelle Infos; <https://twitter.com/OKScienceDE> #link
+Open Science MeetUp auf dem CCCamp15 mit einem Workshop; <https://events.ccc.de/camp/2015/wiki/Session:Open_Science_Workshop> #link
+Und einem Village; <https://events.ccc.de/camp/2015/wiki/Village:Open_Science> #link
+Berlin Open Science Meetup; <http://www.meetup.com/de/Berlin-Open-Science-Meetup/events/224279551/> #link
