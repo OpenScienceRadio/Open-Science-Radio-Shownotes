@@ -1,0 +1,87 @@
+header
+Podcast: Open Science Radio
+Episode: 36
+Episode Title: OSR036
+Starttime: 07.09.2015 19:45:00
+Endtime: 07.09.2015 21:25:00
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+00:00:49.500 Hausmeisterei #chapter
+
+Erratum: Jason Priem ist bei Impact Story nicht Impact Factor;
+Schönes Video zu Content Mine; <http://access.okfn.org/2015/07/20/introducing-contentmine/> #link
+Nachfrage von André Lampe bezüglich MatLab in Software Carpentry;
+André Lampe; <http://scienceblogs.de/diekleinendinge/> #link
+MatLab; <http://de.mathworks.com/products/matlab/> #link
+GNU Octave; <https://www.gnu.org/software/octave/> #link
+SciLab; <http://www.scilab.org/> #link
+SageMath; <http://www.sagemath.org/> #link
+André Lampe als Science Slammer; <https://www.youtube.com/results?search_query=Andr%C3%A9+Lampe> #link
+R; <https://www.r-project.org/> #link
+RStudio; <https://www.rstudio.com/> #link
+
+00:13:36.000 News - Activism #chapter
+
+Journal subscription costs - FOIs to UK universities; <http://figshare.com/articles/Journal_subscription_costs_FOIs_to_UK_universities/1186832> #link
+Christian Gutknecht erhält endlich Infos von der ETH Zürich bezüglich Zahlungen an wissenschaftliche Verlage; <http://wisspub.net/2015/08/29/zahlungen-der-eth-zuerich-an-elsevier-springer-und-wiley-nun-oeffentlich/> #link
+OpenAPCs von Naiko Jahn; <https://github.com/OpenAPC/openapc-de> #link
+Open Science Workshop auf dem Camp; <https://events.ccc.de/camp/2015/wiki/Session:Open_Science_Workshop> #link
+
+00:22:10.000 News - Open Access & Lizenzen #chapter
+
+Neues Journal: Research Ideas and Outcomes (RIO); <http://riojournal.com/> #link
+Ross Mounce dazu; <http://rossmounce.co.uk/2015/09/01/im-supporting-rio-journal-i-think-you-should-too/#> #link
+Science dazu; <http://news.sciencemag.org/scientific-community/2015/09/new-journal-wants-publish-your-research-ideas> #link
+Journal Article Tag Suite (JATS); <https://en.wikipedia.org/wiki/Journal_Article_Tag_Suite> #glossary
+Millennium Development Goals der UN; <http://www.un.org/millenniumgoals/> #link
+ARPHA Publishing Writing Tool von Pensoft; <http://pwt.pensoft.net/login.php?back_uri=%2F> #link
+ReScience Journal; <https://rescience.github.io/> #link
+Jupyter; <https://jupyter.org/> #link
+
+00:38:40.500 News - Tools #chapter
+
+Impact-Lotterie mit Impactstory; <http://www.scinoptica.com/pages/topics/impactstory-eine-magere-bilanz.php> #link
+Madoko: Schönes Online Markdown Tool; <https://www.madoko.net/> #link
+R Markdown; <http://rmarkdown.rstudio.com/> #link
+Literate Programming; <https://en.wikipedia.org/wiki/Literate_programming> #glossary
+
+00:43:00.500 News - Open Data #chapter
+
+The Francis Crick Institute has signed the Hague Declaration; <http://www.acgt.me/blog/2015/8/10/the-francis-crick-institute-has-signed-the-hague-declaration> #link
+IPR (Geistiges Eigentum); <https://de.wikipedia.org/wiki/Geistiges_Eigentum> #glossary
+Max Planck Digital Library Studie zu Umstellung auf Open Access; <http://www.mpg.de/9201460/flaechendeckende-umstellung-auf-open-access-moeglich> #link
+
+00:50:18.000 News - Peer Review & Metrics #chapter
+
+The Winnower hat einen Grant für Zenodo-basiertes Open Peer Review bekommen; <https://thewinnower.com/posts/opening-the-door-on-peer-review> #link
+OpenAIRE; <https://www.openaire.eu/> #link
+OpenAIRE Meldung zu Selected Projects der Open Peer Review Tenders; <https://www.openaire.eu/news-events/openaire-open-peer-review-tenders> #link
+Epi-Math Projekt; <http://www.episciences.org/page/epimath> #link
+Forschergeist Episode zu Open Science; <http://forschergeist.de/podcast/fg016-open-science/> #link
+
+00:56:13.000 Misc #chapter
+
+Science isn't broken; <https://fivethirtyeight.com/features/science-isnt-broken/> #link
+Hokusai Welle; <https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa> #glossary
+Offene Wissenschaft; <https://de.wikipedia.org/wiki/Offene_Wissenschaft> #glossary
+Öffentlicher Wissenschaftler; <https://de.wikiversity.org/wiki/Benutzer:Cspannagel/openscience> #link
+Buch Open Science, Open Issues von Alexandre Hannud Abdo et. al. ist mittlerweile auch in Englisch verfügbar; <http://livroaberto.ibict.br/handle/1/1061> link
+Ed Yong über Open Science’s Reproducibility Project; <https://www.theatlantic.com/health/archive/2015/08/psychology-studies-reliability-reproducability-nosek/402466/> #link
+Finding: mehr als die Hälfte der Psychologischen Studien halten der Maßgabe der Reproduzierbarkeit selbst nicht stand;
+Das Projekt bei OSF; <https://osf.io/ezcuj/> #link
+Fun Fact: das Projekt selbst ist via R selbstverständlich reproduzierbar;
+Academics are being hoodwinked into writing books nobody can buy; <http://www.theguardian.com/higher-education-network/2015/sep/04/academics-are-being-hoodwinked-into-writing-books-nobody-can-buy> #link
+Software Carpentry Lessons in neuer Version erschienen; <http://software-carpentry.org/lessons.html> #link
+Open-Access Articles for Sale as Expensive Books on Amazon; <http://scholarlyoa.com/2015/09/03/open-access-articles-for-sale-as-expensive-books-on-amazon/>
+
+01:19:36.500 Epilog #chapter
+
+p-Value Hacking; <https://en.wikipedia.org/wiki/Data_dredging> #glossary
+P-Hacking bei Freakonomics; <http://freakonometrics.hypotheses.org/19817>
+Freakonomics Podcast; <http://freakonomics.com/radio/> #link
