@@ -1,0 +1,77 @@
+header
+Podcast: Open Science Radio
+Episode: 37
+Episode Title: OSR037 Panta Rhei
+Starttime: 02.12.2015 19:45:00
+Endtime: 02.12.2015 21:30:00
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+00:01:11.000 Hausmeisterei #chapter
+Reaktion von André Lampe auf die MATLAB-Diskussion; <https://twitter.com/andereLampe/status/641541614419087360> #link
+RStudio ist Open Source; <https://github.com/rstudio/rstudio/> #link
+Konrad traf auf dem Workshop auf dem CCCamp unter anderem auch Julia Reda und Bastian Greshake;
+Bastian Greshake: You Don't Get to 2000 Open Data Sets Without Making a Few Friends – or: How I Got to be Called the Mark Zuckerberg of Open Source Genetics; <https://thewinnower.com/papers/2368-you-don-t-get-to-2000-open-data-sets-without-making-a-few-friends-or-how-i-got-to-be-called-the-mark-zuckerberg-of-open-source-genetics> #link
+Explorism mit Bastian Greshake; <http://www.scientists-in-progress.org/2012/06/oekologie-evolution-und-genetik-mit-bastian-greshake-explorism006/> #link
+
+00:08:42.500 News - Activism #chapter
+Julia Reda zu Copyright in der Wissenschaft; <https://juliareda.eu/2015/09/academics-for-copyright-reform/> #link
+AG Open Science hat eine neue Website; <http://ag-openscience.de/> #link
+Open Science Call der AG hat jetzt einen Jour Fixe an jedem ersten Donnerstag im Monat;
+Auf dem 32C3 gibt es auch wieder einen Open Science Workshop;
+
+00:15:09.500 News - Open Access & Lizenzen #chapter
+Directory of Open Access Journals; <https://doaj.org/> #link
+Directory of Open Access Books; <http://www.doabooks.org/> #link
+JISC; <https://en.wikipedia.org/wiki/Jisc> #glossary
+Noch ein hilfreiches Tool um sich zu informieren welche Zeitschriftenherausgeber und Verlagen, die Selbstarchivierung von Postprints zuzulassen (und mehr); <http://www.sherpa.ac.uk/romeo/> #link
+DARIAH-DE Working Paper (u.a. von John Weitzmann) erschienen: Forschen in der digitalen Welt – Juristische Handreichung für die Geisteswissenschaften; <http://irights.info/artikel/forschen-in-der-digitalen-welt-juristische-handreichung-fuer-die-geisteswissenschaften-veroeffentlicht/25989> #link
+Elsevier access donations help Wikipedia editors improve science articles; <https://www.elsevier.com/connect/elsevier-access-donations-help-wikipedia-editors-improve-science-articles> #link
+Kommentar-Tweet dazu; <https://twitter.com/tranlib/status/642372620575444993> #link
+André Lampe's Text zum Thema Copyright in der Wissenschaft; <http://scienceblogs.de/diekleinendinge/2015/09/14/die-wissenschaft-das-copyright-und-die-eu/> #link
+Diamond Open Access (arXiv overlaye journale); <https://www.techdirt.com/articles/20150912/02184032229/diamond-open-access-gets-real-free-to-read-free-to-publish-arrives.shtml> #link
+Tim Gowers Blogpost dazu; <https://gowers.wordpress.com/2015/09/10/discrete-analysis-an-arxiv-overlay-journal/> #link
+Glyn Moody's Open...; <http://opendotdotdot.blogspot.de/> #link
+CVPR Abstimmung zur Entwicklung Richtung Open Access; <http://www.cv-foundation.org/?p=181># link
+Berliner Senat beschloss Open Access Strategie; <https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2015/pressemitteilung.384964.php> #link
+DE GRUYTER – Traditional Scholarly Publisher’s Shift Towards Open Access. The Facts Behind the Numbers; <http://openscience.com/de-gruyter-traditional-scholarly-publishers-shift-towards-open-access-the-facts-behind-the-numbers/> #link
+Editorial Board von Lingua tritt geschlossen zurück und gründet neues Journal; <http://wisspub.net/2015/11/04/massenruecktritt-des-editorial-board-beim-elsevier-journal-lingua/> #link
+Zwischenbilanz als Elsevier-Aktionär; <http://wisspub.net/2015/11/13/zwischenbilanz-als-elsevier-aktionaer-christmas-is-not-over-yet/> #link
+
+00:52:23.000 News - Tools #chapter
+Using Org Mode as a Lab Notebook; <http://irreal.org/blog/?p=4395> #link
+Ebib: a BibTeX database manager for Emacs; <http://ebib.sourceforge.net/> #link
+Bielefeld Academic Search Engine bringt ein paar Neuerungen - API, CC-Lizenzen, IPFS-Dump; <http://base-search.net/Search/Advanced> #link
+IPFS; <https://ipfs.io/> #link
+CoScience Handbuch; <http://handbuch.io/w/Handbuch_CoScience> #link
+Scinote - Open Scource Scientific Notebook; <http://scinote.net/> #link
+Scinote's Kickstarter Kampagne; <https://www.kickstarter.com/projects/2039813795/scinote-open-source-scientific-notebook> #link
+
+00:59:13.500 News - Open Data #chapter
+Museum of Modern Art hat einen Metadaten-Dump auf Github; <http://research.kraeutli.com/index.php/2015/09/moma-on-github/> #link
+Tate Collection auf Github; <http://research.kraeutli.com/index.php/2013/11/the-tate-collection-on-github/> #link
+
+01:02:19.000 News - Peer Review & Metrics #chapter
+ORICD und Publons arbeiten zusammen; <http://blog.publons.com/publons-partners-with-orcid-to-give-more-credit-for-peer-review/?msg_guid=yHnorFI8hj7TgQqeOo0wOTiPysN> #link
+Publons startet Piloten mit der Bibliothek der University of Queensland; <https://blog.publons.com/publons-to-launch-pilot-with-the-university-of-queensland-library/> #link
+Björn Brembs: Why Cutting Down On Peer-Review Will Improve It; <http://bjoern.brembs.net/2015/12/why-cutting-down-on-peer-review-will-improve-it/> #link
+Peer Reviewers' Openness Initiative; <https://opennessinitiative.org/the-initiative/> #link
+
+01:08:55.500 Misc #chapter
+Story Collider; <http://storycollider.org/> #link
+Unseminar-Serie in Würzburg: WUBSyB; <https://wubsyb.github.io/> #link
+OSR028: Unseminars mit Aidan Budd; <http://www.openscienceradio.de/2015/01/29/osr028-unseminars-mit-aidan-budd/> #link
+Open Data Portal der NASA; <https://open.nasa.gov/> #link
+André Lampe's Bericht auf dem Science Hack Day Berlin; <http://scienceblogs.de/diekleinendinge/2015/10/25/besuch-beim-science-hack-day-berlin-2015-shdb15/?utm_source=rss&utm_medium=rss&utm_campaign=besuch-beim-science-hack-day-berlin-2015-shdb15> #link
+Das Weiße Haus promotet Open Science; <https://www.whitehouse.gov/blog/2015/09/09/open-science-and-innovation-people-people-people> #link
+
+01:14:58.000 Epilog #chapter
+André Lampe hat auf dem FWK15 ein Panel moderiert, das man bei Voice Republic nachhören kann; <https://voicerepublic.com/talks/der-kommunizierende-wissenschaftler-das-un-bekannte-wesen> #link
+Habt Ihr Anmerkungen oder Wünsche zum Format von Open Science Radio?;
+Spenden an WikimediaDE; <https://spenden.wikimedia.de/spenden/> #link
+Spenden an die Open Knowledge Foundation; <http://okfn.de/spenden/> #link
