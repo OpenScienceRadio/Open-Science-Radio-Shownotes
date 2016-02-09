@@ -1,0 +1,64 @@
+header
+Podcast: Open Science Radio
+Episode: 38
+Episode Title: OSR038
+Starttime: 08.02.2016 19:00:00
+Endtime: 08.02.2016 20:00:00
+Podcaster: Matthias Fromm, Konrad Förstner, Greg Wilson
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+Greg Wilson; <http://www.third-bit.com/about.html> #link
+
+00:00:44.000 Introduction of Greg Wilson and Software Carpentry #chapter
+
+Parallel Computing; <https://en.wikipedia.org/wiki/Parallel_computing> #glossary
+Lawrence Livermore National Laboratory; <https://en.wikipedia.org/wiki/Lawrence_Livermore_National_Laboratory> #glossary
+Los Alamos National Laboratory; <https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory> #glossary
+Fortran; <https://en.wikipedia.org/wiki/Fortran> #glossary
+Python Software Foundation; <https://www.python.org/psf/> #link
+Reproducible Research; <https://en.wikipedia.org/wiki/Reproducibility#Reproducible_research> #glossary
+Primary Key; <https://en.wikipedia.org/wiki/Unique_key> #glossary
+Software Carpentry has trained 12000 People in 300 events and has a network of 500 instructors in over 30 countries;
+Data Carpentry; <http://www.datacarpentry.org/> #link
+R Project for Statistical Computing; <https://www.r-project.org/> #link
+R instead of Excel;
+Computer Science at the University of Toronto; <http://web.cs.toronto.edu/> #link
+Open Educational Resources; <https://en.wikipedia.org/wiki/Open_educational_resources> #glossary
+Budgetary constraints and spendings;
+Software Carpentry had 220.000 USD financial resources in the last year (coming mainly from partnerships);
+Software Carpentry partners; <https://software-carpentry.org/scf/partners/> #link
+
+00:15:09.500 Software Carpentry Workshops & Organization #chapter
+
+Software Carpentry is educating the instructors who then teach to scientists;
+Feedback loops and systematic assessment;
+bi-weekly debriefing with those people who have taught;
+in 2015 over 200 people have made contributions (improvements) to the Software Carpentry material on Github;
+Software Carpentry lessons on Github; <https://github.com/swcarpentry> #link
+
+00:37:19.000 NumFocus and Matlab #chapter
+
+NumFocus; <http://www.numfocus.org/> #link
+Non-Profit Organization;
+Why MATLAB?;
+MATLAB; <https://en.wikipedia.org/wiki/MATLAB> #glossary
+Form for requesting a Software Carpentry workshop; <https://software-carpentry.org/workshops/request/> #link
+00:43:27.000 Interview End and Konrad's Insights into Software Carpentry Training #chapter
+
+Konrad's experience from the Software Carpentry training,
+Conducted workshop by Konrad's colleague Malvika Sharan at the GFZ Potsdam; <http://www.gfz-potsdam.de/zentrum/fort-und-weiterbildung/trainingszentrum-geolab/workshop-novices/> #link
+Python; <https://en.wikipedia.org/wiki/Python_(programming_language)> #glossary
+Python's centered role in the Software Carpentry activities,
+Perl; <https://en.wikipedia.org/wiki/Perl> #glossary
+Biostars; <https://www.biostars.org/> #link
+
+00:58:08.000 Epilogue #chapter
+
+Software Carpentry lesson material overview; <https://software-carpentry.org/lessons/> #link
+Software Carpentry workshops; <https://software-carpentry.org/workshops/> #link
+How Learning Works: 7 Research-based Principles for Smart Teaching (Ambrose et. al); <http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470484101.html> #link
