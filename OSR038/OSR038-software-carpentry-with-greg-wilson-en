@@ -51,11 +51,21 @@ Form for requesting a Software Carpentry workshop; <https://software-carpentry.o
 00:43:27.000 Interview End and Konrad's Insights into Software Carpentry Training #chapter
 
 Konrad's experience from the Software Carpentry training,
+Konrad's course "Introduction to the Unix Shell for biologists"; <https://github.com/konrad/Introduction_to_the_Unix_Shell_for_biologists> #link
 Conducted workshop by Konrad's colleague Malvika Sharan at the GFZ Potsdam; <http://www.gfz-potsdam.de/zentrum/fort-und-weiterbildung/trainingszentrum-geolab/workshop-novices/> #link
-Python; <https://en.wikipedia.org/wiki/Python_(programming_language)> #glossary
+Python; <https://www.python.org/> #glossary
 Python's centered role in the Software Carpentry activities,
 Perl; <https://en.wikipedia.org/wiki/Perl> #glossary
+The Zen of Python; <https://www.python.org/dev/peps/pep-0020/> #link
+Procedural programming; <https://en.wikipedia.org/wiki/Procedural_programming> #glossary
+Object-oriented programming; <https://en.wikipedia.org/wiki/Object-oriented_programming> #glossary
+Functional programming; <https://en.wikipedia.org/wiki/Functional_programming> #glossary
+Data Science <https://en.wikipedia.org/wiki/Data_science> #glossary
+Pandas; <http://pandas.pydata.org/> #link
+Data Frames in R; <http://www.r-tutor.com/r-introduction/data-frame> #link
+Data Frames in pandy; <http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html> #link
 Biostars; <https://www.biostars.org/> #link
+High throughput sequencing <https://en.wikipedia.org/wiki/DNA_sequencing#Next-generation_methods> #glossary
 
 00:58:08.000 Epilogue #chapter
 
