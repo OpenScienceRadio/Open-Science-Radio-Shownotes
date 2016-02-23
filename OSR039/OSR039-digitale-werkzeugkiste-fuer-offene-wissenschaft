@@ -30,6 +30,7 @@ Spezifische wie auch allgemeine Tools;
 
 Research Ideas and Outcomes Journal (RIO); <http://riojournal.com/> #link
 Pensoft Writing Tool; <http://arpha.pensoft.net/> #link
+Talk "Hacking EU funding for a decentralizing FOSS project"; <https://media.ccc.de/v/32c3-7300-hacking_eu_funding_for_a_decentralizing_foss_project> #link
 Projektmanagement- und Issue-Tracking-Tools;
 Kanban Board; <https://en.wikipedia.org/wiki/Kanban_board> #link
 Trello; <https://trello.com/> #link
@@ -60,24 +61,33 @@ Center for Open Science; <https://cos.io/> #link
 OSF ist Open Source; <https://github.com/CenterForOpenScience/osf.io> #link
 Reproducibility Project: Cancer Biology; <https://osf.io/e81xl/> #link
 Konrad's etablierter Workflow;
+Emacs org-mode; <http://orgmode.org/> #link
+Markdown; <https://de.wikipedia.org/wiki/Markdown> #glossary
 A Quick Guide to Organizing Computational Biology Projects; <http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424> #link
 SciNote; <http://scinote.net/> #link
+Kampangle auf Kickstarter; <https://www.kickstarter.com/projects/2039813795/scinote-open-source-scientific-notebook/description> #link
 BioSistemika; <https://biosistemika.com/> #link
 Taverna Workflow Management System; <http://www.taverna.org.uk/> #link
 Kepler Project; <https://kepler-project.org/> #link
 Jupyter Notebook; <http://jupyter.org/> #link
 Notebook Viewer; <https://nbviewer.jupyter.org/> #link
 JupyterHub; <https://jupyterhub.readthedocs.org/en/latest/> #link
+Emacs; <https://www.gnu.org/software/emacs/> #link
 Sage Bionetworks Synapse; <http://sagebase.org/synapse/> #link
 Synapse; <https://www.synapse.org/> #link
 Sage Bionetworks; <http://sagebase.org/> #link
+John Wilbanks; https://en.wikipedia.org/wiki/John_Wilbanks #glossary
 IBM and Sage announce Open Biomedical Research Platform based on IBM's Watson; <https://www-03.ibm.com/press/us/en/pressrelease/47623.wss#release> #link
+protocols.io; <https://www.protocols.io/> #link
 Common Workflow Language; <http://common-workflow-language.github.io/> #link
-Laboratory Information Management System LIMS; <https://en.wikipedia.org/wiki/Laboratory_information_management_system> #glossary
+Laboratory Information Management System (LIMS); <https://en.wikipedia.org/wiki/Laboratory_information_management_system> #glossary
+LIMSwiki; <http://limswiki.org/> #link
 bikalabs; <http://www.bikalabs.com/> #link
-openBIS; <http://www.cisd.ethz.ch/software/openBIS> #link
 Plone CMS; <https://plone.org/> #link
+Zope; <http://www.zope.org/> #link
+openBIS; <http://www.cisd.ethz.ch/software/openBIS> #link
 openBIS ELN-LIMS; <https://wiki-bsse.ethz.ch/display/openBISDoc/openBIS+ELN-LIMS> #link
+Django; <https://www.djangoproject.com/> #link
 
 01:15:19.000 Tools für Data Sharing #chapter
 
@@ -89,6 +99,7 @@ Domänenspezifische Repositorien;
 Git Large File Storage (LFS); <https://git-lfs.github.com/> #link
 Git Annex; <https://git-annex.branchable.com/> #link
 Zenodo; <https://zenodo.org/> #link
+Long Tail; <https://de.wikipedia.org/wiki/The_Long_Tail> #glossary
 figshare; <https://figshare.com/> #link
 DataDryad; <https://datadryad.org/> #link
 Dropbox; <http://www.dropbox.com/> #link
@@ -99,9 +110,12 @@ Bittorrent; <https://en.wikipedia.org/wiki/BitTorrent> #glossary
 Academic Torrents; <http://academictorrents.com/> #link
 InterPlanetary File System (IPFS); <https://ipfs.io/> #link
 Blockchain; <https://en.wikipedia.org/wiki/Block_chain_(database)> #glossary
+Bitcoin; <https://de.wikipedia.org/wiki/Bitcoin> #glossary
+Ethereum; <https://www.ethereum.org/>
 WikiData; <https://www.wikidata.org/wiki/Wikidata:Main_Page> glossary
 Daniel Mietchen et. al.: "Enabling Open Science: Wikidata for Research (Wiki4R); <http://rio.pensoft.net/articles.php?id=7573> #link
 re3data.org; <http://www.re3data.org/> #link
+XML; <https://de.wikipedia.org/wiki/Extensible_Markup_Language> #glossary
 Comprehensive Knowledge Archive Network; <http://ckan.org/> #link
 Open-data Solutions Provider auf Basis von CKAN; <http://www.viderum.com> #link
 
@@ -109,10 +123,12 @@ Open-data Solutions Provider auf Basis von CKAN; <http://www.viderum.com> #link
 
 Zenodo und figshare sind auch im Bereich Publishing zu nennen;
 ASAPbio; <http://asapbio.org/> #link
+Preprint; <https://de.wikipedia.org/wiki/Preprint> #glossary
 PeerJ; <https://peerj.com/> #link
 PeerJ Paper Now; <https://github.com/PeerJ/paper-now> #link
 Research Ideas and Outcomes Journal (RIO); <http://riojournal.com/> #link
 F1000Research; <http://f1000research.com/> #link
+Talk: CKAN: apt-get for the Debian of Data; <https://media.ccc.de/v/26c3-3647-de-ckan_apt-get_for_the_debian_of_data> #link
 Science Matters; <https://www.sciencematters.io/> #link
 ReScience Journal; <http://rescience.github.io/> #link
 The Winnower; <https://thewinnower.com/> #link
@@ -120,6 +136,7 @@ The Winnower; <https://thewinnower.com/> #link
 01:43:30.500 Meta Tools #chapter
 
 AG Open Science der Open Knowledge Foundation; <http://www.ag-openscience.de/> #link
+Public Call der AG Open Science; <http://www.ag-openscience.de/public-call/> #link
 Open Science Q&A; <https://openscience.uni-bielefeld.de/> #link
 StackExchange; <http://stackexchange.com/> #link
 StackExchange Academia; <http://academia.stackexchange.com/> #link
