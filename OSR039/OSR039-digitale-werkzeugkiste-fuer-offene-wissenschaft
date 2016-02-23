@@ -1,0 +1,134 @@
+header
+Podcast: Open Science Radio
+Episode: 39
+Episode Title: OSR039
+Starttime: 22.02.2016 19:30:00
+Endtime: 22.02.2016 21:30:00
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+00:00:13.500 Hausmeisterei #chapter
+
+OSR038 mit Greg Wilson; <http://www.openscienceradio.de/2016/02/09/osr038-software-carpentry-with-greg-wilson-en/> #link
+Sci-Hub; <https://en.wikipedia.org/wiki/Sci-Hub> #glossary
+Konrad’s Interview zu Sci-Hub bei detektor.fm; <https://detektor.fm/digital/sci-hub-zugang-zur-wissenschaft> #link
+Konrad’s Blogpost zum Interview und zu Sci-Hub; <http://birnenbonsai.fluxionary.net/detektor-fm-interview-zu-sci-hub-und-open-access/> #link
+OSR025 mit Leseempfehlungen zum Thema Schattenbibliotheken; <http://www.openscienceradio.de/2014/10/16/osr025-das-xyz-der-wissenschaften/> #link
+
+00:06:55.500 Generelles zum Thema digitale Werkzeuge für Offene Wissenschaftler #chapter
+
+Paper von Konrad et. al.: "Collaborative platforms for streamlining workflows in Open Science."; <http://precedings.nature.com/documents/6066/version/1/files/npre20116066-1.pdf> #link
+Motivation;
+Spezifische wie auch allgemeine Tools;
+
+00:15:20.000 Tools in der Vorbereitung/Planung/Kommunikation #chapter
+
+Research Ideas and Outcomes Journal (RIO); <http://riojournal.com/> #link
+Pensoft Writing Tool; <http://arpha.pensoft.net/> #link
+Projektmanagement- und Issue-Tracking-Tools;
+Kanban Board; <https://en.wikipedia.org/wiki/Kanban_board> #link
+Trello; <https://trello.com/> #link
+Redmine; <http://www.redmine.org/> #link
+Audio-/Videokonferenz-Tools;
+Skype; <http://www.skype.com/en/> #link
+Google Hangouts; <https://hangouts.google.com/> #link
+Mumble; <https://wiki.mumble.info/wiki/Main_Page> #link
+WebRTC; <https://en.wikipedia.org/wiki/WebRTC> #glossary
+SIP; <https://en.wikipedia.org/wiki/Session_Initiation_Protocol> #glossary
+Studio-Link; <studio-link.de> #link
+Studio-Link im Lautsprecher-Podcast; <http://der-lautsprecher.de/ls016-studio-link> #link
+AppearIn; <https://appear.in/> #link
+Zoom Webconferencing; <https://zoom.us/> #link
+Firefox Hello; <https://www.mozilla.org/en-US/firefox/hello/> #link
+Slack; <https://slack.com/> #link
+Matrix; <https://matrix.org/> #link
+Jabber; <https://en.wikipedia.org/wiki/Jabber> #link
+Google Wave bzw. jetzt Apache Wave; <https://en.wikipedia.org/wiki/Apache_Wave> #glossary
+Etherpad; <http://etherpad.org/> #link
+
+00:34:07.000 Tools für das nachvollziehbare und kollaborative Arbeiten #chapter
+
+Wikis; <https://de.wikipedia.org/wiki/Wiki> #glossary
+Etherpad;
+Open Science Framework; <https://osf.io/> #link
+Center for Open Science; <https://cos.io/> #link
+OSF ist Open Source; <https://github.com/CenterForOpenScience/osf.io> #link
+Reproducibility Project: Cancer Biology; <https://osf.io/e81xl/> #link
+Konrad's etablierter Workflow;
+A Quick Guide to Organizing Computational Biology Projects; <http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424> #link
+SciNote; <http://scinote.net/> #link
+BioSistemika; <https://biosistemika.com/> #link
+Taverna Workflow Management System; <http://www.taverna.org.uk/> #link
+Kepler Project; <https://kepler-project.org/> #link
+Jupyter Notebook; <http://jupyter.org/> #link
+Notebook Viewer; <https://nbviewer.jupyter.org/> #link
+JupyterHub; <https://jupyterhub.readthedocs.org/en/latest/> #link
+Sage Bionetworks Synapse; <http://sagebase.org/synapse/> #link
+Synapse; <https://www.synapse.org/> #link
+Sage Bionetworks; <http://sagebase.org/> #link
+IBM and Sage announce Open Biomedical Research Platform based on IBM's Watson; <https://www-03.ibm.com/press/us/en/pressrelease/47623.wss#release> #link
+Common Workflow Language; <http://common-workflow-language.github.io/> #link
+Laboratory Information Management System LIMS; <https://en.wikipedia.org/wiki/Laboratory_information_management_system> #glossary
+bikalabs; <http://www.bikalabs.com/> #link
+openBIS; <http://www.cisd.ethz.ch/software/openBIS> #link
+Plone CMS; <https://plone.org/> #link
+openBIS ELN-LIMS; <https://wiki-bsse.ethz.ch/display/openBISDoc/openBIS+ELN-LIMS> #link
+
+01:15:19.000 Tools für Data Sharing #chapter
+
+Git; <https://git-scm.com/> #link
+Github; <https://github.com/> #link
+Gitlab; <https://about.gitlab.com/> #link
+Bitbucket; <https://bitbucket.org/> #link
+Domänenspezifische Repositorien;
+Git Large File Storage (LFS); <https://git-lfs.github.com/> #link
+Git Annex; <https://git-annex.branchable.com/> #link
+Zenodo; <https://zenodo.org/> #link
+figshare; <https://figshare.com/> #link
+DataDryad; <https://datadryad.org/> #link
+Dropbox; <http://www.dropbox.com/> #link
+ownCloud; <https://owncloud.org/> #link
+Amazon Simple Storage Server (S3); <https://aws.amazon.com/de/s3/> #link
+OpenStack; <https://www.openstack.org/> #link
+Bittorrent; <https://en.wikipedia.org/wiki/BitTorrent> #glossary
+Academic Torrents; <http://academictorrents.com/> #link
+InterPlanetary File System (IPFS); <https://ipfs.io/> #link
+Blockchain; <https://en.wikipedia.org/wiki/Block_chain_(database)> #glossary
+WikiData; <https://www.wikidata.org/wiki/Wikidata:Main_Page> glossary
+Daniel Mietchen et. al.: "Enabling Open Science: Wikidata for Research (Wiki4R); <http://rio.pensoft.net/articles.php?id=7573> #link
+re3data.org; <http://www.re3data.org/> #link
+Comprehensive Knowledge Archive Network; <http://ckan.org/> #link
+Open-data Solutions Provider auf Basis von CKAN; <http://www.viderum.com> #link
+
+01:34:06.000 Tools für das Publizieren #chapter
+
+Zenodo und figshare sind auch im Bereich Publishing zu nennen;
+ASAPbio; <http://asapbio.org/> #link
+PeerJ; <https://peerj.com/> #link
+PeerJ Paper Now; <https://github.com/PeerJ/paper-now> #link
+Research Ideas and Outcomes Journal (RIO); <http://riojournal.com/> #link
+F1000Research; <http://f1000research.com/> #link
+Science Matters; <https://www.sciencematters.io/> #link
+ReScience Journal; <http://rescience.github.io/> #link
+The Winnower; <https://thewinnower.com/> #link
+
+01:43:30.500 Meta Tools #chapter
+
+AG Open Science der Open Knowledge Foundation; <http://www.ag-openscience.de/> #link
+Open Science Q&A; <https://openscience.uni-bielefeld.de/> #link
+StackExchange; <http://stackexchange.com/> #link
+StackExchange Academia; <http://academia.stackexchange.com/> #link
+Open Science Q&A auf Area 51 (besprochen in OSR031) ist mittlerweile geschlossen; <https://area51.stackexchange.com/proposals/65426/open-science> #link
+Open Science Sub-Reddit; <https://www.reddit.com/r/openscience/> #link
+Survey of Scholarly Tools Usage; <https://101innovations.wordpress.com/> #link
+
+01:51:33.000 Epilog #chapter
+
+SciDataCon; <http://www.scidatacon.org/> #link
+International Council for Science; <http://www.icsu.org/> #link
+Research Data Alliance; <https://rd-alliance.org/> #link
