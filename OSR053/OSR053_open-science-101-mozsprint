@@ -1,0 +1,54 @@
+header
+Podcast: Open Science Radio
+Episode: 53
+Episode Title: OSR052 Sprint report „Open Science 101“ at #mozsprint 2016
+Starttime: 03.06.2016 17:30:00
+Endtime: 03.06.2016 17:47:00
+Podcaster: Konrad Förstner, Andreas Leimbach, Markus Ankenbrand
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Welcome #chapter
+
+Mozilla Science Global Sprint 2016; <https://science.mozilla.org/programs/events/global-sprint-2016> #link
+
+00:00:28.500 Introduction to the Project "Open Science 101" #chapter
+
+Andreas Leimbach; <https://twitter.com/aleimba> #link
+Open Science 101 @ Mozilla Science Global Sprint 2016; <https://science.mozilla.org/programs/events/projects/open-science-101> #link
+Barcamp Science 2.0; <https://www.science20-conference.eu/barcamp/> #link
+Barcamp Session "Teaching Open Science"; <https://pad.okfn.org/p/s20bar_2016_session11> #link
+OSR045 Teaching Open Science with Andreas; <http://www.openscienceradio.de/2016/05/02/osr045-teaching-open-science-s20bar-de/> #link
+AG Open Science; <http://www.ag-openscience.de/> #link
+Markus Ankenbrand; <http://www.zoo3.biozentrum.uni-wuerzburg.de/team/ankenbrand/> #link
+CC0 License (Public Domain); <https://creativecommons.org/publicdomain/zero/1.0/> #link
+Project's Github Material; <https://github.com/OKScienceDE/Open_Science_101/> #link
+Personas of the project; <https://github.com/OKScienceDE/Open_Science_101/blob/master/PERSONAS.md> #link
+Software Carpentry; <https://software-carpentry.org/> #link
+OSR038 Software Carpentry with Greg Wilson; <http://www.openscienceradio.de/2016/02/09/osr038-software-carpentry-with-greg-wilson-en/> #link
+Git; <https://en.wikipedia.org/wiki/Git_(software)> #glossary
+Daniel Mietchen; <https://twitter.com/evomri> #link
+Mozilla's Working Open Workshop; <https://mozillascience.github.io/working-open-workshop/> #link
+Mozilla community Gitter chat; <https://gitter.im/mozillascience/community> #link
+
+00:09:50.000 Learning of the Initial Project Phase #chapter
+
+Data Carpentry; <http://www.datacarpentry.org/> #link
+Author Carpentry; <http://libguides.caltech.edu/authorcarpentry> #link
+Library Carpentry; <https://librarycarpentry.github.io/> #link
+
+00:13:02.000 First Decisions and Further Proceeding #chapter
+
+Survey results for the starting focus topics; <https://github.com/OKScienceDE/Open_Science_101/tree/master/meetings/2016-06-02-Mozilla_Science_Lab_Global_Sprint_2016> #link
+Open Data; <https://en.wikipedia.org/wiki/Open_data> #glossary
+Open Licenses; <http://opendefinition.org/guide/> #link
+Open Access; <https://en.wikipedia.org/wiki/Open_access> #glossary
+Research Cycle (example); <https://sbp-portal.wikispaces.com/file/view/Capture-researchcycle.JPG/173371097/Capture-researchcycle.JPG> #link
+Open Science Facets; <https://github.com/OKScienceDE/Facettes_of_Open_Science/blob/master/facettes_of_open_science.png> #link
+
+00:15:53.500 Epilogue #chapter
+
+Contributors of the project (so far); <https://github.com/OKScienceDE/Open_Science_101/blob/master/Contributors.md> #link
+
