@@ -1,0 +1,84 @@
+header
+Podcast: Open Science Radio
+Episode: 54
+Episode Title: OSR054 Kündigt Eure Netflix Abos - Tools rund ums Schreiben und Publizieren
+Starttime: 13.06.2016 16:30:00
+Endtime: 13.06.2016 18:00:00
+Podcaster: Matthias Fromm, Konrad Förstner, Katrin Leinweber
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+Katrin Leinweber; <http://www.konscience.de/uber-uns/#katrin> #link
+Konscience.de; <http://www.konscience.de/> #link
+
+00:01:59.000 Einführung in den Publikationsprozess #chapter
+
+LaTeX; <https://en.wikipedia.org/wiki/LaTeX> #glossary
+Markup Language; <https://en.wikipedia.org/wiki/Markup_language> #glossary
+Editorial Manager; <http://www.ariessys.com/software/editorial-manager/> #link
+eLife; <https://elifesciences.org/> #link
+Druckfahne; <https://de.wikipedia.org/wiki/Druckfahne> #glossary
+Wiley; <http://eu.wiley.com/WileyCDA/Section/index.html> #link
+PDF Bearbeitung auf dem Server bei Wiley; <LINK> #link
+ORCID; <https://en.wikipedia.org/wiki/ORCID> #glossary
+
+00:14:47.500 Alternative Tools für den Schreibprozess #chapter
+
+LibreOffice; <https://www.libreoffice.org/> #link
+EndNote; <http://endnote.com/> #link
+Zotero; <https://www.zotero.org/> #link
+Google Docs; <https://www.google.com/docs/about/> #link
+ownCloud; <https://owncloud.org/> #link
+OSR050 mit Roman Gurinovich; <http://www.openscienceradio.de/2016/05/03/osr050-structuring-research-and-publications-s20bar-en/> #link
+Paperpile; <https://paperpile.com/> #link
+Overleaf; <https://www.overleaf.com/> #link
+ShareLaTeX; <https://www.sharelatex.com/> #link
+Markdown; <https://en.wikipedia.org/wiki/Markdown> #glossary
+Github Markdown; <https://guides.github.com/features/mastering-markdown/> #link
+Common Markdown; <http://commonmark.org/re> #link
+Pandoc; <http://pandoc.org/> #link
+reStructuredText; <http://docutils.sourceforge.net/docs/ref/rst/introduction.html> #link
+Emacs; <https://en.wikipedia.org/wiki/Emacs> #glossary
+Emacs Org-Mode; <http://orgmode.org/> #link
+Babel; <http://orgmode.org/worg/org-contrib/babel/intro.html> #link
+Gitlab; <https://about.gitlab.com/> #link
+Authorea; <https://www.authorea.com/> #link
+Scientific Markdown; <https://github.com/JensErat/scientific-markdown> #link
+Scholarly Markdown von Tim Lin; <http://scholarlymarkdown.com/> #link
+Scholarly Markdown von Martin Fenner/Karthik Ram; <http://scholmd.org/> #link
+Citation Style Language; <http://citationstyles.org/> #link
+Citation Style bei Konscience; <https://github.com/KonScience/Citation-Style> #link
+Arpha Writing Tool; <http://arpha.pensoft.net/> #link
+Pensoft; <http://pensoft.net/> #link
+RIO Journal; <http://riojournal.com/> #link
+Aperta; <https://blogs.plos.org/tech/a-tech-framework-for-innovations-in-open-science/> #link
+PLOS; <https://www.plos.org/> #link
+eLife Continuum; <https://elifesciences.org/elife-news/elife-introduces-continuum-new-open-source-tool-publishing> #link
+JATS; <https://jats.nlm.nih.gov/> #link
+SciELO; <http://www.scielo.br/> #link
+PeerJ Paper Now; <https://github.com/PeerJ/paper-now> #link
+Github Static Site Generator (Jekyll); <https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/> #link
+eLife Lens; <https://lens.elifesciences.org/about/> #link
+Static Site Generator mit Gitlab nutzen; <https://about.gitlab.com/2016/06/10/ssg-overview-gitlab-pages-part-2/> #link
+protocols.io; <https://www.protocols.io/> #link
+Wiki; <https://en.wikipedia.org/wiki/Wiki> #glossary
+The Winnower; <https://thewinnower.com/> #link
+
+01:24:16.500 Speichern und Organisieren #chapter
+
+Dropbox; <https://www.dropbox.com/> #link
+Google Drive; <https://www.google.com/drive/> #link
+Sparkleshare (Dropbox mit Versionierung); <http://sparkleshare.org/> #link
+OwnCloud; <https://owncloud.org/> #link
+Research Data Alliance; <https://rd-alliance.org/> #link
+European Open Science Cloud; <http://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud> #link
+
+01:33:59.500 Ratschläge und Epilogue #chapter
+
+Konrad: Unix Shell für Biologen; <https://github.com/konrad/Introduction_to_the_Unix_Shell_for_biologists> #link
+
+
