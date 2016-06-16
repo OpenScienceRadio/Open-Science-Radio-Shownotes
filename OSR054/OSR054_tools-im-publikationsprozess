@@ -13,7 +13,7 @@ Webseite: <http://www.openscienceradio.de/>
 00:00:00.000 Begrüßung #chapter
 
 Katrin Leinweber; <http://www.konscience.de/uber-uns/#katrin> #link
-Konscience.de; <http://www.konscience.de/> #link
+KonScience.de; <http://www.konscience.de/> #link
 
 00:01:59.000 Einführung in den Publikationsprozess #chapter
 
@@ -38,21 +38,21 @@ Paperpile; <https://paperpile.com/> #link
 Overleaf; <https://www.overleaf.com/> #link
 ShareLaTeX; <https://www.sharelatex.com/> #link
 Markdown; <https://en.wikipedia.org/wiki/Markdown> #glossary
-Github Markdown; <https://guides.github.com/features/mastering-markdown/> #link
+GitHub Markdown; <https://guides.github.com/features/mastering-markdown/> #link
 Common Markdown; <http://commonmark.org/re> #link
 Pandoc; <http://pandoc.org/> #link
 reStructuredText; <http://docutils.sourceforge.net/docs/ref/rst/introduction.html> #link
 Emacs; <https://en.wikipedia.org/wiki/Emacs> #glossary
 Emacs Org-Mode; <http://orgmode.org/> #link
 Babel; <http://orgmode.org/worg/org-contrib/babel/intro.html> #link
-Gitlab; <https://about.gitlab.com/> #link
+GitLab; <https://about.gitlab.com/> #link
 Authorea; <https://www.authorea.com/> #link
 Scientific Markdown; <https://github.com/JensErat/scientific-markdown> #link
 Scholarly Markdown von Tim Lin; <http://scholarlymarkdown.com/> #link
 Scholarly Markdown von Martin Fenner/Karthik Ram; <http://scholmd.org/> #link
 Citation Style Language; <http://citationstyles.org/> #link
-Citation Style bei Konscience; <https://github.com/KonScience/Citation-Style> #link
-Arpha Writing Tool; <http://arpha.pensoft.net/> #link
+Citation Style bei KonScience; <https://github.com/KonScience/Citation-Style> #link
+ARPHA Writing Tool; <http://arpha.pensoft.net/> #link
 Pensoft; <http://pensoft.net/> #link
 RIO Journal; <http://riojournal.com/> #link
 Aperta; <https://blogs.plos.org/tech/a-tech-framework-for-innovations-in-open-science/> #link
@@ -61,9 +61,10 @@ eLife Continuum; <https://elifesciences.org/elife-news/elife-introduces-continuu
 JATS; <https://jats.nlm.nih.gov/> #link
 SciELO; <http://www.scielo.br/> #link
 PeerJ Paper Now; <https://github.com/PeerJ/paper-now> #link
-Github Static Site Generator (Jekyll); <https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/> #link
+Katrins Paper Now; <https://katrinleinweber.github.io/paper-now/> #link
+GitHub Static Site Generator (Jekyll); <https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/> #link
 eLife Lens; <https://lens.elifesciences.org/about/> #link
-Static Site Generator mit Gitlab nutzen; <https://about.gitlab.com/2016/06/10/ssg-overview-gitlab-pages-part-2/> #link
+Static Site Generators mit GitLab nutzen; <https://about.gitlab.com/2016/06/10/ssg-overview-gitlab-pages-part-2/> #link
 protocols.io; <https://www.protocols.io/> #link
 Wiki; <https://en.wikipedia.org/wiki/Wiki> #glossary
 The Winnower; <https://thewinnower.com/> #link
@@ -73,12 +74,11 @@ The Winnower; <https://thewinnower.com/> #link
 Dropbox; <https://www.dropbox.com/> #link
 Google Drive; <https://www.google.com/drive/> #link
 Sparkleshare (Dropbox mit Versionierung); <http://sparkleshare.org/> #link
-OwnCloud; <https://owncloud.org/> #link
+ownCloud; <https://owncloud.org/> #link
 Research Data Alliance; <https://rd-alliance.org/> #link
 European Open Science Cloud; <http://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud> #link
 
-01:33:59.500 Ratschläge und Epilogue #chapter
+01:33:59.500 Ratschläge und Epilog #chapter
 
 Konrad: Unix Shell für Biologen; <https://github.com/konrad/Introduction_to_the_Unix_Shell_for_biologists> #link
-
-
+Katrin: Tech-Demo, für Abschlussarbeiten mit Markdown, LaTeX, pandoc, Soße & scharf!; <https://github.com/katrinleinweber/PhD-thesis> #link
