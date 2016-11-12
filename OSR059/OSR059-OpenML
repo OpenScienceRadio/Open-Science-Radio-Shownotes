@@ -1,0 +1,63 @@
+header
+Podcast: Open Science Radio
+Episode: 59
+Episode Title: OSR059 OpenML [EN]
+Starttime: 21.10.2016 14:30:00
+Endtime: 21.10.2016 15:30:00
+Podcaster: Matthias Fromm, Konrad Förstner, Heidi Seibold, Joaquin Vanschoren, Bernd Bischl
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Welcome #chapter
+
+Open Access Week; <http://openaccessweek.org/> #link
+OpenML; <http://www.openml.org/> #link
+
+00:01:16.000 Introduction Heidi #chapter
+
+Heidi Seibold; <http://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/seibold.html> #link
+Heidi on Twitter; <https://twitter.com/heidibaya> #link
+
+00:02:18.500 Introduction Joaquin #chapter
+
+Joaquin Vanshoren; <http://www.win.tue.nl/~jvanscho/> #link
+Joaquin on Twitter; <https://twitter.com/joavanschoren> #link
+
+00:03:14.000 Machine Learning #chapter
+
+Machine Learning; <https://en.wikipedia.org/wiki/Machine_learning> #glossary
+Neural Networks; <https://en.wikipedia.org/wiki/Artificial_neural_network> #glossary
+
+
+00:06:36.500 The Basics of OpenML #chapter
+
+Polymath; <https://polymathprojects.org/> #link
+Tim Gowers; <https://en.wikipedia.org/wiki/Timothy_Gowers> #glossary
+Bernd Bischl; <https://www.statistik.tu-dortmund.de/bischl_eng.html> #link
+R Project for Statistical Computing; <https://www.r-project.org/> #link
+OpenML Github Repository; <https://github.com/openml> #link
+OpenML Community on Google groups; <https://groups.google.com/forum/#!forum/openml> #link
+
+00:18:34.500 Working with and on OpenML #chapter
+
+Contributions;
+Github DOI; <https://guides.github.com/activities/citable-code/> #link
+Altmetric; <https://www.altmetric.com/> #link
+Users statistics;
+Comparing and evaluating machine learning algorithms;
+International Conference on Machine Learning ICML; <http://icml.cc/2016/> #link
+European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ECMLPKDD; <http://www.ecmlpkdd.org/> #link
+
+00:40:12.500 OpenML's Future #chapter
+
+Linked Open Data; <https://en.wikipedia.org/wiki/Linked_data#Linked_open_data> #glossary
+Integrate OpenML into machine learning tools;
+Funding Opportunities;
+
+00:44:43.500 Epilog #chapter
+
+OpenML Blog; <https://medium.com/open-machine-learning> #link
+Jupyter Notebooks; <https://jupyter.org/> #link
+OpenML on Youtube; <https://www.youtube.com/channel/UCquZZnc9u8t3GXp6ankfnbA/videos> #link
