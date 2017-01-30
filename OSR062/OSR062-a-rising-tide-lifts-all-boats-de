@@ -1,0 +1,116 @@
+header
+Podcast: Open Science Radio
+Episode: 62
+Episode Title: OSR062 A rising tide lifts all boats [DE]
+Starttime: 27.02.2017 13:30:00
+Endtime: 27.02.2017 15:00:00
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+Symphony of Science " We are all connected"; <https://www.youtube.com/watch?v=XGK84Poeynk> #video
+
+
+00:00:21.000 Hausmeisterei #chapter
+
+Unix Timestamp; <https://de.wikipedia.org/wiki/Unixzeit> #glossary
+Carl Sagan; <https://en.wikipedia.org/wiki/Carl_Sagan> #glossary
+Symphony of Science "We are all connected;" <https://www.youtube.com/watch?v=XGK84Poeynk> #video
+Konrad konstatiert: 2017 wird das Jahr der wissenschaftlichen Software;
+DE-RSE;
+33C3 Vortrag von André Lampe "Es sind die kleinen Dinge im Leben"; <https://www.youtube.com/watch?v=lUpa_4AoMu0> #video
+Matlab; <https://www.mathworks.com/products/matlab.html> #link
+Octave; <https://www.gnu.org/software/octave/> #link
+
+00:10:52.000 News - Aktivismus #chapter
+
+33C3; <https://events.ccc.de/tag/33c3/> #link
+Research Cycle; <https://commons.wikimedia.org/wiki/File:Research_cycle.png> #glossary
+33C3 Open Science Workshop; <https://pad.okfn.org/p/OpenScienceWorkshop33C3> #link
+OSR028 zu Unseminars mit Aiden Budd; <http://www.openscienceradio.de/2015/01/29/osr028-unseminars-mit-aidan-budd/> #link
+Nächster Open Science Workshop auf der Jahrestagung der DGHM?;
+DGHM; <https://www.dghm.org/> #link
+Andreas Leimbach; <https://twitter.com/aleimba> #link
+Elsevier Sticker auf dem 33C3; <https://twitter.com/konradfoerstner/status/814121844227895296> #link
+"A rising tide lifts all boats"; <https://en.wikipedia.org/wiki/A_rising_tide_lifts_all_boats> #glossary
+OECD-Ausblick Wissenschaft, Technologie und Innovation 2016 sieht »offene Wissenschaft« als die nächste große Herausforderung; <http://www.pro-linux.de/news/1/24315/kommt-nach-open-data-bald-open-science.html> #link
+Organisation for Economic Co-operation and Development (OECD); <https://www.oecd.org/about/> #link
+ZIKA Virus; <http://www.who.int/mediacentre/factsheets/zika/en/> #link
+FSFE hat ein Positionspapier zu Open Science und dem Forschungsrahmenprogramm Horizon 2020; <https://fsfe.org/activities/policy/eu/Horizon2020-Position-Paper.en.html> #link
+Free Software Foundation Europe (FSFE); <https://fsfe.org/> #link
+Jeffrey Beall’s “List of Predatory Journals” ist verschwunden (zumindest depubliziert) und auch das Blog ist leer; <http://scholarlyoa.net/> #link
+Scopus; <https://en.wikipedia.org/wiki/Scopus> #glossary
+Beall wurden bereits juristische Konsequenzen angedroht; <http://www.npr.org/sections/thetwo-way/2013/05/15/184233141/publisher-threatens-librarian-with-1-billion-lawsuit> #link
+OMICS Publishing Group; <https://en.wikipedia.org/wiki/OMICS_Publishing_Group> #glossary
+Gerüchte um die Blacklist bei einem anderen Publisher; <https://journosdiary.com/2017/01/18/jeffrey-beall-predatory-journal-avatar/> #link
+Think Check Submit; <http://thinkchecksubmit.org/> #link
+Quality Open Access Market; <https://www.qoam.eu/> #link
+Referentenentwurf zum Wissenschaftsurheberrecht (PDF); <https://cdn.netzpolitik.org/wp-upload/2017/01/RefE-UrhWissG.pdf> #link
+§ 52a UrhG; <https://dejure.org/gesetze/UrhG/52a.html> #link
+Katharina de la Durantaye; <http://durantaye.rewi.hu-berlin.de/> #link
+Regelungsvorschlag aus dem Jahr 2014; <https://netzpolitik.org/2014/raus-aus-dem-gruselkabinett-vorschlag-fuer-neue-wissenschaftsschranke-im-urheberrecht/> #link
+Einschätzung von Rainer Kuhlen, Sprecher des Aktionsbündnisses Urheberrecht für Bildung und Wissenschaft; <http://www.iuwis.de/blog/refe-urhgwissg-%E2%80%93-keine-abws-daf%C3%BCr-8-kernspaltungen-respekt-aber-respekt-ist-nicht-alles> #link
+Statement von Rainer Kuhlen bei irights.info; <https://irights.info/artikel/referentenentwurf-urheberecht-wissensgesellschaft-bildungs-wissenschaftsschranke/28355> #link
+Statement von Leonhard Dobusch bei netzpolitik.org; <https://netzpolitik.org/2017/referentenentwurf-zum-wissenschaftsurheberrecht-keine-generalklausel-kein-grosser-wurf/> #link
+§ 60 UrhG; <https://dejure.org/gesetze/UrhG/60.html> #link
+de-RSE gegründet; >https://www.software.ac.uk/blog/2017-01-19-launching-german-rse-chapter-de-rse> #link
+de-RSE hat jetzt auch eine Website; <http://www.de-rse.org> #link
+AG Open Science Calls zusammen mit der de-RSE; <https://www.ag-openscience.de/public-call/> #link
+Jon Tennant, Martin Paul Eves und Stuart Dawson “beantragen” Untersuchen bei der Competition and Market Authority wegen Marktmachtausnutzung von Elsevier; <https://www.martineve.com/2016/12/03/referring-elsevierrelx-to-the-competition-and-markets-authority/> #link
+Jon Tennant; <https://twitter.com/Protohedgehog> #link
+Competition and Markets Authority; <https://www.gov.uk/government/organisations/competition-and-markets-authority> #link
+RELX Group; <https://en.wikipedia.org/wiki/RELX_Group> #glossary
+Bundeskartellamt; <http://www.bundeskartellamt.de/DE/Home/home_node.html> #link
+Larivière V, Haustein S, Mongeon P (2015) The Oligopoly of Academic Publishers in the Digital Era. PLOS ONE 10(6): e0127502. doi: 10.1371/journal.pone.0127502 [OPEN ACCESS]; <http://dx.doi.org/10.1371/journal.pone.0127502> #link
+
+00:55:11.000 News - Open Access & Lizenzen #chapter
+
+Creative Commons 4.0 Lizenzen sind nun (nach 2 Jahren) auch in Deutsch vor; <https://netzpolitik.org/2017/offizielle-deutsche-uebersetzung-der-cc-lizenzversion-4-0-ist-da/> #link
+
+00:58:02.000 News - Tools #chapter
+
+Markdown Tool von Albert Krewinkel - PeerJ Preprint; <https://peerj.com/preprints/2648/> #link
+Markdown; <https://en.wikipedia.org/wiki/Markdown> #glossary
+OSR054 mit Katrin Leinweber; <http://www.openscienceradio.de/2016/06/16/osr054-kuendigt-eure-netflix-abos-tools-rund-ums-schreiben-und-publizieren/> #link
+
+00:59:07.500 News - Open Data #chapter
+
+EOSC Pilot gestartet; <https://eoscpilot.eu/> #link
+Blogbeitrag von Project Officer Ilaria Fava dazu auf OpenAIRE; <https://blogs.openaire.eu/?p=1746> #link
+European Open Science Cloud (EOSC); <http://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud> #link
+
+01:01:51.500 News - Peer Review & Metrics #chapter
+
+Jon Tennant “legt sich mit Elsevier an”, Kern des Anstoßes ist sein Peer Review Report den er bei Publons veröffentlicht; <http://fossilsandshit.com/did-elsevier-breach-my-copyright-during-peer-review/> #link
+Mitarbeitering von Elsevier antwortet in den Kommentaren; <http://fossilsandshit.com/did-elsevier-breach-my-copyright-during-peer-review/#comment-2440> #link
+Nature berichtet über die Sache; <http://www.nature.com/news/you-never-said-my-peer-review-was-confidential-scientist-challenges-publisher-1.21342> #link
+Jon Tennant (schon wieder) mit ein paar hilfreichen Tipps zum Offenen Peer Review; <http://fossilsandshit.com/so-you-want-do-a-peer-review/> #link
+Nutzbares Template für Peer Review von Jon bei Google Docs; <https://docs.google.com/document/d/10bdAEXcsVMcp6wrZYQ3U_VNz5Iwu4Gf9bSCM2SAAoIg/edit> #link
+Nutzbares Template für Peer Review von Jon bei Authorea; <https://www.authorea.com/templates/peer_review_report_template> #link
+Jon schreibt außerdem gerade an einem offenen Paper zur Zukunft von Peer Review; <https://www.overleaf.com/read/qhymsfskrzdq#/14765650/> #link
+Aleksic J, Alexa A, Attwood TK et al. The Open Science Peer Review Oath [version 1; referees: 1 approved, 4 approved with reservations]. F1000Research 2014, 3:271 (doi: 10.12688/f1000research.5686.1)[OPEN ACCESS]; <http://dx.doi.org/10.12688/f1000research.5686.1> #link
+Aktueller PLOScast mit Eamon Duede u.a. dazu nach welchem Muster Reviews vonstatten gehen; <http://blogs.plos.org/plospodcasts/2017/01/24/science-of-peer-review-an-interview-with-eamon-duede-part-2/> #link
+Erster Teil des Podcasts mit Eamon (allgemeiner gehalten); <http://blogs.plos.org/plospodcasts/2016/12/27/the-science-of-science-part-1-an-interview-with-eamon-duede/> #link
+Wikicite; <https://meta.wikimedia.org/wiki/WikiCite_2016> #link
+
+01:09:31.000 News - Misc #chapter
+
+Software Heritage legt Software Repos langfristig ab; <https://www.softwareheritage.org/> #link
+Archivierung bei Github; <https://help.github.com/articles/about-archiving-content-and-data-on-github/> #link
+Oxford University Press OUP verkackt anscheinend DOI Redirects wie Ross Mounce berichtet (wieviele andere Journals kriegen das auch nicht auf die Reihe und verursache “Missing Paper DOI’s”? <http://rossmounce.co.uk/2017/01/23/oxford-university-press-have-failed-to-preserve-access-to-the-scholarly-record/> #link
+Ross dokumentiert was alles schief läuft; <http://rossmounce.co.uk/2017/01/24/documenting-the-many-failures-across-oup-journals/> #link
+Ross zieht den Vergleich zu anderen Publishern; <http://rossmounce.co.uk/2017/01/25/comparing-oup-to-other-publishers/> #link
+Lesenswerter Rant auf Twitter von Erin McKiernan zum Thema Scientific Publishing mit Blick auf Evaluation (der eigenen Leistung/Karriere); <https://twitter.com/emckiernan13/status/818688924184879105> #link
+Und das Paper das Anstoß ihres Rants war, ist ebenso lesenswert [OPEN ACCESS]; <https://peerj.com/preprints/2711/> #link
+Trump und die Wissenschaft - ist die offene Wissenschaft jetzt (nach UK) an einer weiteren Front gefährdet?;
+Science Insider: President Trump and science: 10 things to look for (and fear?); <https://www.sciencemag.org/news/2017/01/president-trump-and-science-ten-things-look-and-fear> #link
+Scientists March to Washington; <https://www.marchforscience.com/> #link
+Erste Wissenschaftler scheinen den Weg in die Politik gehen zu wollen, z.B. Michael Eisen; <https://twitter.com/SenatorPhD/status/824321976403513344> #link
+Nicht im Podcast erwähnt, aber dennoch sehr lesenswert: Michael Bücher hat einen ganz guten Überblick zu den Ereignissen im Augenspiegel der Helmholtz Blogs geschrieben; <https://blogs.helmholtz.de/augenspiegel/2017/01/spiegelauge-2017-02-wissen-will-frei-sein/> #link
+
+01:15:31.000 Epilog #chapter
+
