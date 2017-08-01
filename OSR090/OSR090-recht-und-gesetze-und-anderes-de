@@ -1,0 +1,66 @@
+header
+Podcast: Open Science Radio
+Episode: 90
+Episode Title: OSR090 Recht und Gesetz(e) und Anderes [DE]
+Starttime: 28.07.2017 14:45:00
+Endtime: 28.07.2017 16:30:00
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+00:00:44.500 Hausmeisterei #chapter
+
+Open Science Radio Folgen zur WikiCite 2017; <http://www.openscienceradio.de/tag/wikicite2017/> #link 
+PlumX Metrics; <https://plumanalytics.com/products/plumx-metrics/> #link
+Plum Analytics; <https://plumanalytics.com/> #link
+BOSC 2017; <https://www.open-bio.org/wiki/BOSC_2017> #link
+ISMB 2017; <https://www.iscb.org/ismbeccb2017> #link
+
+00:07:38.500 News - Aktivismus und Open Access #chapter
+
+Urheberrecht für Wissenschaft und Bildung: Bundestag beschließt Reformen; <http://dipbt.bundestag.de/extrakt/ba/WP18/810/81080.html> #link
+Guter Überblick dazu bei irights.info von David Pachali; <https://irights.info/artikel/urheberrecht-fuer-wissenschaft-und-bildung-bundestag-beschliesst-reformen/28596> #link
+Offener Brief des Börsenvereins; <https://twitter.com/bkaden/status/879975845594574848> #link
+Paragraph 52a UrhG; <https://dejure.org/gesetze/UrhG/52a.html> #link
+Sci-Hub; <https://sci-hub.cc/> #link
+Sci-Hub provides access to nearly all scholarly literature; <https://peerj.com/preprints/3100/> #link
+Sci-Hub’s cache of pirated papers is so big, subscription journals are doomed, data analyst suggests; <https://www.sciencemag.org/news/2017/07/sci-hub-s-cache-pirated-papers-so-big-subscription-journals-are-doomed-data-analyst> #link
+Elsevier bekommt Schadenersatz wg. Sci-Hub und LibGen zugesprochen; <http://www.nature.com/news/us-court-grants-elsevier-millions-in-damages-from-sci-hub-1.22196> #link
+Memorandum of Law von den Elsevier-Anwälten; <https://torrentfreak.com/images/elseviermomoinsupport.pdf> #link
+leider zieht jetzt auch die American Chemical Society nach; <https://www.acs.org/content/acs/en/pressroom/newsreleases/2017/june/acs-files-suit-against-sci-hub.html> #link
+Open Scholarship Initiative denkt zumindest über Lösungen nach; <https://groups.google.com/forum/#!msg/osi2016-25/rfWX7O2ghuw/oAeoFVh0AQAJ> #link
+Forschung und Lehre; <http://www.forschung-und-lehre.de/wordpress/> #link
+"Buy or Die. Folgen der Kommerzialisierung für die Wissenschaftsliteratur." in Forschung und Lehre 04/2017; <http://www.forschung-und-lehre.de/wordpress/?p=23387>; #link
+Flipping subscription journals to OA: Journal of Algebraic Combinatorics; <https://svpow.com/2017/07/27/flipping-subscription-journals-to-oa-journal-o-algebraic-combinatorics/> #link
+FAIR Open Access Principles; <https://fairoa.org/> #link
+JOSS; <http://joss.theoj.org/> #link
+JOSS auf Github; <https://github.com/openjournals/joss/issues/153> #link
+Berliner Universitäten wollen ihre Elsevier-Verträge ab 2018 auch nicht weiter verlängern; <https://www.timeshighereducation.com/news/berlin-universities-poised-cancel-elsevier-contracts> #link
+weitere Einblicke bieten sich im Blog der Open Access Beauftragten der TU Berlin; <https://blogs.ub.tu-berlin.de/openaccess/2017/07/deal-or-no-deal-berliner-unis-kuendigen-elsevier-zugang-zum-jahresende/> #link
+in Finnland gibt es darüber hinaus einen neuen Elsevier-Boykott; <http://www.nodealnoreview.org/> #link
+Cost of Knowledge (in 2012); <http://thecostofknowledge.com/> #link
+Einige Verträge mit Wissenschaftsverlagen sind bei scienceguide.nl geleakt; <http://www.scienceguide.nl/201703/leaked-elsevier-contract-reveals-pushback.aspx> #link
+Kleiner Open Sciece Workshop Toolbox; <https://github.com/konrad/Open_Science_Workshop_Toolbox> #link
+Andreas Leimbach; <https://twitter.com/aleimba> #link
+
+
+00:57:47.000 News - Tools #chapter
+
+ShareLaTeX is joining Overleaf; <https://www.overleaf.com/bog/518-exciting-news-sharelatex-is-joining-overleaf> #link
+The €100 lab: A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behaviour of zebrafish, Drosophila, and Caenorhabditis elegans; <http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002702> #link
+Open Science Radio bei Labworm; <https://labworm.com/tool/open-science-radio> #link
+The Method Podcast; <https://themethodpodcast.com/> #link
+OSR028 Unseminars mit Aiden Budd; <http://www.openscienceradio.de/2015/01/29/osr028-unseminars-mit-aidan-budd/> #link
+
+01:10:03.000 News - Peer Review & Metrics #chapter
+
+Blogpost-Reihe von Tony Ross-Hellauer zu Open Peer Review im OpenAIRE Blog; <https://blogs.openaire.eu/?tag=open-peer-review> #link
+Ross-Hellauer T. What is open peer review? A systematic review [version 1; referees: 1 approved, 3 approved with reservations]. F1000Research 2017, 6:588; <doi: 10.12688/f1000research.11369.1> #link
+Tennant JP, Dugan JM, Graziotin D et al. A multi-disciplinary perspective on emergent and future innovations in peer review [version 1; referees: awaiting peer review]. F1000Research 2017, 6:1151; <doi: 10.12688/f1000research.12037.1> #link
+SpotOn Peer Review Report von BioMed Central & Digital Science; <https://figshare.com/articles/What_might_peer_review_look_like_in_2030_/4884878> #link
+
+01:25:14.000 Epilog #chapter
