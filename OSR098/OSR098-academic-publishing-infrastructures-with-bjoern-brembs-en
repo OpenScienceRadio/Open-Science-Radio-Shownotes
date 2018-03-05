@@ -1,0 +1,73 @@
+header
+Podcast: Open Science Radio
+Episode: 98
+Episode Title: OSR098 Academic Publishing Infrastructures with Björn Brembs [EN]
+Starttime: 28.02.2018 08:20:00
+Endtime: 28.02.2018 10:00:00
+Podcaster: Matthias Fromm, Konrad Förstner, Björn Brembs
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Welcome #chapter
+
+00:00:46.500 Introduction Björn Brembs #chapter
+
+Drosophila; <https://en.wikipedia.org/wiki/Drosophila> #glossary
+Professor of Neurogenetics at the Institute of Zoology at the Universität Regensburg;
+
+00:03:27.500 The flaws of the system #chapter
+
+Björn’s blog post about whether a cost-neutral transition to Open Access would be realistic; <http://bjoern.brembs.net/2017/11/is-a-cost-neutral-transition-to-open-access-realistic/> #link
+On average a scientific article costs 5,000 USD (based on estimations); <https://www.nature.com/news/open-access-the-true-cost-of-science-publishing-1.12676> #link
+SciELO; <http://www.scielo.org/php/index.php?lang=en> #link
+NIH; <https://en.wikipedia.org/wiki/National_Institutes_of_Health> #glossary
+Scholastica; <https://scholasticahq.com/> #link
+ScienceOpen; <https://www.scienceopen.com/> #link
+F1000 Research; <https://f1000research.com/> #link
+Gold Open Access; <https://en.wikipedia.org/wiki/Open_access#Journals:_gold_open_access> #glossary
+Nature; <https://www.nature.com/> #link
+Nature is on the record to need to charge 50,000 USD per article to maintain current revenue levels; <https://publications.parliament.uk/pa/cm200304/cmselect/cmsctech/399/399we163.htm> #link
+Springer Nature; <https://www.springernature.com/de/group/aboutus> #link
+Collective Action Problem; <https://en.wikipedia.org/wiki/Collective_action#Collective_action_problem> #glossary
+
+00:35:29.000 Where to start a change? #chapter
+
+Acquisition of Mendeley by Elsevier; <https://techcrunch.com/2013/04/08/confirmed-elsevier-has-bought-mendeley-for-69m-100m-to-expand-open-social-education-data-efforts/> #link
+Elsevier profit exceeds 1 Billion Euro in 2017; <https://www.timeshighereducation.com/news/elseviers-profits-swell-more-ps900-million> #link
+UN lists more than 7 Million full-time equivalents researchers; <https://en.unesco.org/node/252277> #link
+Elsevier Vice Presidents for Government Relations;
+Carolyn Malone and Darrell Issa drafting a bill making Green Open Access illegal in the US; <http://www.michaeleisen.org/blog/?p=807> #link
+Darrell Issa; <https://en.wikipedia.org/wiki/Darrell_Issa> #glossary
+Carolyn Maloney; <https://en.wikipedia.org/wiki/Carolyn_Maloney> #glossary
+Research Works Act; <https://en.wikipedia.org/wiki/Research_Works_Act> #glossary
+Angelika Lex, VP Academic and Government Relations DACH - ‎Elsevier; <https://twitter.com/angelikalex> #link
+Germany’s Corruption Index; <https://www.transparency.org/country/DEU> #link
+Bibliometrics; <https://en.wikipedia.org/wiki/Bibliometrics> #glossary
+
+00:55:43.500 Quality #chapter
+
+Björn’s review article in Frontiers: „Prestigious Science Journals Struggle to Reach Even Average Reliability“; <https://www.frontiersin.org/articles/10.3389/fnhum.2018.00037/full> #link
+Reproducibility crisis; <https://en.wikipedia.org/wiki/Replication_crisis> #glossary
+Science article about fickle mice revealing already „reproduction“ problems; <http://science.sciencemag.org/content/284/5420/1599.1> #link
+
+
+01:11:04.500 Infrastructure #chapter
+
+collaborative authoring environment; <https://en.wikipedia.org/wiki/Collaborative_writing> #glossary
+eduroam; <https://en.wikipedia.org/wiki/Eduroam> #glossary
+Elsevier acquisition of bepress; <https://www.elsevier.com/about/press-releases/corporate/elsevier-acquires-bepress,-a-leading-service-provider-used-by-academic-institutions-to-showcase-their-research> #link
+List of Elsevier’s acquisitions; <https://www.crunchbase.com/organization/elsevier/acquisitions/acquisitions_list> #link
+Vendor lock-in; <https://en.wikipedia.org/wiki/Vendor_lock-in> #glossary
+Research software engineers; <http://rse.ac.uk/about/why-research-needs-rses/> #link
+Open standards; <https://en.wikipedia.org/wiki/Open_standard> #glossary
+DEAL consortia in Germany; <https://www.projekt-deal.de/about-deal/> #link
+
+01:32:16.000 Epilog #chapter
+
+TIB – Leibniz Information Centre for Science and Technology and University Library; <https://www.tib.eu/en/> #link
+Sören Auer, Director of TIB; <https://www.tib.eu/en/service/news/details/soeren-auer-is-new-director-of-technische-informationsbibliothek-tib/> #link
+Open Science Lab @ TIB; <https://www.tib.eu/en/research-development/open-science/> #link
+
+
