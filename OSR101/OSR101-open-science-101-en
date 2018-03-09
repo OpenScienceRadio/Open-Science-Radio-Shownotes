@@ -1,0 +1,96 @@
+header
+Podcast: Open Science Radio
+Episode: 101
+Episode Title: OSR101 Open Science 101 [EN]
+Starttime: 05.03.2018 10:40:00
+Endtime: 05.03.2018 11:47:00
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.de/>
+/header
+
+00:00:00.000 Welcome #chapter
+
+
+00:01:18.000 Research Cycle #chapter
+
+Research Cycle;
+Workshop Toolkit; <https://github.com/konrad/Open_Science_Workshop_Toolbox> #link
+Andreas Leimbach; <https://twitter.com/aleimba> #link
+Research Cycle image from the Workshop Toolkit; <https://github.com/konrad/Open_Science_Workshop_Toolbox/blob/master/images/Research_Cycle_with_Open_Science.svg> #link
+
+00:05:20.500 Motivation #chapter
+
+
+00:08:17.500 Open Access #chapter
+
+Open Access; <https://en.wikipedia.org/wiki/Open_access> #glossary
+Journal Editors; <https://www.councilscienceeditors.org/resource-library/editorial-policies/white-paper-on-publication-ethics/2-1-editor-roles-and-responsibilities/> #link
+Golden Open Access; <https://en.wikipedia.org/wiki/Open_access#Journals:_gold_open_access> #glossary
+Green Open Access; <https://en.wikipedia.org/wiki/Open_access#Self-archiving:_green_open_access> #glossary
+Diamond (Platinum) Open Access; <https://www.jasonmkelly.com/jason-m-kelly/2013/01/27/green-gold-and-diamond-a-short-primer-on-open-access/> #link
+
+
+00:14:18.500 Peer Review #chapter
+
+Peer Review; <https://en.wikipedia.org/wiki/Peer_review> #glossary
+Open Peer Review; <https://en.wikipedia.org/wiki/Open_peer_review> #glossary
+F1000 Research; <https://f1000research.com/> #link
+ScienceOpen; <https://www.scienceopen.com/> #link
+Publons; <https://publons.com/home/> #link
+Post Publication Peer Review; <https://blogs.scientificamerican.com/information-culture/post-publication-peer-review-everything-changes-and-everything-stays-the-same/> #link
+OSR098 with Björn Brembs; <http://www.openscienceradio.org/2018/03/01/osr098-academic-publishing-infrastructures-with-bjoern-brembs-en/> #link
+
+00:26:33.000 Manuscript Writing #chapter
+
+ZIKA crisis; <https://www.sciencemag.org/news/2016/02/plea-open-science-zika> #link
+Preprint servers; <https://en.wikipedia.org/wiki/Preprint> #glossary
+bioRxiv; <https://www.biorxiv.org/> #link
+arXiv; <https://arxiv.org/> #link
+PeerJ preprints; <https://peerj.com/preprints/> #link
+Overlay journals; <https://en.wikipedia.org/wiki/Overlay_journal> #glossary
+Google Docs; <https://www.google.com/docs/about/> #link
+Overleaf; <https://www.overleaf.com/> #link
+Authorea; <https://www.authorea.com/> #link
+eLife; <https://elifesciences.org/> #link
+
+00:33:23.500 Data Analysis and Data Acquisition #chapter
+
+Github; <https://github.com/> #link
+Open Data; <https://en.wikipedia.org/wiki/Open_data> #glossary
+Open Source; <https://en.wikipedia.org/wiki/Open-source_model> #glossary
+Open Licenses;
+Creative Commons; <https://creativecommons.org/> #link
+Apache Licenses; <https://en.wikipedia.org/wiki/Apache_License> #glossary
+BSD Licenses; <https://en.wikipedia.org/wiki/BSD_licenses> #glossary
+Choose an open license; <https://choosealicense.com/> #link
+FAIR data principles; <https://www.force11.org/group/fairgroup/fairprinciples> #link
+
+
+00:43:20.500 Grant Application and Financing #chapter
+
+Open Grants;
+Academic Freedom; <https://en.wikipedia.org/wiki/Academic_freedom> #glossary
+
+
+00:47:28.000 Things floating around #chapter
+
+Open Lab Notebooks; <https://en.wikipedia.org/wiki/Open_notebook_science> #glossary
+Citizen Science; <https://en.wikipedia.org/wiki/Citizen_science> #glossary
+Science Communication; <https://en.wikipedia.org/wiki/Science_communication> #glossary
+Open Educational Resources; <https://en.wikipedia.org/wiki/Open_educational_resources> #glossary
+Software Carpentry; <https://software-carpentry.org/> #link
+Data Carpentry; <http://www.datacarpentry.org/> #link
+OpenScienceMOOC; <https://opensciencemooc.eu/> #link
+
+00:55:41.000 Incentivation and Motivation #chapter
+
+LMU München includes Open Science statements in the professorship job advertisement; <http://www.nicebread.de/open-science-hiring-practices/> #link
+Altmetrics; <https://www.altmetric.com/about-altmetrics/what-are-altmetrics/> #link
+Journal Impact Factor; <https://en.wikipedia.org/wiki/Impact_factor> #glossary
+Open Science Framework; <https://osf.io/> #link
+RIO Journal; <https://riojournal.com/> #link
+
+01:03:14.000 Epilog #chapter
+
