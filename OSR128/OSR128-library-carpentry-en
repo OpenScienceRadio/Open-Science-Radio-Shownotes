@@ -1,0 +1,81 @@
+header
+Podcast: Open Science Radio
+Episode: 128
+Episode Title: OSR128 Library Capentry
+Starttime: 13.08.2018 15:45:00
+Endtime: 13.08.2018 17:00:00
+Podcaster: Matthias Fromm, Konrad Förstner, Chris Erdmann
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.org/>
+/header
+
+00:00:00.000 Welcome #chapter
+
+Chris Erdmann; <https://twitter.com/libcce> #link
+Library Carpentry; <https://librarycarpentry.org/> #link
+
+00:00:40.500 Introduction Chris Erdmann #chapter
+
+University of California Davis; <https://www.ucdavis.edu/> #link
+CNET/MySimon; <https://en.wikipedia.org/wiki/CNET> #glossary
+Data Mining; <https://en.wikipedia.org/wiki/Data_Mining> #glossary
+Faceted Search; <https://en.wikipedia.org/wiki/Faceted_search> #glossary
+University of Washington; <https://www.washington.edu/> #link
+Supreme Court; <https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States> #glossary
+European Southern Observatory; <https://en.wikipedia.org/wiki/European_Southern_Observatory> #glossary
+Harvard Smithonian Center for Astrophysics; <https://www.cfa.harvard.edu/> #link
+North Carolina State University; <https://www.ncsu.edu/> #link
+Californian Digital Library; <http://www.cdlib.org/> #link
+
+00:02:58.500 General Introduction to The Carpentries and Library Carpentry #chapter
+
+Greg Wilson; <https://twitter.com/gvwilson> #link
+Open Science Radio Episode on The Carpentries and CarpentryCon; <http://www.openscienceradio.org/2018/08/27/osr127-the-carpentries-and-carpentrycon-en/> #link
+CarpentryCon; <https://www.carpentrycon.org/> #link
+The Carpentries; <https://carpentries.org/> #link
+Publication „Shifting to Data Savvy: The Future of Data Science In Libraries“; <http://d-scholarship.pitt.edu/33891/> #link
+
+00:12:10.000 The History of Library Carpentry #chapter
+
+Data Scientist Training for Librarians (DST4L); <http://www.dst4l.info/about.html> #link
+James Baker; <https://software.ac.uk/about/fellows/james-baker> #link
+Software Sustainability Institute; <https://software.ac.uk/> #link
+Belinda Weaver; <https://twitter.com/cloudaus> #link
+ARDC - Australian Research Data Commons; <https://ardc.edu.au/> #link
+WikiData; <https://www.wikidata.org/wiki/Wikidata:Main_Page> #link
+Python; <https://www.python.org/> #link
+Lib Guides; <https://community.libguides.com/> #link
+Lessons at Library Carpentry; <https://librarycarpentry.org/#portfolio> #link
+Software Carpentry for Librarians; <https://software-carpentry.org/blog/2017/11/library-carpentry-cdl.html> #link
+Bug BBQs;
+
+00:33:13.000 Governance and Instructors #chapter
+
+Interim Governance Group; <https://librarycarpentry.org/#team>
+Curriculum Advisor Committee; <https://librarycarpentry.org/blog/2018/08/09/library-carpentry-cac/> #link
+Tim Dennis; <https://twitter.com/jt14den> #link
+LIBER Conference in Dublin; <https://liberconference.eu/dublin2019/> #link
+German National Library of Medicine (ZBMed); <https://www.zbmed.de/> #link
+Bibliothèque nationale de France (BNF); <http://www.bnf.fr/> #link
+The British Library; <https://www.bl.uk/> #link
+
+00:42:52.000 The road ahead #chapter
+
+
+00:48:17.000 Contribution #chapter
+
+Get in Contact; <https://librarycarpentry.org/#contact> #link
+Blogpost about recent workshops; <https://librarycarpentry.org/blog/2018/08/01/seventy-one-and-counting/> #link
+Library Carpentry @ Twitter; <https://twitter.com/LibCarpentry> #link
+A Carpentries-Based Approach to Teaching FAIR Data and Software Principles; <https://librarycarpentry.org/blog/2018/07/24/tib-hannover-fair-report/> #link
+Jargon Busting; <https://librarycarpentry.github.io/lc-data-intro/02-jargon-busting/> #link
+
+00:55:16.000 A Meta View #chapter
+
+
+01:14:04.500 Epilogue #chapter
+
+Library Carpentry Community Calls; <https://librarycarpentry.org/blog/2018/07/11/carpentries-in-libraries-community-calls/> 
+Library Carpentry Workshop at ZB Med; <https://zbmed.github.io/2018-08-22-Library_Carpentry_Cologne/> #link
+
