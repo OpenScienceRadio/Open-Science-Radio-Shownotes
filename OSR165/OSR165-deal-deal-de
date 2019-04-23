@@ -1,0 +1,109 @@
+header
+Podcast: Open Science Radio
+Episode: 165
+Episode Title: OSR165 DEAL? Deal! [DE]
+Starttime: 17.04.2019 11:10:00
+Endtime: 17.04.2019 12:35:00
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.org/>
+/header
+
+00:00:00.000 Begrüßung und Hausmeisterei #chapter
+
+Episoden zum Barcamp Open Science; <http://www.openscienceradio.org/tag/oscibar/> #link
+Episoden zur Open Science Conference; <http://www.openscienceradio.org/tag/osc2019/> #link
+KNIME; <https://de.wikipedia.org/wiki/KNIME> #glossary
+Bernd Rupp; <https://twitter.com/rupi42ai> #link
+Christina Riesenweber; <https://twitter.com/c_riesen> #link
+Wirkstoffradio; <https://www.wirkstoffradio.de/> #link
+Beitrag im Motherboard zum PDF; <https://motherboard.vice.com/en_us/article/pam43n/why-the-pdf-is-secretly-the-worlds-most-important-file-format> #link
+
+00:04:59.500 News - Aktivismus #chapter
+
+Open Science Monitor; <https://ec.europa.eu/info/research-and-innovation/strategy/goals-research-and-innovation-policy/open-science/open-science-monitor_en> #link
+Elsevier; <https://en.wikipedia.org/wiki/Elsevier> #glossary
+Stand zum Kritikpunkt von Elsevier und Open Science Monitor; <http://fossilsandshit.com/elsevier-and-the-open-science-monitor-where-are-we-at/> #link
+Petition von Jon Tennant am Europäischen Parlament; <https://petiport.secure.europarl.europa.eu/petitions/en/petition/content/0667%252F2018/html/Petition-No-0667%252F2018-by-Jonathan-Tennant-%2528British%2529-on-a-sole-subcontractor-for-the-EU-Open-Science-Monitor> #link
+Vortrag von Peter Kraker: #DontLeaveItToGoogle: How Open Infrastructures Enable Continuous Innovation in the Research Workflow; <https://zenodo.org/record/2602089> #link
+Google Scholar; <https://scholar.google.de/> #link
+Knowledge in the Dark: Scientific Challenges and Ways Forward (Jeschke et al.); <https://doi.org/10.31223/osf.io/qrt6p> #link
+
+00:13:45.500 News - Open Access & Lizenzen #chapter
+
+Max Planck Gesellschaft verkündet ersten Verhandlungserfolg im Projekt DEAL; <https://twitter.com/maxplanckpress/status/1085139823428624384> #link
+Vertragsabschluss zwischen DEAL und Wiley; <https://www.projekt-deal.de/vertragsabschluss-zwischen-deal-und-wiley-erzielt/> #link
+Vertragstext zur Einigung von DEAL und Wiley; <https://www.projekt-deal.de/wiley-vertrag/> #link
+Vertragstext im Volltext bei MPG erschienen; <https://pure.mpg.de/rest/items/item_3027595_7/component/file_3028230/content> #link
+FAQ’s zum Vertragstext; <https://www.projekt-deal.de/faq-wiley-vertrag/> #link
+cOAlitionS/PlanS; <https://www.coalition-s.org/category/press/> #link
+OSR Episode 130 zum Nationalen Open Access Kontaktpunkt; <http://www.openscienceradio.org/2018/09/19/osr130-nationaler-open-access-kontaktpunkt-oa2020-de-de/> #link
+Schöne Artikelserie im Blog von OA2020 (Nationaler Open Access Kontaktpunkt) zu APCs – Spiegel des Impact-Factors oder Erbe des Subskriptionsmodells?; <https://oa2020-de.org/blog/2019/02/12/APCregressionsanalyse_schlussfolgerungen/> #link
+APCs—Mirroring the impact factor or legacy of the subscription-based model? (Schönfelder); <https://pub.uni-bielefeld.de/record/2931061> #link
+OSR Episode 133 mit Lambert Heller; <http://www.openscienceradio.org/2018/12/10/osr133-lambert-heller-vom-open-science-lab-der-tib-de/> #link
+International Society for Scientometrics and Informetrics beendet den Support für das Journal of Informetrics; <https://twitter.com/TIBHannover/status/1084745091720404992> #link
+Journal Flipping des Journal  Quantitative Science Studies; <http://issi-society.org/blog/posts/2019/january/the-international-society-for-scientometrics-and-informetrics-ends-support-for-journal-of-informetrics-launches-new-open-access-journal-quantitative-science-studies/> #link
+PUBLISSO: Open-Access-Publikationsportal der ZB MED für die Lebenswissenschaften; <https://www.publisso.de/> #link
+Directory of Open Access Journals (DOAJ); <https://doaj.org/> #link 
+Vollständiger Auszug der DOAJ Datenbank ist jetzt verfügbar; <https://blog.doaj.org/2019/04/05/full-doaj-data-dump-now-available/> #link
+Infrastructure Services for Open Access; <https://is4oa.org/about/> #link
+
+00:37:57.000 Tools #chapter
+
+Oliver Tacke; <https://twitter.com/otacke> #link
+H5P; <https://h5p.org/> #link
+Joubel; <https://joubel.com/> #link
+Hypotheses; <https://hypotheses.org/> #link
+H5P auf Github; <https://github.com/h5p> #link
+MIT Lizenz; <https://de.wikipedia.org/wiki/MIT-Lizenz> #link
+Oliver Tacke: Schaltet zusammen „Spaced Repetition“ für #H5P DialogCards frei!; <https://www.olivertacke.de/2019/03/08/schaltet-zusammen-spaced-repetition-fuer-h5p-dialogcards-frei/> #link
+Oliver's Indiegogo Finanzierungskampagne; <https://www.indiegogo.com/projects/unlock-spaced-repetition-for-h5p-dialog-cards#/> #link
+Oliver Tacke: Was kostet eigentlich Open-Source-Software?; <https://www.olivertacke.de/2019/03/12/was-kostet-eigentlich-open-source-software/> #link
+
+
+00:47:51.500 Peer Review & Metrics #chapter
+
+Research Organization Registry (ROR); <https://www.ror.community/> #link
+Martin Fenner; <https://twitter.com/mfenner> #link
+ROR API; <https://github.com/ror-community/ror-api> #link
+
+00:53:01.500 Misc #chapter
+
+deRSE; <https://www.de-rse.org> #link
+deRSE Konferenz; <https://www.de-rse.org/de/conf2019/index.html> #link
+deRSE Konferenzprogramm; <https://derse19.uni-jena.de/derse19/schedule/> #link
+The Carpentries; <https://carpentries.org/> #link
+Carpentries an der ZB MED und weiteren Universitäten;
+Library Carpentry; <https://librarycarpentry.org/> #link
+Konrad ist Mitglied der Advisory Group für Library Carpentry; <https://librarycarpentry.org/advisory/> #link
+Software Carpentry; <https://software-carpentry.org/> #link
+HackyHour an der ZB MED; <https://hackyhour.github.io/Cologne/> #link
+Eva Seidlmayer;
+Peer-to-Peer Mentoring; <https://en.wikipedia.org/wiki/Peer_mentoring> #glossary
+Gitlab Team Handbook; <https://about.gitlab.com/handbook/> #link
+Chris Erdmann; <https://twitter.com/libcce?lang=en> #link
+Chris Erdmann am 8. Mai zu Gast an der ZB MED;
+OSR Episode 128 mit Chris Erdmann zu Library Carpentry; <http://www.openscienceradio.org/2018/09/03/osr128-library-carpentry-with-chris-erdmann-en/> #link
+Nationale Forschungsdateninfrastruktur; <https://de.wikipedia.org/wiki/Nationale_Forschungsdateninfrastruktur> #glossary
+OSR Episode 132 mit Konrad zur ZB MED; <http://www.openscienceradio.org/2018/10/16/osr132-zb-med-die-wissenschaftliche-podcastwelt-plan-s-und-mehr-de/> #link
+DFG-Seite zur Nationalen Forschungsdateninfrastruktur; <https://www.dfg.de/foerderung/programme/nfdi/index.html> #link
+NFDI4Life; <https://www.nfdi4life.de/> 
+RDA Deutschland Tagung in Potsdam im Februar; <https://www.rda-deutschland.de/events/tagung-2019> #link
+NFDI4BioDiversity; <https://www.nfdi4biodiversity.org/> #link
+NFDI4Agri; <https://www.nfdi4agri.de/> #link
+Präsentation von Julian Fluck (et al.) zu NFDI4Health (PDF); <https://www.rda-deutschland.de/intern/dateien/07-nfdi4health_folien.pdf> #link
+NFDI4Microbiome; <https://zenodo.org/record/2614002> #link
+Juliane Fluck (Uni Bonn/ZB MED); <https://www.lf.uni-bonn.de/de/fakultaet/aktuelles/neuberufungen/prof.-dr.-juliane-fluck> #link
+DFG NFDI Konferenz im Mai; <https://www.dfg.de/foerderung/programme/nfdi/konferenz/index.html> #link
+Schöne Übersicht zu den NFDI-Initiativen im Wiki Forschungsdaten.org; <https://www.forschungsdaten.org/index.php/Nationale_Forschungsdateninfrastruktur_-_NFDI> #link
+RSE4NFDI; <https://www.de-rse.org/de/rse4nfdi.html> #link
+
+01:21:12.500 Epilog #chapter
+
+Everything Hertz Podcast; <https://everythinghertz.com/> #link
+Tweet von Open Science Radio (@opensciradio) zu Open Science Podcasts; <https://twitter.com/OpenSciRadio/status/1087328214752604167> #link
+
+01:24:25.000 Nachtrag - Offene Stelle am ZB MED #chapter
+
+Stellenbeschreibung (PDF); <https://www.zbmed.de/fileadmin/user_upload/Profil/Stellenanzeigen/2019_04_16_Stellenausschreibung_QuaMedFo_en.pdf> #link
