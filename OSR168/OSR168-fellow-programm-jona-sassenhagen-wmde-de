@@ -1,0 +1,87 @@
+header
+Podcast: Open Science Radio
+Episode: 168
+Episode Title: OSR168 Fellow-Programm: Jona Sassenhagen #WMDE [DE]
+Starttime: 10.05.2019 11:20:00
+Endtime: 10.05.2019 12:45:00
+Podcaster: Matthias Fromm, Jona Sassenhagen
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.org/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+Fellow Programm Freies Wissen; <https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen> #link
+Fellows im 3. Programmjahr 2018/2019; <https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Fellows2018> #link
+Jona Sassenhagen; <https://jona-sassenhagen.github.io/cv/> #link
+Jona bei Github; <https://github.com/jona-sassenhagen> #link
+Martin Schultze; <https://qis.server.uni-frankfurt.de/qisserver/rds?moduleCall=webInfo&personal.pid=24056&publishConfFile=webInfoPerson&publishSubDir=personal&state=verpublish&status=init&topitem=members&vmfile=no> #link
+Dejan Draschkow; <https://www.draschkow.com/> #link	
+Dekan bei GitHub; <https://github.com/DejanDraschkow> #link
+
+00:01:38.000 Vorstellung Jona Sassenhagen #chapter
+
+Religionswissenschaften; <https://de.wikipedia.org/wiki/Religionswissenschaft> #glossary
+Germanistik; <https://de.wikipedia.org/wiki/Germanistik> #glossary
+Philosophie; <https://de.wikipedia.org/wiki/Philosophie> #glossary
+Sprachwissenschaft; <https://de.wikipedia.org/wiki/Sprachwissenschaft> #glossary
+Literaturwissenschaft; <https://de.wikipedia.org/wiki/Literaturwissenschaft> #glossary
+Replikationskrise (PDF der DFG); <https://www.dfg.de/download/pdf/dfg_im_profil/reden_stellungnahmen/2017/170425_stellungnahme_replizierbarkeit_forschungsergebnisse_de.pdf> #link
+Pregistrierung; <https://cos.io/prereg/> #link
+Registered Report Format; <https://cos.io/rr/> #link
+Chris Chambers; <https://www.cardiff.ac.uk/people/view/133632-chambers-chris> #link
+Neuroskeptic; <http://blogs.discovermagazine.com/neuroskeptic/> #link
+Clinical Trials; <https://en.wikipedia.org/wiki/Clinical_trial> #glossary
+Open Trials; <https://opentrials.net/> #link
+National Institute of Health (NIH); <https://en.wikipedia.org/wiki/National_Institutes_of_Health> #glossary
+
+00:11:22.500 Zugang zum Fellow Programm #chapter
+
+Peer Herholz; <https://twitter.com/peerherholz> #link
+OSR-Episode 121 mit Peer Herholz und Katja Mayer; <http://www.openscienceradio.org/2018/04/18/osr121-fellow-programm-katja-mayer-und-peer-herholz-wmde-de/> #link
+Reproduzierbarkeit; <https://de.wikipedia.org/wiki/Reproduzierbarkeit_(Psychologie)> #glossary
+Software Engineering; <https://en.wikipedia.org/wiki/Software_engineering> #glossary
+Versionskontrolle; <https://de.wikipedia.org/wiki/Versionsverwaltung> #glossary
+Open Source; <https://opensource.org/osd> #link
+Github; <https://github.com/> #link
+Impact Factor; <https://en.wikipedia.org/wiki/Impact_factor> #glossary
+Open Metrics;
+Altmetrics; <https://en.wikipedia.org/wiki/Altmetrics> #glossary
+
+00:36:54.000 Das Fellow-Projekt #chapter
+
+Goethe Universität Frankfurt; <http://www.uni-frankfurt.de/> #link
+Neurokognitive Psychologie an der Universität Frankfurt (Fiebach Lab); <https://www.fiebachlab.org/> #link
+Fellow-Projekt von Jonas et al.; <https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Scientific_methods_ebook_for_social_and_cognitive_scientists:_an_open_and_collaborative_repository> #link
+Projekt-Zwischenbericht von Jonas et. al; <https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Scientific_methods_ebook_for_social_and_cognitive_scientists:_an_open_and_collaborative_repository/Zwischenbericht> #link
+Python; <https://en.wikipedia.org/wiki/Python_(programming_language)> #glossary
+handbuch.io vom Open Science Lab der TIB; <https://handbuch.tib.eu/w/Handbuch.io> #link
+Wikibooks; <https://en.wikipedia.org/wiki/Wikibooks> #glossary
+Git; <https://en.wikipedia.org/wiki/Git> #glossary
+Zwischenbericht von Jonas;
+Vorschau-Link zum Buch bei Readthedocs; <https://smobsc.readthedocs.io/en/latest/index.html> #link
+
+00:49:58.000 Ein Blick auf die Metaebene #chapter
+
+Maximilian Heimstädt; <https://www.uni-wh.de/en/uwh-international/detailpages/news/maximilian-heimstaedt-2301/f0/nc/> #link
+Leonid Dobusch; <https://twitter.com/leonidobusch?lang=en> #link
+Organizing Openness Projekt; <https://o2c2.org/> #link
+OSR-Episode 96 mit Maximilian Heimstädt und Kerstin Göpfrich; <http://www.openscienceradio.org/2018/02/07/osr096-fellow-programm-projekte-ring-a-scientist-organizing-openness-wmde-de/> #link
+OSR-Episode 94 mit Sarah Behrens und Christopher Schwarzkopf; <http://www.openscienceradio.org/2017/12/12/osr094-freies-wissen-in-der-wissenschaft-wmde-de/> #link
+OSR-Episode 129 mit den Fellow-Programm-Alumnis Marion Goller und Nicolas Schmelling; <http://www.openscienceradio.org/2018/09/17/osr129-fellow-programm-rueckblick-aus-alumni-sicht-wmde-de/> #link
+Open Science Stellenausschreibung vom Stifterverband; <https://stifterverband.talention.com/talention/stellenangebote/8827602> #link
+Open Science Center an der LMU München; <https://www.osc.uni-muenchen.de/index.html> #link
+OSR-Episode 124 mit Anne-Laure Boulesteix und Felix Schönbrodt zum Open Science Center an der LMU München; <http://www.openscienceradio.org/2018/05/14/osr124-open-science-center-at-lmu-munich-en/> #link
+Christian Fiebach; <https://twitter.com/cfiebach?lang=en> #link
+Sandra Hofhues; <https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/MentorInnen/Sandra_Hofhues> #link
+Frankfurt Open Science Initiative; <https://open-science-frankfurt.github.io/> #link
+Open Science Day am Fiebach Lab;
+Open-Access-Publikationsfonds an der Goethe-Universität Frankfurt; <https://www.ub.uni-frankfurt.de/publizieren/publikationsfonds.html> #link
+Axel Kohler; <http://www.uni-frankfurt.de/53525011/GRADE_Team> #link
+UniWIND Arbeitsgruppe "Open Science in der Promotionsphase" von Axel Kohler; <https://www.uniwind.org/aktivitaeten/arbeitsgruppen/open-science-in-der-promotionsphase> #link 
+
+01:10:05.000 Epilog #chapter
+
+p-Wert; <https://de.wikipedia.org/wiki/P-Wert> #glossary
+Abschlussveranstaltung des aktuellen Programmjahr 2018/2019; <https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Veranstaltungen/Abschlussveranstaltung_2019> #link
