@@ -1,0 +1,43 @@
+header
+Podcast: Open Science Radio
+Episode: 186
+Episode Title: OSR186 virtual COVID-19 BioHackathon with Leyla Jael Garcia-Castro
+Starttime: 04.04.2020 15:00:00
+Endtime: 04.04.2020 18:30:00
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.org/>
+/header
+
+00:00:00.000 COVID-19 pandemic   #chapter
+
+COVID-19 (Coronavirus disease 2019) <https://en.wikipedia.org/wiki/Coronavirus_disease_2019> #glossary
+ZB MED COVID-19 Hub <https://covid-19.zbmed.de/> #link
+
+00:04:43.000 Leyla's Background  #chapter
+
+EBI  <https://www.ebi.ac.uk/> #link
+Uniprot <https://www.uniprot.org/> #link
+Sementic Web <https://en.wikipedia.org/wiki/Semantic_Web> #glossary
+ZB MED <https://www.zbmed.de/> #link
+Knowlege Management Group <https://www.zbmed.de/en/research/research-at-zb-med/knowledge-management-research-group/> #link
+
+Hackathon <https://en.wikipedia.org/wiki/Hackathon> #glossary
+BioHackathon Website >http://www.biohackathon.org/> #link
+
+DBCLS <https://dbcls.rois.ac.jp/index-en.html> #link
+DBCLS <https://en.wikipedia.org/wiki/Database_Center_for_Life_Science> #glossary
+NDBC <https://dbcls.rois.ac.jp> #link
+NDBC <https://en.wikipedia.org/wiki/National_Data_Buoy_Center> #glossary
+
+Ontology <https://en.wikipedia.org/wiki/Ontology_(information_science)> #glossary
+
+BioHackathon europe <https://www.biohackathon-europe.org/> #link
+
+ISMB <https://en.wikipedia.org/wiki/Intelligent_Systems_for_Molecular_Biology> #glossary
+ECCB <https://en.wikipedia.org/wiki/European_Conference_on_Computational_Biology> #glossary
+
+Scrum <https://en.wikipedia.org/wiki/Scrum_(software_development)> #glossary
+
+Hash Tag #covid_19_bh20 <https://twitter.com/search?q=%23covid_19_bh20> # link
