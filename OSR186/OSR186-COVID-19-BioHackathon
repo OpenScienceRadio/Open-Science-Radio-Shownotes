@@ -3,76 +3,78 @@ Podcast: Open Science Radio
 Episode: 186
 Episode Title: OSR186 virtual COVID-19 BioHackathon with Leyla Jael Garcia-Castro
 Starttime: 04.04.2020 15:00:00
-Endtime: 04.04.2020 18:30:00
-Podcaster: Matthias Fromm, Konrad Förstner
+Endtime: 04.04.2020 15:30:00
+Podcaster: Konrad Förstner, Leyla Jael Garcia-Castro
 Tags:  #chapter #section #spoiler #topic #embed
 Inclusion Tags: #glossary
 Webseite: <http://www.openscienceradio.org/>
 /header
 
-00:00:00.000 COVID-19 pandemic #chapter
+00:00:00.000 Welcome #chapter
 
-COVID-19 (Coronavirus disease 2019) <https://en.wikipedia.org/wiki/Coronavirus_disease_2019> #glossary
-ZB MED COVID-19 Hub <https://covid-19.zbmed.de/> #link
+Barcamp Open Science; <https://www.open-science-conference.eu/barcamp/> #link
+Open Science Radio Episodes for the Barcamp Open Science 2020 (more to come); <http://www.openscienceradio.org/tag/oscibar/> #link
 
-00:04:43.000 Leyla's Background and current work  #chapter
+00:01:37.500 COVID-19 pandemic #chapter
 
-EBI  <https://www.ebi.ac.uk/> #link
-Uniprot <https://www.uniprot.org/> #link
-Semantic Web <https://en.wikipedia.org/wiki/Semantic_Web> #glossary
-Linked data <https://en.wikipedia.org/wiki/Linked_data> #glossary
-Bioinformatics <https://en.wikipedia.org/wiki/Bioinformatics> #glossary
+COVID-19 (Coronavirus disease 2019); <https://en.wikipedia.org/wiki/Coronavirus_disease_2019> #glossary
+ZB MED COVID-19 Hub; <https://covid-19.zbmed.de/> #link
 
-ZB MED <https://www.zbmed.de/> #link
-Knowlege Management Group <https://www.zbmed.de/en/research/research-at-zb-med/knowledge-management-research-group/> #link
+00:04:39.500 Leyla's Background and current work  #chapter
 
-00:06:11.000 General intro to BioHackathons #chapter
+Leyla Garcia; <https://orcid.org/0000-0003-3986-0510> #link
+EMBL-EBI; <https://www.ebi.ac.uk/> #link
+Uniprot; <https://www.uniprot.org/> #link
+Semantic Web; <https://en.wikipedia.org/wiki/Semantic_Web> #glossary
+Linked data; <https://en.wikipedia.org/wiki/Linked_data> #glossary
+Bioinformatics; <https://en.wikipedia.org/wiki/Bioinformatics> #glossary
+ZB MED; <https://www.zbmed.de/> #link
+Knowlege Management Group; <https://www.zbmed.de/en/research/research-at-zb-med/knowledge-management-research-group/> #link
 
-Hackathon <https://en.wikipedia.org/wiki/Hackathon> #glossary
-BioHackathon Website >http://www.biohackathon.org/> #link
+00:06:08.000 General intro to BioHackathons #chapter
 
-DBCLS <https://dbcls.rois.ac.jp/index-en.html> #link
-DBCLS <https://en.wikipedia.org/wiki/Database_Center_for_Life_Science> #glossary
-NDBC <https://dbcls.rois.ac.jp> #link
-NDBC <https://en.wikipedia.org/wiki/National_Data_Buoy_Center> #glossary
+Hackathon; <https://en.wikipedia.org/wiki/Hackathon> #glossary
+BioHackathon Website; <http://www.biohackathon.org/> #link
+Database Center for Life Science (DBCLS); <https://dbcls.rois.ac.jp/index-en.html> #link
+DBCLS; <https://en.wikipedia.org/wiki/Database_Center_for_Life_Science> #glossary
+National Bioscience Database Center (NBDC); <https://dbcls.rois.ac.jp> #link
+NDBC; <https://en.wikipedia.org/wiki/National_Data_Buoy_Center> #glossary
+Ontology; <https://en.wikipedia.org/wiki/Ontology_(information_science)> #glossary
+BioHackathon Europe; <https://www.biohackathon-europe.org/> #link
+ISMB (International Conference on Intelligent Systems for Molecular Biology); <https://www.iscb.org/ismb2020> #link
+ECCB (European Conference on Computational Biology); <https://eccb2020.info/> #link
+BOSC (Bioinformatics Open Source Conference); <https://www.open-bio.org/events/bosc/> #link
+Codefests at BOSC; <https://www.open-bio.org/wiki/Codefest> #link
+Scrum; <https://en.wikipedia.org/wiki/Scrum_(software_development)> #glossary
 
-Ontology <https://en.wikipedia.org/wiki/Ontology_(information_science)> #glossary
-
-BioHackathon europe <https://www.biohackathon-europe.org/> #link
-
-ISMB <https://en.wikipedia.org/wiki/Intelligent_Systems_for_Molecular_Biology> #glossary
-ECCB <https://en.wikipedia.org/wiki/European_Conference_on_Computational_Biology> #glossary
-
-Scrum <https://en.wikipedia.org/wiki/Scrum_(software_development)> #glossary
-
-00:09:50.000 The virtual COVID-19 BioHackathon #chapter
-
-GitHub page of the COVID-19 BioHackathon <https://github.com/virtual-biohackathons/covid-19-bh20> #link
-
-WirVsVirus <https://wirvsvirushackathon.org/> #link
-
-ELIXIR <https://elixir-europe.org> #link
-ELIXIR <https://en.wikipedia.org/wiki/ELIXIR> #glossary
-
-Pjotr Prins <https://thebird.nl/> #link
-University of Tennessee Health Science Center. Pjotr <https://www.uthsc.edu/> #link
-Tazro Inutano Ohta <https://github.com/inutano> #link
-Slack <https://slack.com/> #link
-
-Zoom <https://zoom.us/> #link
-
-00:19:54.000 How to participate #chapter
+00:10:04.000 The virtual COVID-19 BioHackathon #chapter
 
 GitHub page of the COVID-19 BioHackathon <https://github.com/virtual-biohackathons/covid-19-bh20> #link
-COVID-19 BioHackathon Goggle Groups Mailing list <https://groups.google.com/forum/#!forum/virtual-biohackathon> #link
-Slack Channel <https://virtualbiohac-xt62674.slack.com/join/shared_invite/zt-cuur40oj-wdrVz50NocwVrH7vgKTdPg> #link
 
+WirVsVirus Hackathon; <https://wirvsvirushackathon.org/> #link
+Sequence Alignment (Genomic Alignment); <https://en.wikipedia.org/wiki/Sequence_alignment> #glossary
+ELIXIR Europe; <https://elixir-europe.org> #link
+ELIXIR; <https://en.wikipedia.org/wiki/ELIXIR> #glossary
+Pjotr Prins; <https://thebird.nl/> #link
+Pjotr Prins Twitter; <https://twitter.com/pjotrprins?lang=en> #link
+University of Tennessee Health Science Center; <https://www.uthsc.edu/> #link
+Tazro Inutano Ohta; <https://github.com/inutano> #link
+Slack; <https://slack.com/> #link
+Zoom; <https://zoom.us/> #link
+
+00:19:57.000 Open to Contribution #chapter
+
+GitHub page of the COVID-19 BioHackathon; <https://github.com/virtual-biohackathons/covid-19-bh20> #link
+COVID-19 BioHackathon Goggle Groups mailing list; <https://groups.google.com/forum/#!forum/virtual-biohackathon> #link
+COVID-19 BioHackathon Wiki; <https://github.com/virtual-biohackathons/covid-19-bh20/wiki> #link
+COVID-19 BioHackathon Google Groups; <https://groups.google.com/forum/#!forum/biohackathon> #link
+Slack Channel; <https://virtualbiohac-xt62674.slack.com/join/shared_invite/zt-cuur40oj-wdrVz50NocwVrH7vgKTdPg> #link
+Registration for Signup is being distributed in the Google Groups;
 Zoombombing <https://www.cnet.com/how-to/zoombombing-what-it-is-and-how-you-can-prevent-it-in-zoom-video-chat/> #link
+Topics for the BioHackathon; <https://github.com/virtual-biohackathons/covid-19-bh20/wiki#topicsgroups> #link
 
-Project/groups <https://github.com/virtual-biohackathons/covid-19-bh20/wiki> #link
+00:25:33.500 Epilogue #chapter
 
-BioHackathons <https://biohackrxiv.org/> #link
-
-OSF - Open Science Framework <https://osf.io> #link
-
-Twitter hash tag #covid_19_bh20 <https://twitter.com/search?q=%23covid_19_bh20> # link
+Twitter Hashtag for the virtual COVID-19 Biohackathon #covid_19_bh20; <https://twitter.com/search?q=%23covid_19_bh20> #link
+Preprint initiative for BioHackathons at biohackrxiv.org; <https://biohackrxiv.org/> #link
+OSF - Open Science Framework; <https://osf.io> #link
