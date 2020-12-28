@@ -1,0 +1,104 @@
+header
+Podcast: Open Science Radio
+Episode: 197
+Episode Title: OSR197 Personalisiertes Tracking von WissenschaftlerInnen durch Verlage
+Starttime: 30.11.2020 20:45:00
+Endtime: 30.11.2020 22:30:00
+Podcaster: Matthias Fromm, Konrad Förstner, Björn Brembs, Renke Siems
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.org/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+Björn Brembs; <https://twitter.com/brembs> #link
+Renke Siems; <https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/ueber-uns/ansprechpartner/fachreferenten-wissenschaftlicher-dienst/siems/> #link
+
+00:00:43.500 Vorstellung Björn Brembs #chapter
+
+Uni Regensburg; <https://www.uni-regensburg.de/> #link
+Professur für Neurogenetik; <https://www.uni-regensburg.de/biologie-vorklinische-medizin/neurogenetik/index.html> #link
+OSR098 mit Björn; <http://www.openscienceradio.org/2018/03/01/osr098-academic-publishing-infrastructures-with-bjoern-brembs-en/> #link
+
+00:01:43.500 Vorstellung Renke Siems #chapter
+
+Uni Bibliothek Tübingen; <https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/> #link
+Nutzungsleiter;
+Fachreferent Sozialwissenschaften;
+Open Educational Resources; <https://de.wikipedia.org/wiki/Open_Educational_Resources> #glossary
+
+00:02:34.500 Worum geht's - Tracking? #chapter
+
+Cody Hanson; <https://www.twitter.com/codyh> #link
+Blogbeitrag von Cody zum Thema Tracking; <https://www.codyh.com/writing/tracking.html> #link
+Authentifizierung; <https://de.wikipedia.org/wiki/Authentifizierung> #glossary
+Seamless Access; <https://seamlessaccess.org/> #link
+Ghostery Browser Add-On; <https://www.ghostery.com/> #link
+Datenschutzgrundverordnung; <https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung> #glossary
+Scholarly Networks Security Initiative (SNSI); <https://www.snsi.info/> #link
+Sci-Hub; <https://de.wikipedia.org/wiki/Sci-Hub> #glossary
+Washington Post Artikel "Justice Department investigates Sci-Hub founder on suspicion of working for Russian intelligence"; <https://www.washingtonpost.com/national-security/justice-department-investigates-sci-hub-founder-on-suspicion-of-working-for-russian-intelligence/2019/12/19/9dbcb6e6-2277-11ea-a153-dce4b94e4249_story.html> #link
+Schattenbibliothek; <https://de.wikipedia.org/wiki/Schattenbibliothek> #glossary
+Elsevier; <https://de.wikipedia.org/wiki/Elsevier> #glossary
+RELX Group; <https://de.wikipedia.org/wiki/RELX_Group> #glossary
+
+00:19:19.000 Dürfen Verlage das? Sollen das Verlage dürfen? #chapter
+
+DEAL Verträge; <https://www.projekt-deal.de/> #link
+Max Schrems; <https://de.wikipedia.org/wiki/Max_Schrems> #glossary
+Landesdatenschutzbeauftragte; <https://de.wikipedia.org/wiki/Landesbeauftragter_f%C3%BCr_den_Datenschutz> #glossary
+Art. 15 DSGVO Auskunftsrecht der betroffenen Person; <https://dsgvo-gesetz.de/art-15-dsgvo/> #link
+
+00:26:01.000 Wie ist die politische Lage? #chapter
+
+Digital Services Act Package; <https://ec.europa.eu/digital-single-market/en/digital-services-act-package> #link
+National Cyber Security Centre Report "The cyber threat to Universities"; <https://www.ncsc.gov.uk/report/the-cyber-threat-to-universities> #link
+Science Direct; <https://de.wikipedia.org/wiki/ScienceDirect> #glossary
+ThreatMetrix; <https://risk.lexisnexis.com/global/en/products/threatmetrix> #link
+
+00:33:02.000 Haben die Verlage damit gewonnen? #chapter
+
+Schultrojaner; <https://netzpolitik.org/2011/der-schultrojaner-eine-neue-innovation-der-verlage/>
+
+00:34:55.000 Ist Open Access die Lösung? #chapter
+
+Robert Maxwell; <https://de.wikipedia.org/wiki/Robert_Maxwell> #glossary
+Ghislaine Maxwell; <https://de.wikipedia.org/wiki/Ghislaine_Maxwell> #glossary
+Jeffrey Epstein; <https://de.wikipedia.org/wiki/Jeffrey_Epstein> #glossary
+Vendor Lock-in; <https://de.wikipedia.org/wiki/Lock-in-Effekt> #glossary
+Elektronisches Laborbuch (Electronic Lab Notebooks); <https://de.wikipedia.org/wiki/Elektronisches_Laborbuch> #glossary
+Mendeley; <https://de.wikipedia.org/wiki/Mendeley> #glossary
+Dutch open science deal primarily benefits Elsevier; <https://www.scienceguide.nl/2020/06/open-science-deal-benefits-elsevier/> #link
+Pure (Elsevier); <https://www.elsevier.com/solutions/pure> #link
+Forschungsinformationssysteme; <https://de.wikipedia.org/wiki/Forschungsinformationssystem> #glossary
+Browserkrieg; <https://de.wikipedia.org/wiki/Browserkrieg> #glossary
+
+00:48:27.500 Was können wir tun? #chapter
+
+Governance; <https://de.wikipedia.org/wiki/Governance> #glossary
+Github; <https://github.com/> #link
+San Francisco Declaration on Research Assessment (DORA); <https://en.wikipedia.org/wiki/San_Francisco_Declaration_on_Research_Assessment> #glossary
+Plan S; <https://de.wikipedia.org/wiki/Plan_S> #glossary
+ArXiv; <https://de.wikipedia.org/wiki/ArXiv> #glossary
+Next Generation Sequencing; <https://www.illumina.com/science/technology/next-generation-sequencing.html#:~:text=The%20massively%20parallel%20sequencing%20technology,a%20level%20never%20before%20possible.> #link
+Read or Perish;
+DEAL Konsortium; <https://www.projekt-deal.de/> #link
+Publish or Perish; <https://de.wikipedia.org/wiki/Publish_or_perish> #glossary
+Open Research Central; <https://openresearchcentral.org/> #link
+F1000Research; <https://f1000research.com/> #link
+EU lizensiert F1000Research; <https://www.openaire.eu/collectively-promoting-research-results-openaire-to-collaborate-with-f1000-research-on-the-open-research-europe-publishing-platform> #link
+Zeitschriftenkrise; <https://de.wikipedia.org/wiki/Zeitschriftenkrise> #glossary
+
+01:18:22.500 Epilog #chapter
+
+Forschungsfreiheit; <https://de.wikipedia.org/wiki/Forschungsfreiheit> #glossary
+Peter Hense; <https://twitter.com/peterhense> #link
+Nina Diercks;<https://twitter.com/raindiercks> #link
+Gesellschaft für Freiheitsrechte; <https://freiheitsrechte.org/> #link
+Julia Reda; <https://de.wikipedia.org/wiki/Julia_Reda> #glossary
+Klage gegen Elsevier (mit Jon Tenant u.a.) vor dem Kartellrecht; <https://zenodo.org/record/1472045#.W9LuH5P7RPY> #link
+Björns Beschwerde beim Bundesrechnungshof;
+Uni Konstanz und die juristische Entscheidung zum Zweitveröffentlichkeitsrecht; <https://www.uni-konstanz.de/universitaet/aktuelles-und-medien/aktuelle-meldungen/aktuelles/Open-Access-Satzung-auf-juristischem-Pruefstand-7786/> #link
+
+01:32:20.500 Epilog #chapter
