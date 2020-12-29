@@ -1,0 +1,157 @@
+header
+Podcast: Open Science Radio
+Episode: 198
+Episode Title: OSR198 Rund um wissenschaftliche Literatur
+Starttime: 22.12.2020 20:45:00
+Endtime: 22.12.2020 23:15:00
+Podcaster: Matthias Fromm, Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.org/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+00:01:00.500 COVID-Block #chapter
+
+neue COVID-Mutation in UK; <https://www.who.int/csr/don/21-december-2020-sars-cov2-variant-united-kingdom/en/> #link
+COVID19 Impfstoffe; <https://www.who.int/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines> #link
+
+00:07:39.000 Blick auf die News #chapter
+
+UNESCO, WHO and the UN High Commissioner for Human Rights call for “open science”; <https://en.unesco.org/news/unesco-who-and-high-commissioner-human-rights-call-open-science> #link
+Office of the United Nations High Commissioner for Human Rights OHCHR; <https://en.wikipedia.org/wiki/Office_of_the_United_Nations_High_Commissioner_for_Human_Rights> #glossary
+CERN announces new open data policy in support of open science; <https://home.cern/news/press-release/knowledge-sharing/cern-announces-new-open-data-policy-support-open-science> #link
+CERN; <https://de.wikipedia.org/wiki/CERN> #glossary
+CERN Open Data Portal; <http://opendata.cern.ch/> #link
+Forschungssoftware; <https://os.helmholtz.de/open-science-in-der-helmholtz-gemeinschaft/forschungssoftware/> #link
+de-RSE; <https://de-rse.org/de/index.html> #link
+Nationale Forschungsdateninfrastruktur für wissenschaftliche Software; <https://www.rse4nfdi.de/de/index.html> #link
+SORSE Series of Online Research Software Events; <https://sorse.github.io/> #link
+Humangenomprojekt; <https://de.wikipedia.org/wiki/Humangenomprojekt> #glossary
+ATLAS Experiment/Detektor am CERN; <https://de.wikipedia.org/wiki/ATLAS_(Detektor)> #glossary
+MOSAiC Project; <https://mosaic-expedition.org/> #link
+Stephan Janosch; <https://twitter.com/StephanJanosch> #link
+ZB MED - Informationszentrum Lebenswissenschaften; <https://www.zbmed.de/> #link
+Library Carpentry; <https://librarycarpentry.org/> #link
+Software Carpentry; <https://software-carpentry.org/> #link
+Computational Thinking; <https://en.wikipedia.org/wiki/Computational_thinking> #glossary
+Neues Beispiel für Journal in dem das Editorial Board sich in einem neuen Open Access Journal zusammenfindet: Journal of Field Robotics; <http://journalfieldrobotics.org/JFR/DearColleague_Letter.html> #link
+Wiley; <https://de.wikipedia.org/wiki/John_Wiley_%26_Sons> #glossary
+Open Access bei Wiley; <https://authorservices.wiley.com/open-science/open-access/index.html> #link
+Editorial Board of European Law Blog leaves Wiley; <https://europeanlawblog.eu/2020/02/04/what-a-journal-makes-as-we-say-goodbye-to-the-european-law-journal/> #link
+San Francisco Declaration on Research Assessment (DORA); <https://en.wikipedia.org/wiki/San_Francisco_Declaration_on_Research_Assessment> #glossary
+Elsevier unterschreibt DORA; <https://www.elsevier.com/connect/advancing-responsible-research-assessment?dgcid=_TW_O_Connect&sf241135008=1> #link
+CRediT (Contributor Roles Taxonomy); <https://casrai.org/credit/> #link
+Open Citations; <https://opencitations.net/> #link
+I4OC; <https://i4oc.org/> #link
+CrossRef; <https://de.wikipedia.org/wiki/Crossref> #glossary
+Funder Registry; <https://www.crossref.org/services/funder-registry> #link
+CrossRef TDM; <https://www.crossref.org/education/retrieve-metadata/rest-api/text-and-data-mining/> #link
+Vendor Lock-in; <https://de.wikipedia.org/wiki/Lock-in-Effekt> #glossary
+OSR197 Personalisiertes Tracking von WissenschaftlerInnen durch Verlage; <http://www.openscienceradio.org/2020/12/29/osr197-personalisiertes-tracking-von-wissenschaftlerinnen-durch-verlage/> #link 
+
+00:41:13.500 Kleine Veranstaltungsecke #chapter
+
+Open Science Conference 17.-19.02.2021); <https://www.open-science-conference.eu/> #link
+Barcamp Open Science (16.02.2021); <https://www.open-science-conference.eu/barcamp/> #link
+Mailingliste der Open Science AG; <https://ag-openscience.de/mitmachen/> #link
+Chaos Communication Congress; <https://de.wikipedia.org/wiki/Chaos_Communication_Congress> #glossary
+Remote Chaos Experience (RC3); <https://events.ccc.de/2020/09/04/rc3-remote-chaos-experience/> #link
+Pad zur Open Science Assembly auf der RC3; <https://pad.okfn.de/p/Open_Science-Assembly-rC3> #link
+CCC Video Operation Center (C3VOC); <https://c3voc.de/> #link
+
+00:54:31.500 Thema Wissenschaftliche Literatur: Lesen #chapter
+
+Methodisch inkorrekt 180 - Kapitel "Wie liest man ein wissenschaftliches Paper?"; <https://minkorrekt.de/mi180-sapsche/?t=10%3A52%2C30%3A08> #link
+Graphical Abstracts; <https://en.wikipedia.org/wiki/Graphical_abstract> #glossary
+Jupyter Notebooks; <https://jupyter.org/> #link
+Literate Programming; <https://de.wikipedia.org/wiki/Literate_programming> #glossary
+Artikel: The Scientific Paper Is Obsolete; <https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/> #link
+
+01:06:07.000 Thema Wissenschaftliche Literatur: woran erkennt man gute und schlechte Paper? #chapter
+
+Impact Factor; <https://de.wikipedia.org/wiki/Impact_Factor> #glossary
+Stem Cell Scandal; <https://www.newyorker.com/magazine/2016/02/29/the-stem-cell-scandal> #link
+Arsenic Life Paper; <https://www.washingtonpost.com/national/health-science/journal-retreats-from-controversial-arsenic-paper/2012/07/08/gJQAFQb7WW_story.html> #link
+Altmetrik; <https://de.wikipedia.org/wiki/Altmetrik> #glossary
+altmetric; <https://www.altmetric.com/> #link
+Almetric erfasst auch Wikipedia-Einträge; <https://www.altmetric.com/blog/new-source-alert-wikipedia/> #link
+WikiScience; <https://meta.wikimedia.org/wiki/Grants:IEG/Wikiscience> #link
+Research Articles as Living Documents; <https://blogs.lse.ac.uk/impactofsocialsciences/2015/05/13/reincarnating-the-research-article-into-a-living-document/> #link
+F1000Research; <https://f1000research.com/> #link
+Retroviren; <https://de.wikipedia.org/wiki/Retroviren#Geschichte_der_Retrovirologie> #glossary
+Preregistration; <https://www.cos.io/initiatives/prereg> #link
+LaTeX; <https://de.wikipedia.org/wiki/LaTeX> #glossary
+Overleaf; <https://www.overleaf.com/> #link
+Markdown; <https://de.wikipedia.org/wiki/Markdown> #link
+
+01:33:04.500 Thema Wissenschaftliche Literatur: Paper schreiben  #chapter
+
+OSR054 mit Katrin Leinweber zu Tools rund um das Schreiben; <http://www.openscienceradio.org/2016/06/16/osr054-kuendigt-eure-netflix-abos-tools-rund-ums-schreiben-und-publizieren/> #link
+Git und Github-Unterstützung bei Overleaf; <https://www.overleaf.com/learn/how-to/Using_Git_and_GitHub> #link
+Building a Second Brain; <https://www.buildingasecondbrain.com/> #link
+Bear; <https://bear.app/> #link
+Notion; <https://www.notion.so/product> #link
+Emacs; <https://de.wikipedia.org/wiki/Emacs> #glossary
+Org Mode für Emacs; <https://orgmode.org/> #link
+Sönke Ahrens: How to take smart Notes; <https://takesmartnotes.com/> #link
+Tiago Forte; <https://twitter.com/fortelabs> #link
+PARA Method; <https://fortelabs.co/blog/para/> #link
+Zettelkasten; <https://en.wikipedia.org/wiki/Zettelkasten> #glossary
+Niklas Luhmann; <https://de.wikipedia.org/wiki/Niklas_Luhmann> #glossary
+Soziopod #046: Was ist das für 1 Luhmann?; <https://soziopod.de/2016/08/soziopod-046-was-ist-das-fuer-1-luhmann/> #link
+Soziopod Radio Edition #009: Happy Birthday Luhmann; <https://soziopod.de/2017/12/soziopod-radio-edition-009-happy-birthday-luhmann/> #link
+Soziopod Academics 005: Systemtheorie von Niklas Luhmann; <https://soziopod.de/2019/11/soziopod-academics-005-systemtheorie-von-niklas-luhmann/> #link
+Roam Research; <https://roamresearch.com/> #link
+Obsidian; <https://obsidian.md/> #link
+
+01:46:26.000 Thema Wissenschaftliche Literatur: Paper finden  #chapter
+
+Open Knowledge Maps; <https://openknowledgemaps.org/> #link
+Serendipität; <https://de.wikipedia.org/wiki/Serendipit%C3%A4t> #glossary 
+Google Scholar; <https://scholar.google.com/> #link
+BASE (Bielefeld Academic Search Engine); <https://www.base-search.net/> #link
+LIVIVO ZB MED Search Portal for Life Sciences; <https://www.livivo.de/> #link
+PuBMed; <https://pubmed.ncbi.nlm.nih.gov/> #link
+TIB Hannover; <https://www.tib.eu/de/> #link
+Lambert Heller; <https://twitter.com/Lambo> #link
+Open Research Knowledge Graph (TIB); <https://projects.tib.eu/orkg/> #link
+Dutzende Gene werden umbenannt um das "Excel-Problem zu umgehen; <https://www.heise.de/news/Von-Excel-in-Datumsangaben-umgewandelt-Dutzende-Gene-umbenannt-4864993.html> #link
+Repositorien; <https://open-access.net/informationen-zu-open-access/repositorien> #link
+AfricArXiv; <https://info.africarxiv.org/> #link
+OSR163 What Role Can Open Science Play in Enabling South-North Dialogues? (Poster Session) #osc2019 [EN]; <http://www.openscienceradio.org/2019/03/26/osr163-what-role-can-open-science-play-in-enabling-south-north-dialogues-poster-session-osc2019-en/> #link
+Open Access Button; <https://openaccessbutton.org/> #link
+Unpaywall; <https://unpaywall.org/> #link
+SciHub; <https://de.wikipedia.org/wiki/Sci-Hub> #link
+TLDR (Semantic Scholar); <https://tldr.semanticscholar.org/> #link
+GPT-3; <https://en.wikipedia.org/wiki/GPT-3> #glossary
+OpenAI; <https://de.wikipedia.org/wiki/OpenAI> #glossary
+The Guardian "A robot wrote this entire article. Are you scared yet, human?"; <https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3> #link
+How three MIT students fooled the world of scientific journals; <https://news.mit.edu/2015/how-three-mit-students-fooled-scientific-journals-0414> #link
+Transcendence (Film); <https://de.wikipedia.org/wiki/Transcendence_(Film)> #glossary
+OpenML; <https://www.openml.org/> #link
+OSR059 OpenML [EN]; <http://www.openscienceradio.org/2016/10/28/osr059-openml-en/> #link
+Kevin Kelly: The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future; <https://en.wikipedia.org/wiki/The_Inevitable_(book)> #link
+Kevin Kelly; <https://en.wikipedia.org/wiki/Kevin_Kelly_(editor)> #glossary
+
+02:10:37.000 Epilog #chapter
+
+Spenden an Wikimedia Deutschland; <https://spenden.wikimedia.de/> #link
+Spenden an Wikimedia; <https://donate.wikimedia.org/wiki/Ways_to_Give> #link
+Spenden an The Carpentries; <https://carpentries.wedid.it/> #link
+Spenden an Wau Holland Stiftung; <https://www.wauland.de/de/donate/> #link
+Experiment; <https://experiment.com/> #link
+Planetary Society; <https://www.planetary.org/> #link
+Spenden an die Planetary Society (oder Mitglied werden); <https://www.planetary.org/donate> #link
+Carl Sagan; <https://de.wikipedia.org/wiki/Carl_Sagan> #glossary
+Bill Nye; <https://de.wikipedia.org/wiki/Bill_Nye> #glossary
+LightSail 2; <https://en.wikipedia.org/wiki/LightSail#LightSail_2> #glossary
+The Expanse (Serie); <https://de.wikipedia.org/wiki/The_Expanse_(Fernsehserie)> #glossary
+The Martian (Film); <https://de.wikipedia.org/wiki/Der_Marsianer_%E2%80%93_Rettet_Mark_Watney> #glossary
+The Mars Society; <https://www.marssociety.org/> #link
+Spenden an die Mars Society; <https://www.marssociety.org/donate/> #link
+European Space and Sounding Rocket Range (Esrange); <https://de.wikipedia.org/wiki/European_Space_and_Sounding_Rocket_Range> #glossary
+Rexus/Bexus; <https://en.wikipedia.org/wiki/Rexus/Bexus> #glossary
+James Cameron; <https://de.wikipedia.org/wiki/James_Cameron> #glossary
+
