@@ -1,0 +1,62 @@
+header
+Podcast: Open Science Radio
+Episode: 199
+Episode Title: OSR199  Positionspapier "Digitale Dienste für die Wissenschaft - wohin geht die Reise?"
+Starttime: 11.01.2021 12:05:00
+Endtime: 11.01.2021 12:55:00
+Podcaster: Matthias Fromm, Konrad Förstner, Dr. Uwe Konrad
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.org/>
+/header
+
+00:00:00.000 Begrüßung #chapter
+
+Positionspapier "Digitale Dienste für die Wissenschaft - wohin geht die Reise?"; <https://zenodo.org/record/4301924> #link
+
+00:01:22.000 Vorstellung Dr. Uwe Konrad #chapter
+
+Uwe Konrad; <https://www.hzdr.de/db/!ContMan.Visi.Card?pUid=1763&pNid=3529> #link
+Helmholtz-Zentrum Dresden-Rossendorf (HZDR); <https://www.hzdr.de/db/Cms?pNid=0> #link
+Rechenzentrum am Standort Rossendorf; <https://www.hzdr.de/db/Cms?pOid=20576&pNid=588> #link
+Zentralabteilung Informationsdienste und Computing; <Zentralabteilung Informationsdienste und Computing> #link
+Digitalisierungsstrategie der Helmholtz-Gemeinschaft (PDF); <https://www.helmholtz.de/fileadmin/user_upload/publikationen/Digitalisierungsstrategie_DE_klein_FF.pdf> #link
+Helmholtz-Inkubator; <https://www.helmholtz.de/forschung/information-data-science/helmholtz-inkubator/> #link
+
+00:03:10.000 Allianz #chapter
+
+Allianz der deutschen Wissenschaftsorganisationen; <https://www.dfg.de/dfg_profil/allianz/> #link
+Schwerpunktinitiative Digitale Information; <https://www.allianzinitiative.de/> #link
+Arbeitsgruppe Digitale Werkzeuge - Software und Dienste; <https://www.allianzinitiative.de/handlungsfelder/digitale-werkzeuge-software-und-dienste/> #link
+
+00:07:08.500 Handreichung zum Umgang mit Forschungssoftware #chapter
+
+Erste Handreichung der Arbeitsgruppe; "Handreichung zum Umgang mit Forschungssoftware"; <https://zenodo.org/record/1172970> #link
+Research Software Engineer; <https://de-rse.org/de/index.html> #link
+
+00:17:21.000 Wissenschaftliche Dienste #chapter
+
+Cloud Storage;
+High Performance Computing;
+Publikationen und Datenrepositorien;
+Authentifizierung und Autorisierung;
+Kollaborative Werkzeuge;
+Domänenspezifische Dienste;
+National Center for Biotechnology Information (NCBI); <https://en.wikipedia.org/wiki/National_Center_for_Biotechnology_Information> #glossary
+European Bioinformatics Institute (EBI); <https://en.wikipedia.org/wiki/European_Bioinformatics_Institute> #glossary
+
+00:22:34.000 Kernaspekte des Positionspapiers #chapter
+
+Nationale Forschungsdateninfrastruktur; <https://de.wikipedia.org/wiki/Nationale_Forschungsdateninfrastruktur> #glossary
+European Open Science Cloud; <https://en.wikipedia.org/wiki/European_Open_Science_Cloud> #glossary
+Katalog der Dienste in der European Open Science Cloud; <https://marketplace.eosc-portal.eu/> #link
+ELIXIR; <https://elixir-europe.org/> #link
+FAIR Data Principles; <https://www.go-fair.org/fair-principles/> #link
+
+00:42:47.000 Wohin geht die Reise? #chapter
+
+
+
+00:48:10.000 Epilog #chapter
+
+Positionspapier "Digitale Dienste für die Wissenschaft - wohin geht die Reise?"; <https://zenodo.org/record/4301924> #link
