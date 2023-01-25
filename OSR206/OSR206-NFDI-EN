@@ -1,0 +1,116 @@
+header
+Podcast: Open Science Radio
+Episode: 206
+Episode Title: OSR206 NFDI - National Research Data Infrastructure Germany [EN]
+Starttime: 19.01.2023 10:00:00
+Endtime: 19.01.2023 12:30:00
+Podcaster: Matthias Fromm, Konrad Förstner, York Sure-Vetter
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.org/>
+/header
+
+00:00:00.000 Start & Introduction York Sure-Vetter #chapter
+
+National Research Data Infrastructure Germany (NFDI); <https://www.nfdi.de/?lang=en> #link
+York Sure-Vetter; <https://twitter.com/ysurevetter?lang=en> #link;
+Director of NFDI; <https://www.nfdi.de/office-2/?lang=en> #link
+Computer Science; <https://en.wikipedia.org/wiki/Computer_science> #glossary
+Applied Informatics;
+Knowledge Representation; <https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning> #glossary
+Ontologies; <https://en.wikipedia.org/wiki/Ontology_(computer_science)> #glossary
+Semantic Technologies; <https://en.wikipedia.org/wiki/Semantic_technology> #glossary
+Semantic Web; <https://en.wikipedia.org/wiki/Semantic_Web> #glossary
+Tim Berners-Lee; <https://en.wikipedia.org/wiki/Tim_Berners-Lee> #glossary
+SAP; <https://en.wikipedia.org/wiki/SAP> #glossary
+GESIS Leibniz Institute for the Social Sciences; <https://www.gesis.org/en/institute> #link
+Social Sciences; <https://en.wikipedia.org/wiki/Social_science> #glossary
+Data Archiving; <https://en.wikipedia.org/wiki/Research_data_archiving> #glossary
+Long-term preservation of data; <https://en.wikipedia.org/wiki/Digital_preservation> #glossary
+DOI; <https://en.wikipedia.org/wiki/Digital_object_identifier> #glossary
+Karlsruhe Institute of Technology KIT; <https://en.wikipedia.org/wiki/Karlsruhe_Institute_of_Technology> #glossary
+
+00:09:02.000 NFDI in 30 Seconds #chapter
+
+00:10:01.000 NFDI and how it came to be #chapter
+
+FAIR Principles; <https://www.go-fair.org/fair-principles/> #link
+Data Stewardship; <https://en.wikipedia.org/wiki/Data_steward> #glossary
+RFII (Council for Scientific Information Infrastructures; <https://rfii.de/en/home/> #link
+Publication "German Council for Scientific Information Infrastruktures: Enhancing Research Data Management: Performance through Diversity. Recommendations regarding structures, processes, and financing for research data management in Germany"; <https://rfii.de/download/rfii-recommendations-2016-performance-through-diversity/> #link 
+#oneNFDI; <https://twitter.com/hashtag/onenfdi?lang=en&src=hash> #link
+Research Data Alliance (RDA); <https://en.wikipedia.org/wiki/Research_Data_Alliance> #glossary
+European Open Science Cloud EOSC; <https://en.wikipedia.org/wiki/European_Open_Science_Cloud> #glossary
+Federal Ministry of Education and Research (BMBF); <https://en.wikipedia.org/wiki/Federal_Ministry_of_Education_and_Research_(Germany)> #glossary
+eduroam; <https://en.wikipedia.org/wiki/Eduroam> #glossary
+
+00:30:44.000 Current State of NFDI #chapter
+
+Selection Process for Consortia;
+NFDI consortia; <https://www.nfdi.de/consortia/?lang=en> #link
+NFDI Consortia Assembly;
+Base4NFDI; <https://base4nfdi.de/> #link
+eduGAIN; <https://edugain.org/> #link
+Identity Management on a National Level for Authentication in the NFDI infrastructure;
+NFDI Governance Structure;
+NFDI Members Assembly of the Association;
+NFDI Board of Trustees;
+NFDI Scientific Senate;
+Joint Science Conference (Gemeinsame Wissenschaftskonferenz – GWK); <https://www.gwk-bonn.de/en/> #link
+Alliance of Science Organisations; <https://www.allianz-der-wissenschaftsorganisationen.de/en/> #link
+NFDI Sections; <https://www.nfdi.de/sections/?lang=en> #link
+Funding;
+German Research Foundation (DFG); <https://en.wikipedia.org/wiki/German_Research_Foundation> #link
+
+00:52:28.000 Consortia - First Round (since October 2020) #chapter
+
+DataPLANT: Plant research data; <https://www.nfdi4plants.de/> #link
+GHGA: German Human Genome–Phenome Archive; <https://www.ghga.de/> #link
+GHGA Podcast "Der Code des Lebens" (German); <https://www.ghga.de/de/codedeslebens> #link
+KonsortSWD: Consortium for the Social, Educational, Behavioural and Economic Sciences; <https://www.konsortswd.de/en/> #link
+NFDI4Biodiversity: Biodiversity, Ecology and Environmental Data; <https://www.nfdi4biodiversity.org/en/> #link
+NFDI4Cat: NFDI for sciences related to catalysis; <https://nfdi4cat.org/en/> #link
+NFDI4Chem: Chemistry consortium for the NFDI; <https://www.nfdi4chem.de/> #link
+Electronic Lab Notebook; <https://en.wikipedia.org/wiki/Electronic_lab_notebook> #glossary
+NDFI4CHEM Electronic Lab Notebooks; <https://www.nfdi4chem.de/index.php/setup-own-eln/> #link
+NFDI4Culture: Consortium for Research Data on Material and Immaterial Cultural Heritage; <https://nfdi4culture.de/index.html> #link
+NFDI4Health: NFDI personal health data; <https://www.nfdi4health.de/en/> #link
+NFDI4Health Task Force COVID-19; <https://www.nfdi4health.de/en/task-force-covid-19.html> #link
+ZB Med; <https://www.zbmed.de/en/> #link
+Juliane Fluck; <https://www.zbmed.de/kontakt/juliane-fluck/> #link
+NFDI4Ing: NFDI for Engineering Sciences; <https://nfdi4ing.de/> #link
+NFDI4Ing - the National Research Data Infrastructure for Engineering Sciences (Excerpt from the Funding Proposal on Zenodo); <https://zenodo.org/record/4015201> #link
+Open Data vs Fair Data; <https://www.go-fair.org/resources/faq/ask-question-difference-fair-data-open-data/> #link
+
+01:24:12.000 Consortia - Second Round (since July 2021) #chapter
+
+BERD@NFDI: NFDI for Business, Economic and Related Data; <https://www.berd-nfdi.de/> #link
+Section Industry Engagement;
+DAPHNE4NFDI: Data from PHoton and Neutron Experiments for NFDI; <https://www.daphne4nfdi.de/english/index.php> #link
+FAIRmat: FAIR Data Infrastructure for Condensed-Matter Physics and the Chemical Physics of Solids; <https://www.fair-di.eu/fairmat> #link
+MaRDI: Mathematical Research Data Initiative; <https://www.mardi4nfdi.de/about/mission> #link
+MaRDI: Mathematical Research Data Initiative Proposal on Zenodo; <https://zenodo.org/record/6552436> #link
+NFDI4DataScience: NFDI for Data Science and Artificial Intelligence; <https://www.nfdi4datascience.de/> #link
+NFDI4Earth: NFDI Consortium Earth System Sciences; <https://www.nfdi4earth.de/> #link
+NFDI4Microbiota: NFDI for Microbiota Research; <https://nfdi4microbiota.de/> #link
+NFDI-MatWerk: National Research Data Infrastructure for Materials Science and Materials Engineering; <https://nfdi-matwerk.de/> #link
+NFDI-MatWerk Infrastructure Use Cases; <https://nfdi-matwerk.de/infrastructure-use-cases> #link
+PUNCH4NFDI: Particles, Universe, NuClei and Hadrons for the NFDI; <https://www.punch4nfdi.de/> #link
+Text+: Language and text-based research data infrastructure; <https://www.text-plus.org/en/home/> #link
+
+01:54:27.000 Consortia - Third Round (starting March 2023) #chapter
+
+FAIRagro: FAIR Data Infrastructure for Agrosystems; <https://www.fairagro.net/index.php/en/> #link
+NFDI4BIOIMAGE: National research data infrastructure for microscopy and bioimage analysis; <https://nfdi4bioimage.de/en/start> #link
+NFDI4Energy: National Research Data Infrastructure for Interdisciplinary Energy System Research; <https://nfdi4energy.uol.de/> #link
+NFDI4Immuno: National Research Data Infrastructure for Immunology; <https://www.nfdi4immuno.de/> #link
+NFDI4Memory: The Consortium for the Historically Oriented Humanities; <https://4memory.de/> #link
+NFDI4Objects: Research Data Infrastructure for the Material Remains of Human History; <https://www.nfdi4objects.net/index.php/en/nfdi4objects-english> #link
+NFDIxCS: National Research Data Infrastructure for and with Computer Science; <https://nfdixcs.org/> #link
+
+02:01:42.000 oneNFDI - Challenges and Opportunities #chapter
+
+Base4NFDI; <https://base4nfdi.de/> #link
+#oneNFDI; <https://twitter.com/hashtag/onenfdi?lang=en&src=hash> #link
+
+02:09:41.500 Epilogue #chapter
