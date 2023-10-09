@@ -1,0 +1,39 @@
+header
+Podcast: Open Science Radio
+Episode: 209
+Episode Title: OSR209 How to use GitHub (and alternatives) for Open Science with Hannes Wünsche #OSCIBAR2023 [EN]
+Starttime: 21.09.2023 14:30:00
+Endtime: 21.01.2023 14:45:00
+Podcaster: Konrad Förstner
+Tags:  #chapter #section #spoiler #topic #embed
+Inclusion Tags: #glossary
+Webseite: <http://www.openscienceradio.org/>
+/header
+
+00:00:00.000 Introduction of Hannes Wünsche
+
+Barcamp Open Science Website; https://www.barcamp-open-science.eu/; #link
+Barcamp Open Science at Barcamps webstie; https://barcamps.eu/oscibar2023/ #link
+Hannes Wünsche on GitHub https://github.com/HannesWuensche; #link
+Robert Koch Institute https://www.rki.de/EN/; #link
+Robert Koch Institute Open Data https://github.com/RKIOpenData, #link
+
+00:00:31.000 How the RKI used GitHub during the COVID-19 Pandemic
+
+Zenodo https://zenodo.org/; #link
+Github Actions https://github.com/features/actions; #link
+
+00:02:47.000 Other applications
+
+Federal Ministry for health https://www.bundesgesundheitsministerium.de/en/; #link
+
+00:04:00.000 Annother Session regarding this topic: "An Exit Strategy for Github"
+
+GitLab https://gitlab.com; #link
+Julien Colomb at ORCID who suggested the second session https://orcid.org/0000-0002-3127-5520; #link
+Git remotes https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes; #link
+Open Code https://opencode.de/; #link
+Federal Ministry of the Interior and Community of Germany https://www.bmi.bund.de/EN/; #link
+National Research Data Infrastructure (NFDI) https://www.nfdi.de/?lang=en; #link
+GitLab instance of EUDAT https://gitlab.eudat.eu/; #link
+EUDAT https://eudat.eu/; #link
